@@ -16,7 +16,6 @@ permissions:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -40,7 +39,7 @@ jobs:
       
       - name: Create today.json
         run: |
-          python3 << 'PYTHON_EOF'
+          python3 << 'PYEOF'
           import json
           from datetime import datetime
           
@@ -52,11 +51,11 @@ jobs:
           
           with open('public/today.json', 'w', encoding='utf-8') as f:
               json.dump(today, f, ensure_ascii=False, indent=2)
-          PYTHON_EOF
+          PYEOF
       
       - name: Create index.html
         run: |
-          cat > public/index.html << 'HTML_EOF'
+          cat > public/index.html << 'ENDHTML'
           <!DOCTYPE html>
           <html lang="pl">
           <head>
@@ -65,16 +64,14 @@ jobs:
               <title>Kalbi Holidays API</title>
               <style>
                   body {
-                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
                       max-width: 900px;
                       margin: 0 auto;
                       padding: 40px 20px;
                       line-height: 1.6;
                       color: #333;
                   }
-                  h1 { color: #2c3e50; margin-bottom: 10px; }
-                  h2 { color: #34495e; margin-top: 40px; }
-                  .subtitle { color: #7f8c8d; margin-bottom: 40px; }
+                  h1 { color: #2c3e50; }
                   .endpoint {
                       background: #f8f9fa;
                       padding: 20px;
@@ -82,110 +79,46 @@ jobs:
                       border-radius: 8px;
                       border-left: 4px solid #3498db;
                   }
-                  .endpoint h3 { margin-top: 0; color: #2c3e50; }
-                  .endpoint code {
-                      background: #e8f4f8;
-                      padding: 4px 8px;
-                      border-radius: 4px;
-                      font-family: 'Courier New', monospace;
-                      color: #2980b9;
-                  }
-                  .endpoint a {
-                      color: #3498db;
-                      text-decoration: none;
-                      font-weight: 500;
-                  }
-                  .endpoint a:hover { text-decoration: underline; }
                   pre {
                       background: #2c3e50;
                       color: #ecf0f1;
                       padding: 20px;
                       border-radius: 8px;
                       overflow-x: auto;
-                      font-size: 14px;
-                      line-height: 1.5;
                   }
-                  .config-note {
-                      background: #fff3cd;
-                      border-left: 4px solid #ffc107;
-                      padding: 15px;
-                      margin: 20px 0;
-                      border-radius: 4px;
-                  }
-                  footer {
-                      margin-top: 60px;
-                      padding-top: 20px;
-                      border-top: 1px solid #ddd;
-                      color: #7f8c8d;
-                      text-align: center;
-                  }
-                  footer a { color: #3498db; }
               </style>
           </head>
           <body>
-              <h1>🎉 Kalbi Holidays API</h1>
-              <p class="subtitle">API dla nietypowych świąt - aktualizowane codziennie o 2:00 UTC</p>
+              <h1>Kalbi Holidays API</h1>
+              <p>API dla nietypowych swiat - aktualizowane codziennie o 2:00 UTC</p>
               
-              <h2>📡 Dostępne endpointy</h2>
+              <h2>Dostepne endpointy</h2>
               
               <div class="endpoint">
-                  <h3>📅 Dzisiejsze święto</h3>
+                  <h3>Dzisiejsze swието</h3>
                   <p><code>GET /today.json</code></p>
-                  <p>Zwraca święto obchodzone dzisiaj (lub pustą tablicę jeśli brak)</p>
-                  <p><a href="today.json" target="_blank">→ Zobacz dzisiejsze święto</a></p>
+                  <p><a href="today.json">Zobacz dzisiejsze swiento</a></p>
               </div>
               
               <div class="endpoint">
-                  <h3>📋 Wszystkie święta</h3>
+                  <h3>Wszystkie swieta</h3>
                   <p><code>GET /holidays.json</code></p>
-                  <p>Zwraca pełną listę wszystkich nietypowych świąt w roku</p>
-                  <p><a href="holidays.json" target="_blank">→ Zobacz wszystkie święta</a></p>
+                  <p><a href="holidays.json">Zobacz wszystkie swieta</a></p>
               </div>
               
-              <h2>🏠 Integracja z Home Assistant</h2>
-              
-              <div class="config-note">
-                  <strong>📝 Instrukcja:</strong> Dodaj poniższą konfigurację do pliku <code>configuration.yaml</code>
-              </div>
-              
-              <pre>sensor:
+              <h2>Home Assistant</h2>
+              <pre>
+sensor:
   - platform: rest
-    name: Dzisiejsze Święto
+    name: Dzisiejsze Swiento
     resource: https://jeakob.github.io/kalbi-holidays/today.json
-    method: GET
-    value_template: >
-      {% if value_json[0].name is defined %}
-        {{ value_json[0].name }}
-      {% else %}
-        Brak nietypowego święta
-      {% endif %}
-    json_attributes_path: $[0]
-    json_attributes:
-      - description
-      - link
-      - day
-      - month
-      - name
-    scan_interval: 43200</pre>
+    scan_interval: 43200
+              </pre>
               
-              <h2>📊 Format danych</h2>
-              
-              <p>Każde święto zawiera następujące pola:</p>
-              <pre>{
-  "name": "Światowy Dzień Pizzy",
-  "description": "Opis święta...",
-  "link": "https://...",
-  "day": 9,
-  "month": 2
-}</pre>
-              
-              <footer>
-                  <p>Dane pochodzą z <a href="https://www.calendarr.com/polska/kalendarz-swiat-nietypowych/" target="_blank">Calendarr.com</a></p>
-                  <p>Kod źródłowy: <a href="https://github.com/jeakob/kalbi-holidays" target="_blank">GitHub</a></p>
-              </footer>
+              <p><a href="https://github.com/jeakob/kalbi-holidays">GitHub</a></p>
           </body>
           </html>
-          HTML_EOF
+          ENDHTML
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
