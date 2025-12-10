@@ -10,16 +10,22 @@ The data updates automatically every day at 2 AM UTC, so you're always getting f
 
 ## Live API
 
-The API is hosted on GitHub Pages (because why pay for hosting):
+The API is hosted on GitHub Pages:
 
+**Polish:**
 - **Today's holiday**: https://jeakob.github.io/kalbi-holidays/today.json
 - **All holidays**: https://jeakob.github.io/kalbi-holidays/holidays.json
-- **Docs**: https://jeakob.github.io/kalbi-holidays/
+
+**English:**
+- **Today's holiday**: https://jeakob.github.io/kalbi-holidays/today-english.json
+
+**Docs**: https://jeakob.github.io/kalbi-holidays/
 
 ## Using with Home Assistant
 
 If you want to display today's unusual holiday in Home Assistant, just add this to your `configuration.yaml`:
 
+**Polish version:**
 ```yaml
 sensor:
   - platform: rest
@@ -42,15 +48,39 @@ sensor:
     scan_interval: 43200
 ```
 
+**English version:**
+```yaml
+sensor:
+  - platform: rest
+    name: Today's Holiday
+    resource: https://jeakob.github.io/kalbi-holidays/today-english.json
+    method: GET
+    value_template: >
+      {% if value_json[0].name is defined %}
+        {{ value_json[0].name }}
+      {% else %}
+        No unusual holiday today
+      {% endif %}
+    json_attributes_path: $[0]
+    json_attributes:
+      - description
+      - link
+      - day
+      - month
+      - name
+    scan_interval: 43200
+```
+
 Then restart Home Assistant and you'll have a sensor that shows today's holiday.
 
 ## How it works
 
 1. A GitHub Action runs daily (or when manually triggered)
 2. The `kalbi.py` script scrapes holiday data from the web
-3. The data gets saved as JSON files
-4. Everything deploys to GitHub Pages automatically
-5. You get a free, auto-updating API
+3. Today's holiday gets auto-translated to English using Google Translate
+4. The data gets saved as JSON files
+5. Everything deploys to GitHub Pages automatically
+6. You get a free, auto-updating API
 
 Pretty straightforward.
 
@@ -84,12 +114,8 @@ python kalbi.py
 
 ## Credits
 
-- Data scraped from [Calendarr.com](https://www.calendarr.com/polska/kalendarz-swiat-nietypowych/)
+- Data scraped from [www.kalbi.pl](https://www.kalbi.pl/kalendarz-swiat-nietypowych))
 - Original scraper concept from [piotrek77/kalbi](https://github.com/piotrek77/kalbi)
-
-## License
-
-Do whatever you want with this. It's just a scraper and some JSON files.
 
 ---
 
