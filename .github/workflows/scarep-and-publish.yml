@@ -28,6 +28,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 deep-translator
       
+      - name: Verify kalbi.py
+        run: |
+          echo "Checking kalbi.py syntax..."
+          python3 -m py_compile kalbi.py || echo "Syntax error detected, file may be corrupted"
+          wc -l kalbi.py
+          tail -20 kalbi.py
+      
       - name: Run scraper
         run: python kalbi.py
       
@@ -76,7 +83,7 @@ jobs:
               try:
                   translated = {
                       'name': translator.translate(holiday['name']),
-                      'description': translator.translate(holiday['description']),
+                      'description': translator.translate(holiday['description']) if holiday['description'] else '',
                       'link': holiday['link'],
                       'day': holiday['day'],
                       'month': holiday['month']
@@ -89,7 +96,23 @@ jobs:
           # Save today-english.json
           with open('public/today-english.json', 'w', encoding='utf-8') as f:
               json.dump(today_en, f, ensure_ascii=False, indent=2)
+          
+          # Save holiday names for commit message
+          if today_en:
+              names = [h['name'] for h in today_en]
+              with open('/tmp/holiday_names.txt', 'w', encoding='utf-8') as f:
+                  f.write(', '.join(names))
           "
+      
+      - name: Set commit message
+        id: commit_msg
+        run: |
+          if [ -f /tmp/holiday_names.txt ]; then
+            NAMES=$(cat /tmp/holiday_names.txt)
+            echo "message=Update holidays data - Today: $NAMES" >> $GITHUB_OUTPUT
+          else
+            echo "message=Update holidays data - No holidays today" >> $GITHUB_OUTPUT
+          fi
 
       
       - name: Create HTML page
@@ -143,3 +166,12 @@ jobs:
       
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
+      
+      - name: Display today's holidays
+        run: |
+          echo "=== Today's Holidays ==="
+          if [ -f /tmp/holiday_names.txt ]; then
+            cat /tmp/holiday_names.txt
+          else
+            echo "No holidays today"
+          fi
