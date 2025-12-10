@@ -26,7 +26,7 @@ jobs:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 deep-translator
       
       - name: Run scraper
         run: python kalbi.py
@@ -53,6 +53,50 @@ jobs:
               json.dump(today, f, ensure_ascii=False, indent=2)
           "
       
+      - name: Translate to English
+        run: |
+          python3 -c "
+          import json
+          from deep_translator import GoogleTranslator
+          import time
+          
+          translator = GoogleTranslator(source='pl', target='en')
+          
+          # Load Polish data
+          with open('nietypowe_swieta.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+          
+          # Translate all holidays
+          translated_data = []
+          for holiday in data:
+              try:
+                  translated = {
+                      'name': translator.translate(holiday['name']),
+                      'description': translator.translate(holiday['description']),
+                      'link': holiday['link'],
+                      'day': holiday['day'],
+                      'month': holiday['month']
+                  }
+                  translated_data.append(translated)
+                  time.sleep(0.5)  # Rate limiting
+              except Exception as e:
+                  print(f'Error translating: {e}')
+                  translated_data.append(holiday)  # Keep original if translation fails
+          
+          # Save English version
+          with open('public/holidays-english.json', 'w', encoding='utf-8') as f:
+              json.dump(translated_data, f, ensure_ascii=False, indent=2)
+          
+          # Create today-english.json
+          from datetime import datetime
+          now = datetime.now()
+          today_en = [h for h in translated_data if h['day'] == now.day and h['month'] == now.month]
+          
+          with open('public/today-english.json', 'w', encoding='utf-8') as f:
+              json.dump(today_en, f, ensure_ascii=False, indent=2)
+          "
+
+      
       - name: Create HTML page
         run: |
           cat > public/index.html <<'EOF'
@@ -65,16 +109,32 @@ jobs:
           <body>
               <h1>Kalbi Holidays API</h1>
               <p>Endpoints:</p>
+              <h3>Polish (Polski)</h3>
               <ul>
                   <li><a href="today.json">today.json</a> - Dzisiejsze swiento</li>
                   <li><a href="holidays.json">holidays.json</a> - Wszystkie swienta</li>
               </ul>
+              <h3>English</h3>
+              <ul>
+                  <li><a href="today-english.json">today-english.json</a> - Today's holiday</li>
+                  <li><a href="holidays-english.json">holidays-english.json</a> - All holidays</li>
+              </ul>
               <h2>Home Assistant Config</h2>
+              <h3>Polish Version</h3>
               <pre>
           sensor:
             - platform: rest
               name: Dzisiejsze Swiento
               resource: https://jeakob.github.io/kalbi-holidays/today.json
+              method: GET
+              scan_interval: 43200
+              </pre>
+              <h3>English Version</h3>
+              <pre>
+          sensor:
+            - platform: rest
+              name: Today's Holiday
+              resource: https://jeakob.github.io/kalbi-holidays/today-english.json
               method: GET
               scan_interval: 43200
               </pre>
