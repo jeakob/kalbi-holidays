@@ -56,7 +56,31 @@ def scrape_holidays():
                         
                         if any(month in name.lower() for month in months_pl):
                             continue
-                        if re.match(r'^\d+$', name):
+                        if re.match(r'^\d+                
+                except Exception as e:
+                    print(f"Error parsing item: {e}")
+                    continue
+            
+            print(f"  Found {len([h for h in holidays if h['month'] == month_num])} holidays for {month_name}")
+            
+        except Exception as e:
+            print(f"Error scraping {month_name}: {e}")
+            continue
+    
+    return holidays
+
+if __name__ == '__main__':
+    print("Scraping holidays from kalbi.pl...")
+    holidays = scrape_holidays()
+    
+    holidays.sort(key=lambda x: (x['month'], x['day']))
+    
+    with open('nietypowe_swieta.json', 'w', encoding='utf-8') as f:
+        json.dump(holidays, f, ensure_ascii=False, indent=2)
+    
+    print(f"\nScraped {len(holidays)} unique holidays")
+    print("Saved to nietypowe_swieta.json")
+, name):
                             continue
                         
                         href = holiday_link.get('href', '')
@@ -65,12 +89,31 @@ def scrape_holidays():
                         else:
                             link = href
                         
+                        # Find description - it's the text node after the h3
                         description = ""
-                        next_elem = h3.find_next_sibling()
-                        if next_elem and next_elem.name == 'p':
-                            description = next_elem.get_text(strip=True)
-                        elif next_elem:
-                            description = next_elem.get_text(strip=True) if hasattr(next_elem, 'get_text') else str(next_elem).strip()
+                        
+                        # Look for text directly after h3 or in next elements
+                        current = h3
+                        while current:
+                            current = current.next_sibling
+                            if current is None:
+                                break
+                            
+                            # Skip whitespace-only text nodes
+                            if isinstance(current, str):
+                                text = current.strip()
+                                if text and len(text) > 20:  # Real description, not just whitespace
+                                    description = text
+                                    break
+                            # If we hit another h3, stop looking
+                            elif hasattr(current, 'name') and current.name == 'h3':
+                                break
+                            # Check if it's a paragraph or div with text
+                            elif hasattr(current, 'get_text'):
+                                text = current.get_text(strip=True)
+                                if text and len(text) > 20:
+                                    description = text
+                                    break
                         
                         unique_key = (name, day, month_num)
                         
