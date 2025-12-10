@@ -2,67 +2,76 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# Mapa miesięcy po polsku
-months = {
-    'styczeń': 1, 'luty': 2, 'marzec': 3, 'kwiecień': 4,
-    'maj': 5, 'czerwiec': 6, 'lipiec': 7, 'sierpień': 8,
-    'wrzesień': 9, 'październik': 10, 'listopad': 11, 'grudzień': 12
-}
-
-# Lista na dane
-holidays = []
-
-# Iteracja po wszystkich miesiącach (od stycznia do grudnia)
-for month_name, month_num in months.items():
-    # Generowanie URL dla danego miesiąca
-    url = f"https://www.kalbi.pl/kalendarz-swiat-nietypowych-{month_name.lower()}"
+def scrape_holidays():
+    url = "https://www.calendarr.com/polska/kalendarz-swiat-nietypowych/"
     
-    # Wysyłanie żądania GET
     response = requests.get(url)
-
-    # Sprawdzenie statusu odpowiedzi
-    if response.status_code == 200:
-        # Parsowanie HTML za pomocą BeautifulSoup
-        soup = BeautifulSoup(response.content, "html.parser")
-        
-        # Znalezienie wszystkich artykułów z nietypowymi dniami
-        articles = soup.find_all('article', class_='unusual-day')
-        
-        for article in articles:
-            # Parsowanie daty
-            date_text = article.find('time').text.strip().split("\n")
-            month = months[date_text[0].lower()]  # Miesiąc (np. styczeń -> 1)
-            day = int(date_text[1].strip())  # Dzień (np. 3)
+    response.encoding = 'utf-8'
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    holidays = []
+    seen = set()  # Track unique holidays
+    
+    # Find all holiday entries
+    for item in soup.find_all('div', class_='holiday-item'):
+        try:
+            # Extract data
+            name_elem = item.find('h3')
+            desc_elem = item.find('p')
+            link_elem = item.find('a')
+            date_elem = item.find('span', class_='date')
             
-            # Znajdowanie wszystkich świąt w danym dniu
-            descriptions = article.find_all('div', class_='description-of-holiday')
-            
-            for description in descriptions:
-                # Nazwa święta
-                name = description.find('h3').text.strip()
-                # Link do szczegółowego opisu
-                link = description.find('a')['href']
+            if name_elem and desc_elem:
+                name = name_elem.get_text(strip=True)
+                description = desc_elem.get_text(strip=True)
+                link = link_elem['href'] if link_elem else ""
                 
-                # Sprawdzanie, czy jest element <p> z opisem
-                holiday_info = description.find('p')
-                if holiday_info:
-                    holiday_info = holiday_info.text.strip()
-                else:
-                    holiday_info = "Brak opisu"
-                
-                # Dodajemy święto do listy
-                holidays.append({
-                    "day": day,
-                    "month": month,
-                    "name": name,
-                    "link": link,
-                    "description": holiday_info
-                })
-    else:
-        print(f"Nie udało się pobrać strony: {url}. Kod odpowiedzi: {response.status_code}")
+                # Parse date
+                if date_elem:
+                    date_text = date_elem.get_text(strip=True)
+                    # Parse day and month from date_text
+                    # Format is usually "10 grudnia" or similar
+                    parts = date_text.split()
+                    if len(parts) >= 2:
+                        day = int(parts[0])
+                        month_name = parts[1].lower()
+                        
+                        # Polish month names to numbers
+                        months = {
+                            'stycznia': 1, 'lutego': 2, 'marca': 3, 'kwietnia': 4,
+                            'maja': 5, 'czerwca': 6, 'lipca': 7, 'sierpnia': 8,
+                            'września': 9, 'października': 10, 'listopada': 11, 'grudnia': 12
+                        }
+                        month = months.get(month_name, 1)
+                        
+                        # Create unique key
+                        unique_key = (name, day, month)
+                        
+                        # Only add if not seen before
+                        if unique_key not in seen:
+                            seen.add(unique_key)
+                            holidays.append({
+                                'day': day,
+                                'month': month,
+                                'name': name,
+                                'link': link,
+                                'description': description
+                            })
+        except Exception as e:
+            print(f"Error parsing item: {e}")
+            continue
+    
+    return holidays
 
-# Zapisanie do pliku JSON
-with open("nietypowe_swieta.json", "w", encoding="utf-8") as file:
-    json.dump(holidays, file, ensure_ascii=False, indent=4)
-
-print("Dane zapisane do nietypowe_swieta.json")
+if __name__ == '__main__':
+    print("Scraping holidays...")
+    holidays = scrape_holidays()
+    
+    # Sort by month and day
+    holidays.sort(key=lambda x: (x['month'], x['day']))
+    
+    # Save to JSON
+    with open('nietypowe_swieta.json', 'w', encoding='utf-8') as f:
+        json.dump(holidays, f, ensure_ascii=False, indent=2)
+    
+    print(f"Scraped {len(holidays)} unique holidays")
