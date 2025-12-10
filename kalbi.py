@@ -4,8 +4,6 @@ import json
 import re
 
 def scrape_holidays():
-    """Scrape holidays from kalbi.pl"""
-    
     holidays = []
     seen = set()
     
@@ -56,31 +54,7 @@ def scrape_holidays():
                         
                         if any(month in name.lower() for month in months_pl):
                             continue
-                        if re.match(r'^\d+                
-                except Exception as e:
-                    print(f"Error parsing item: {e}")
-                    continue
-            
-            print(f"  Found {len([h for h in holidays if h['month'] == month_num])} holidays for {month_name}")
-            
-        except Exception as e:
-            print(f"Error scraping {month_name}: {e}")
-            continue
-    
-    return holidays
-
-if __name__ == '__main__':
-    print("Scraping holidays from kalbi.pl...")
-    holidays = scrape_holidays()
-    
-    holidays.sort(key=lambda x: (x['month'], x['day']))
-    
-    with open('nietypowe_swieta.json', 'w', encoding='utf-8') as f:
-        json.dump(holidays, f, ensure_ascii=False, indent=2)
-    
-    print(f"\nScraped {len(holidays)} unique holidays")
-    print("Saved to nietypowe_swieta.json")
-, name):
+                        if re.match(r'^\d+$', name):
                             continue
                         
                         href = holiday_link.get('href', '')
@@ -89,26 +63,20 @@ if __name__ == '__main__':
                         else:
                             link = href
                         
-                        # Find description - it's the text node after the h3
                         description = ""
-                        
-                        # Look for text directly after h3 or in next elements
                         current = h3
                         while current:
                             current = current.next_sibling
                             if current is None:
                                 break
                             
-                            # Skip whitespace-only text nodes
                             if isinstance(current, str):
                                 text = current.strip()
-                                if text and len(text) > 20:  # Real description, not just whitespace
+                                if text and len(text) > 20:
                                     description = text
                                     break
-                            # If we hit another h3, stop looking
                             elif hasattr(current, 'name') and current.name == 'h3':
                                 break
-                            # Check if it's a paragraph or div with text
                             elif hasattr(current, 'get_text'):
                                 text = current.get_text(strip=True)
                                 if text and len(text) > 20:
@@ -131,7 +99,8 @@ if __name__ == '__main__':
                     print(f"Error parsing item: {e}")
                     continue
             
-            print(f"  Found {len([h for h in holidays if h['month'] == month_num])} holidays for {month_name}")
+            count = len([h for h in holidays if h['month'] == month_num])
+            print(f"  Found {count} holidays")
             
         except Exception as e:
             print(f"Error scraping {month_name}: {e}")
