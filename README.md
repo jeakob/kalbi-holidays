@@ -8,6 +8,8 @@ Ever wanted to know it's "International Talk Like a Pirate Day" or "National Piz
 
 The data updates automatically every day at 2 AM UTC, so you're always getting fresh info.
 
+## See holidays today [here](today.md)
+
 ## Live API
 
 The API is hosted on GitHub Pages:
