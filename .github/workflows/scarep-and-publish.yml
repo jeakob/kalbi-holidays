@@ -55,7 +55,7 @@ jobs:
           EOF
           
           # Create index with API documentation
-          cat > public/index.html << 'EOF'
+          cat > public/index.html << 'HTMLEOF'
           <!DOCTYPE html>
           <html lang="pl">
           <head>
@@ -90,32 +90,29 @@ jobs:
               </div>
               
               <h2>Integracja z Home Assistant:</h2>
-              <pre><code>- platform: rest
-  name: "Dzisiejsze Święto"
-  resource: https://jeakob.github.io/kalbi-holidays/today.json
-  method: GET
-  headers:
-    Accept: application/json
-  value_template: &gt;
-    {%% if value_json[0].name is defined %%}
-      {{ value_json[0].name }}
-    {%% else %%}
-      Brak nietypowego święta
-    {%% endif %%}
-  json_attributes_path: "$[0]"
-  json_attributes:
-    - description
-    - link
-    - day
-    - month
-    - name
-  scan_interval: 43200</code></pre>
+              <p>Skopiuj poniższą konfigurację do swojego configuration.yaml:</p>
+              <pre style="background: #f9f9f9; padding: 15px; overflow-x: auto;">
+sensor:
+  - platform: rest
+    name: Dzisiejsze Święto
+    resource: https://jeakob.github.io/kalbi-holidays/today.json
+    method: GET
+    value_template: {% raw %}'{% if value_json[0].name is defined %}{{ value_json[0].name }}{% else %}Brak nietypowego święta{% endif %}'{% endraw %}
+    json_attributes_path: $[0]
+    json_attributes:
+      - description
+      - link
+      - day
+      - month
+      - name
+    scan_interval: 43200
+              </pre>
               
               <hr>
               <p>Źródło: <a href="https://github.com/jeakob/kalbi-holidays">GitHub</a></p>
           </body>
           </html>
-          EOF
+          HTMLEOF
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
