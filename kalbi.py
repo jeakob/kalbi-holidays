@@ -54,7 +54,32 @@ def scrape_holidays():
                         
                         if any(month in name.lower() for month in months_pl):
                             continue
-                        if re.match(r'^\d+$', name):
+                        if re.match(r'^\d+                
+                except Exception as e:
+                    print(f"Error parsing item: {e}")
+                    continue
+            
+            count = len([h for h in holidays if h['month'] == month_num])
+            print(f"  Found {count} holidays")
+            
+        except Exception as e:
+            print(f"Error scraping {month_name}: {e}")
+            continue
+    
+    return holidays
+
+if __name__ == '__main__':
+    print("Scraping holidays from kalbi.pl...")
+    holidays = scrape_holidays()
+    
+    holidays.sort(key=lambda x: (x['month'], x['day']))
+    
+    with open('nietypowe_swieta.json', 'w', encoding='utf-8') as f:
+        json.dump(holidays, f, ensure_ascii=False, indent=2)
+    
+    print(f"\nScraped {len(holidays)} unique holidays")
+    print("Saved to nietypowe_swieta.json")
+, name):
                             continue
                         
                         href = holiday_link.get('href', '')
@@ -63,25 +88,26 @@ def scrape_holidays():
                         else:
                             link = href
                         
+                        # Find description - get all text after h3 until next h3 or end
                         description = ""
-                        current = h3
-                        while current:
-                            current = current.next_sibling
-                            if current is None:
+                        
+                        # Get all siblings after h3
+                        for sibling in h3.next_siblings:
+                            # Stop if we hit another h3
+                            if hasattr(sibling, 'name') and sibling.name == 'h3':
                                 break
                             
-                            if isinstance(current, str):
-                                text = current.strip()
-                                if text and len(text) > 20:
-                                    description = text
-                                    break
-                            elif hasattr(current, 'name') and current.name == 'h3':
-                                break
-                            elif hasattr(current, 'get_text'):
-                                text = current.get_text(strip=True)
-                                if text and len(text) > 20:
-                                    description = text
-                                    break
+                            # Get text from this sibling
+                            if isinstance(sibling, str):
+                                text = sibling.strip()
+                                if text:
+                                    description += text + " "
+                            elif hasattr(sibling, 'get_text'):
+                                text = sibling.get_text(strip=True)
+                                if text:
+                                    description += text + " "
+                        
+                        description = description.strip()
                         
                         unique_key = (name, day, month_num)
                         
