@@ -1,0 +1,126 @@
+name: Scrape and Publish Holidays
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Daily at 2 AM UTC
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches:
+      - main  # Run on push to test
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      
+      - name: Run scraper
+        run: python kalbi.py
+      
+      - name: Create API endpoints
+        run: |
+          mkdir -p public
+          
+          # All holidays
+          cp nietypowe_swieta.json public/holidays.json
+          
+          # Today's holiday
+          python3 << 'EOF'
+          import json
+          from datetime import datetime
+          
+          with open('nietypowe_swieta.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+          
+          now = datetime.now()
+          today = [h for h in data if h['day'] == now.day and h['month'] == now.month]
+          
+          with open('public/today.json', 'w', encoding='utf-8') as f:
+              json.dump(today, f, ensure_ascii=False, indent=2)
+          EOF
+          
+          # Create index with API documentation
+          cat > public/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="pl">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Kalbi Holidays API</title>
+              <style>
+                  body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+                  h1 { color: #333; }
+                  .endpoint { background: #f4f4f4; padding: 15px; margin: 10px 0; border-radius: 5px; }
+                  code { background: #e0e0e0; padding: 2px 6px; border-radius: 3px; }
+                  a { color: #0066cc; text-decoration: none; }
+                  a:hover { text-decoration: underline; }
+              </style>
+          </head>
+          <body>
+              <h1>🎉 Kalbi Holidays API</h1>
+              <p>API dla nietypowych świąt - aktualizowane codziennie o 2:00 UTC</p>
+              
+              <h2>Dostępne endpointy:</h2>
+              
+              <div class="endpoint">
+                  <h3>📅 Dzisiejsze święto</h3>
+                  <p><code>GET /today.json</code></p>
+                  <p><a href="today.json" target="_blank">Otwórz w nowej karcie</a></p>
+              </div>
+              
+              <div class="endpoint">
+                  <h3>📋 Wszystkie święta</h3>
+                  <p><code>GET /holidays.json</code></p>
+                  <p><a href="holidays.json" target="_blank">Otwórz w nowej karcie</a></p>
+              </div>
+              
+              <h2>Integracja z Home Assistant:</h2>
+              <pre><code>- platform: rest
+  name: "Dzisiejsze Święto"
+  resource: https://jeakob.github.io/kalbi-holidays/today.json
+  method: GET
+  headers:
+    Accept: application/json
+  value_template: >
+    {% if value_json[0].name is defined %}
+      {{ value_json[0].name }}
+    {% else %}
+      Brak nietypowego święta
+    {% endif %}
+  json_attributes_path: "$[0]"
+  json_attributes:
+    - description
+    - link
+    - day
+    - month
+    - name
+  scan_interval: 43200</code></pre>
+              
+              <hr>
+              <p>Źródło: <a href="https://github.com/jeakob/kalbi-holidays">GitHub</a></p>
+          </body>
+          </html>
+          EOF
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'public'
+      
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
