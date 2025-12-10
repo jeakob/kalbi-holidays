@@ -3,68 +3,94 @@ from bs4 import BeautifulSoup
 import json
 
 def scrape_holidays():
-    url = "https://www.calendarr.com/polska/kalendarz-swiat-nietypowych/"
-    
-    response = requests.get(url)
-    response.encoding = 'utf-8'
-    soup = BeautifulSoup(response.text, 'html.parser')
+    """Scrape holidays from kalbi.pl"""
     
     holidays = []
     seen = set()  # Track unique holidays
     
-    # Find all holiday entries
-    for item in soup.find_all('div', class_='holiday-item'):
+    # Month names in Polish
+    months_pl = [
+        'styczen', 'luty', 'marzec', 'kwiecien', 'maj', 'czerwiec',
+        'lipiec', 'sierpien', 'wrzesien', 'pazdziernik', 'listopad', 'grudzien'
+    ]
+    
+    # Scrape each month's page
+    for month_num, month_name in enumerate(months_pl, 1):
+        url = f"https://www.kalbi.pl/kalendarz-swiat-nietypowych-{month_name}"
+        
         try:
-            # Extract data
-            name_elem = item.find('h3')
-            desc_elem = item.find('p')
-            link_elem = item.find('a')
-            date_elem = item.find('span', class_='date')
+            print(f"Scraping {month_name}...")
+            response = requests.get(url, timeout=10)
+            response.encoding = 'utf-8'
+            soup = BeautifulSoup(response.text, 'html.parser')
             
-            if name_elem and desc_elem:
-                name = name_elem.get_text(strip=True)
-                description = desc_elem.get_text(strip=True)
-                link = link_elem['href'] if link_elem else ""
+            # Find all holiday items - adjust selectors based on actual HTML structure
+            # This is a generic approach that should work with most structures
+            holiday_items = soup.find_all(['article', 'div'], class_=lambda x: x and ('holiday' in x.lower() or 'day' in x.lower() or 'event' in x.lower()))
+            
+            for item in holiday_items:
+                try:
+                    # Try to find title/name
+                    title = item.find(['h2', 'h3', 'h4', 'a'])
+                    if not title:
+                        continue
+                    
+                    name = title.get_text(strip=True)
+                    
+                    # Skip if empty or too short
+                    if not name or len(name) < 3:
+                        continue
+                    
+                    # Try to find description
+                    desc_elem = item.find('p')
+                    description = desc_elem.get_text(strip=True) if desc_elem else ""
+                    
+                    # Try to find link
+                    link_elem = item.find('a', href=True)
+                    link = f"https://www.kalbi.pl{link_elem['href']}" if link_elem and link_elem['href'].startswith('/') else (link_elem['href'] if link_elem else "")
+                    
+                    # Try to extract day from various possible formats
+                    day = None
+                    day_elem = item.find(text=lambda t: t and any(char.isdigit() for char in str(t)))
+                    if day_elem:
+                        import re
+                        numbers = re.findall(r'\d+', str(day_elem))
+                        if numbers:
+                            day = int(numbers[0])
+                            # Validate day is reasonable (1-31)
+                            if day < 1 or day > 31:
+                                day = None
+                    
+                    # If we couldn't extract day, skip this item
+                    if not day:
+                        continue
+                    
+                    # Create unique key
+                    unique_key = (name, day, month_num)
+                    
+                    # Only add if not seen before
+                    if unique_key not in seen:
+                        seen.add(unique_key)
+                        holidays.append({
+                            'day': day,
+                            'month': month_num,
+                            'name': name,
+                            'link': link,
+                            'description': description
+                        })
                 
-                # Parse date
-                if date_elem:
-                    date_text = date_elem.get_text(strip=True)
-                    # Parse day and month from date_text
-                    # Format is usually "10 grudnia" or similar
-                    parts = date_text.split()
-                    if len(parts) >= 2:
-                        day = int(parts[0])
-                        month_name = parts[1].lower()
-                        
-                        # Polish month names to numbers
-                        months = {
-                            'stycznia': 1, 'lutego': 2, 'marca': 3, 'kwietnia': 4,
-                            'maja': 5, 'czerwca': 6, 'lipca': 7, 'sierpnia': 8,
-                            'września': 9, 'października': 10, 'listopada': 11, 'grudnia': 12
-                        }
-                        month = months.get(month_name, 1)
-                        
-                        # Create unique key
-                        unique_key = (name, day, month)
-                        
-                        # Only add if not seen before
-                        if unique_key not in seen:
-                            seen.add(unique_key)
-                            holidays.append({
-                                'day': day,
-                                'month': month,
-                                'name': name,
-                                'link': link,
-                                'description': description
-                            })
+                except Exception as e:
+                    print(f"Error parsing item: {e}")
+                    continue
+            
         except Exception as e:
-            print(f"Error parsing item: {e}")
+            print(f"Error scraping {month_name}: {e}")
             continue
     
     return holidays
 
 if __name__ == '__main__':
-    print("Scraping holidays...")
+    print("Scraping holidays from kalbi.pl...")
     holidays = scrape_holidays()
     
     # Sort by month and day
@@ -74,4 +100,5 @@ if __name__ == '__main__':
     with open('nietypowe_swieta.json', 'w', encoding='utf-8') as f:
         json.dump(holidays, f, ensure_ascii=False, indent=2)
     
-    print(f"Scraped {len(holidays)} unique holidays")
+    print(f"✓ Scraped {len(holidays)} unique holidays")
+    print(f"Saved to nietypowe_swieta.json")
