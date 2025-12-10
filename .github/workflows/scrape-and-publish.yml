@@ -175,3 +175,126 @@ jobs:
           else
             echo "No holidays today"
           fi
+      
+      - name: Create TODAY.md with today's holidays
+        run: |
+          python3 << 'PYEOF'
+          import json
+          from datetime import datetime
+          
+          # Load today's holidays (English)
+          try:
+              with open('public/today-english.json', 'r', encoding='utf-8') as f:
+                  today_en = json.load(f)
+          except:
+              today_en = []
+          
+          # Generate TODAY.md content
+          today_date = datetime.now().strftime('%B %d, %Y')
+          
+          content = f"# 🎉 Today's Unusual Holidays\n\n"
+          content += f"**{today_date}**\n\n"
+          
+          if today_en:
+              for holiday in today_en:
+                  content += f"## {holiday['name']}\n\n"
+                  if holiday['description']:
+                      content += f"{holiday['description']}\n\n"
+                  content += f"[Learn more]({holiday['link']})\n\n"
+                  content += "---\n\n"
+          else:
+              content += "No unusual holidays today.\n\n"
+          
+          content += f"\n*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*\n"
+          
+          # Write TODAY.md
+          with open('TODAY.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          
+          print(f"Created TODAY.md with {len(today_en)} holidays")
+          PYEOF
+      
+      - name: Commit TODAY.md
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add TODAY.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update TODAY.md with today's holidays"
+            git push
+          fi
+      
+      - name: Update README with today's holidays
+        run: |
+          python3 << 'PYEOF'
+          import json
+          from datetime import datetime
+          import re
+          
+          # Load today's holidays (English)
+          try:
+              with open('public/today-english.json', 'r', encoding='utf-8') as f:
+                  today_en = json.load(f)
+          except:
+              today_en = []
+          
+          # Generate the section content
+          today_date = datetime.now().strftime('%B %d, %Y')
+          
+          if today_en:
+              section = f"## 🎉 Today's Unusual Holidays ({today_date})\n\n"
+              for holiday in today_en:
+                  section += f"### {holiday['name']}\n\n"
+                  if holiday['description']:
+                      section += f"{holiday['description']}\n\n"
+                  section += f"[Learn more]({holiday['link']})\n\n"
+                  section += "---\n\n"
+          else:
+              section = f"## 🎉 Today's Unusual Holidays ({today_date})\n\nNo unusual holidays today.\n\n"
+          
+          # Read current README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              readme = f.read()
+          
+          # Find and replace the section between markers
+          start_marker = "<!-- TODAY_HOLIDAYS_START -->"
+          end_marker = "<!-- TODAY_HOLIDAYS_END -->"
+          
+          if start_marker in readme and end_marker in readme:
+              # Replace existing section
+              pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
+              new_content = f"{start_marker}\n{section}{end_marker}"
+              readme = re.sub(pattern, new_content, readme, flags=re.DOTALL)
+          else:
+              # Add section at the top after title
+              lines = readme.split('\n')
+              # Find first non-title line (skip # Kalbi Holidays)
+              insert_pos = 1
+              for i, line in enumerate(lines):
+                  if i > 0 and not line.startswith('#'):
+                      insert_pos = i
+                      break
+              
+              lines.insert(insert_pos, f"\n{start_marker}\n{section}{end_marker}\n")
+              readme = '\n'.join(lines)
+          
+          # Write updated README
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(readme)
+          
+          print("README updated with today's holidays")
+          PYEOF
+      
+      - name: Commit README changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update README with today's holidays"
+            git push
+          fi
