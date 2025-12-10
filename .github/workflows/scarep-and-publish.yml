@@ -58,7 +58,7 @@ jobs:
           python3 -c "
           import json
           from deep_translator import GoogleTranslator
-          import time
+          from datetime import datetime
           
           translator = GoogleTranslator(source='pl', target='en')
           
@@ -66,9 +66,13 @@ jobs:
           with open('nietypowe_swieta.json', 'r', encoding='utf-8') as f:
               data = json.load(f)
           
-          # Translate all holidays
-          translated_data = []
-          for holiday in data:
+          # Get today's holiday
+          now = datetime.now()
+          today = [h for h in data if h['day'] == now.day and h['month'] == now.month]
+          
+          # Translate only today's holiday
+          today_en = []
+          for holiday in today:
               try:
                   translated = {
                       'name': translator.translate(holiday['name']),
@@ -77,21 +81,12 @@ jobs:
                       'day': holiday['day'],
                       'month': holiday['month']
                   }
-                  translated_data.append(translated)
-                  time.sleep(0.5)  # Rate limiting
+                  today_en.append(translated)
               except Exception as e:
                   print(f'Error translating: {e}')
-                  translated_data.append(holiday)  # Keep original if translation fails
+                  today_en.append(holiday)  # Keep original if translation fails
           
-          # Save English version
-          with open('public/holidays-english.json', 'w', encoding='utf-8') as f:
-              json.dump(translated_data, f, ensure_ascii=False, indent=2)
-          
-          # Create today-english.json
-          from datetime import datetime
-          now = datetime.now()
-          today_en = [h for h in translated_data if h['day'] == now.day and h['month'] == now.month]
-          
+          # Save today-english.json
           with open('public/today-english.json', 'w', encoding='utf-8') as f:
               json.dump(today_en, f, ensure_ascii=False, indent=2)
           "
@@ -117,7 +112,6 @@ jobs:
               <h3>English</h3>
               <ul>
                   <li><a href="today-english.json">today-english.json</a> - Today's holiday</li>
-                  <li><a href="holidays-english.json">holidays-english.json</a> - All holidays</li>
               </ul>
               <h2>Home Assistant Config</h2>
               <h3>Polish Version</h3>
