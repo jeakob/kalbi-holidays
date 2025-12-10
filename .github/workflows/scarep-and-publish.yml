@@ -96,12 +96,12 @@ jobs:
   method: GET
   headers:
     Accept: application/json
-  value_template: >
-    {% if value_json[0].name is defined %}
+  value_template: &gt;
+    {%% if value_json[0].name is defined %%}
       {{ value_json[0].name }}
-    {% else %}
+    {%% else %%}
       Brak nietypowego święta
-    {% endif %}
+    {%% endif %%}
   json_attributes_path: "$[0]"
   json_attributes:
     - description
