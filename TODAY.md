@@ -1,39 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**December 11, 2025**
+**December 12, 2025**
 
-## Christmas Sweater Day
+## Button Day
 
-The Christmas jumper is more than just kitsch - it's a symbol of solidarity that has helped raise £40 million for children in need since 2012. In Poland, we celebrate this holiday in our own way: in schools, offices, with...
-  humor and warmth. The coolest sweaters? Those from a closet, a second-hand store or made by yourself - because help does not require shopping, only a good heart.
+Buttons are an element of clothing that is usually ignored until they are gone. On Button Day, you can not only wear a blouse with a button fastening in this way, but also come up with games for older children with colorful buttons as the main characters.
 
-[Learn more](https://www.kalbi.pl/dzien-swiatecznego-swetra)
-
----
-
-## Caddis Day
-
-Contrary to appearances, it is not a celebration of tasty baked goods, but of... aquatic insects. Caddisflies are legally protected and play an important role in the biomonitoring process. The originator of the holiday is Lech Pietrzak, who proposed Caddis Day on Radio Three in 2002. The initiative gained recognition and quickly turned into an annual event.
-
-[Learn more](https://www.kalbi.pl/dzien-chruscikow)
+[Learn more](https://www.kalbi.pl/dzien-guzika)
 
 ---
 
-## International Mountain Areas Day
+## International Universal Health Coverage Day
 
-The first celebration of this holiday took place in 2003. Its aim is not only to draw attention to the importance of mountain areas, but also to the problems of their inhabitants, such as higher maintenance costs.
+International Universal Health Coverage Day is not celebrated by all citizens. The aim of this event is to make the public aware that despite development, there are still people who, for various reasons, cannot afford medical care and suffer at home or on the streets because they cannot seek medical help.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-terenow-gorskich)
-
----
-
-## International Tango Day
-
-This sensual dance is one of the main symbols of Argentina. The holiday is celebrated on the anniversary of the birth of Carlos Gardel and Julio de Caro, two artists who contributed to the popularity of tango in Argentina and around the world.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-tanga)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-powszechnego-ubezpieczenia-zdrowotnego)
 
 ---
 
+## International Neutrality Day
 
-*Last updated: 2025-12-11 03:24:49 UTC*
+On the International Day of Neutrality, the importance of peaceful relations between countries is emphasized. Every armed conflict is associated with a civilian tragedy, which no self-respecting politician should allow in the 21st century.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-neutralnosci)
+
+---
+
+## Day of the Star of Bethlehem
+
+The Day of the Star of Bethlehem, contrary to appearances, is not a celebration of a celestial body, but of a potted plant that many people have at home during Christmas. On this day, you can go to a flower shop and buy a copy of the Star of Bethlehem, which is a wonderful decoration.
+
+[Learn more](https://www.kalbi.pl/dzien-gwiazdy-betlejemskiej)
+
+---
+
+
+*Last updated: 2025-12-12 03:23:53 UTC*
