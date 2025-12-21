@@ -1,22 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**December 20, 2025**
+**December 21, 2025**
 
-## Fish Day
+## Orgasm Day
 
-The holiday aims to make people aware that fish are not objects and feel pain. It is worth fighting for people to treat them humanely. On the occasion of Fish Day, you can also learn many interesting things about them.
+From hippie utopia to hard data. In 2006, a pair of Californian activists came up with an idea: millions of people peaking on the winter solstice would bring peace to the world. Today, World Orgasm Day is, above all, an opportunity to talk about the orgasm gap, faking it and sexual health - and Polish research shows that we really need this conversation.
 
-[Learn more](https://www.kalbi.pl/dzien-ryby)
-
----
-
-## International Solidarity Day
-
-It is a holiday that refers to one of the most important values ​​in interpersonal relationships, namely solidarity. Only joint actions can effectively eliminate poverty and social inequalities in the world. The holiday was established by the UN General Assembly in 2005.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-solidarnosci)
+[Learn more](https://www.kalbi.pl/dzien-orgazmu)
 
 ---
 
+## Day of Remembrance of those Fallen on Missions
 
-*Last updated: 2025-12-20 03:15:40 UTC*
+This holiday commemorates all soldiers who gave their lives for their homeland in military missions and operations abroad. The celebration was scheduled for December 21 because on that day in 2011, five Polish soldiers were killed in Afghanistan.
+
+[Learn more](https://www.kalbi.pl/dzien-pamieci-o-poleglych-na-misjach)
+
+---
+
+## World Salute Brunette Day
+
+Blondes have their holiday, so brunettes can't be worse either. I wonder if the former will greet today's "birthday girls"?
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-pozdrawiania-brunetek)
+
+---
+
+
+*Last updated: 2025-12-21 03:38:45 UTC*
