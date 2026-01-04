@@ -1,14 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**January 03, 2026**
+**January 04, 2026**
 
-## Drinking Straw Day
+## World Braille Day
 
-On January 3, 1888, Marvin C. Stone received a patent for a paper drinking straw. Today, his invention makes life easier for consumers of various drinks and juices around the world. Drinking Straw Day commemorates this event, and one way to celebrate is to drink all fluids through a straw all day long.
+Louis Braille is the creator of the alphabet for the blind. The Frenchman was born on January 4, 1809, which is why we pay tribute to him today.
 
-[Learn more](https://www.kalbi.pl/dzien-slomki-do-picia)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-braillea)
+
+---
+
+## Spaghetti Day
+
+Long strands of pasta are immediately associated with an Italian dish. Spaghetti Day means that you can eat this delicious dish for breakfast, lunch and dinner. On this occasion, some people go to the cradle of spaghetti to try a traditional version of the dish.
+
+[Learn more](https://www.kalbi.pl/dzien-spaghetti)
 
 ---
 
 
-*Last updated: 2026-01-03 03:22:43 UTC*
+*Last updated: 2026-01-04 03:51:31 UTC*
