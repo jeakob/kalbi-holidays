@@ -1,22 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**January 05, 2026**
+**January 06, 2026**
 
-## Whipped Cream Day
+## Philatelist's Day
 
-On this sweet holiday, we should diversify our dessert with whipped cream. We celebrate the birthday of Aaron S. "Bunny" Lapin, who invented the famous Reddi-wip whipped cream spray in 1948. Lapin was born on January 5, 1914.
+Philatelist's Day commemorates the establishment of the "Philatelists' Club" in Krakow in 1893. Despite the passage of time, stamps, date stamps and unique envelopes are still valuable items for collectors.
 
-[Learn more](https://www.kalbi.pl/dzien-bitej-smietany)
-
----
-
-## World Hypnotism Day
-
-Hypnosis often has negative connotations. This method is not only used by home-grown magicians, but is also used by psychologists. World Hypnotism Day is intended to break the bad impression that has been created over the years, because hypnosis can help people with phobias and traumas.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-hipnotyzmu)
+[Learn more](https://www.kalbi.pl/dzien-filatelisty)
 
 ---
 
+## World Children's Mission Day
 
-*Last updated: 2026-01-05 03:56:25 UTC*
+World Children's Mission Day was established in 1949 by Pope Pius XII. Its message is to emphasize the spiritual connection of all the world's children. In Poland we celebrated it for the first time on January 8, 1984. On this day, many little missionaries solemnly join the Pontifical Children's Missionary Society.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-misyjny-dzieci)
+
+---
+
+## Cuddle Day
+
+It has been scientifically proven that hugging improves immunity and reduces stress. It's worth hugging your parents, children and your significant other. Especially during Hug Day, we can take the opportunity to cuddle with our loved ones.
+
+[Learn more](https://www.kalbi.pl/dzien-wtulania-sie)
+
+---
+
+
+*Last updated: 2026-01-06 03:39:10 UTC*
