@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**January 08, 2026**
+**January 09, 2026**
 
-## Elvis Presley Day
+## Nature Conservation League Day
 
-The King of Rock and Roll lives! At least in the hearts of its devoted fans. Elvis Presley sold over 600 million records and recorded many timeless hits, such as "Love Me Tender", "Hound Dog" and "Heartbreak Hotel".
+The Nature Conservation League is the oldest ecological organization in Poland. It was founded on January 9, 1928, so today the association with the characteristic bison in its emblem celebrates its birthday.
 
-[Learn more](https://www.kalbi.pl/dzien-elvisa-presleya)
-
----
-
-## Earth's Rotation Day
-
-Earth's Rotation Day draws attention to the astrophysical mechanisms of how our planet functions. Each of us should know at least the basics of astrophysics and be aware of how the Earth moves in relation to the Moon and other planets.
-
-[Learn more](https://www.kalbi.pl/dzien-rotacji-ziemi)
+[Learn more](https://www.kalbi.pl/dzien-ligi-ochrony-przyrody)
 
 ---
 
+## Apricot Day
 
-*Last updated: 2026-01-08 03:39:20 UTC*
+Taking care of your health includes: eating the right amount of vegetables and fruit every day. It turns out that their days were established to popularize healthy delicacies. On Apricot Day, you can eat your fill of sweet fruit straight from the tree or bought in a store.
+
+[Learn more](https://www.kalbi.pl/dzien-moreli)
+
+---
+
+
+*Last updated: 2026-01-09 03:39:59 UTC*
