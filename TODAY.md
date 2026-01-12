@@ -1,12 +1,12 @@
 # 🎉 Today's Unusual Holidays
 
-**January 11, 2026**
+**January 12, 2026**
 
-## Vegetarian Day
+## Kissing Goldilocks Day
 
-[Learn more](https://www.kalbi.pl/dzien-wegetarian)
+[Learn more](https://www.kalbi.pl/dzien-calowania-zlotowlosych)
 
 ---
 
 
-*Last updated: 2026-01-11 03:50:41 UTC*
+*Last updated: 2026-01-12 03:49:48 UTC*
