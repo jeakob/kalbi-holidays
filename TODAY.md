@@ -1,36 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**January 13, 2026**
+**January 14, 2026**
 
-## Polish Vodka Day
+## Hidden Love Day
 
-[Learn more](https://www.kalbi.pl/dzien-polskiej-wodki)
+When, if not on January 14, should you confess your love to another person? This unusual holiday has enormous power - if we overcome shyness and shame, perhaps on the Day of Hidden Love we will change our lives.
 
----
-
-## Mutual Admiration Day
-
-This unusual holiday was created during World War I and its purpose was to divert attention from the fight on the front. The war is over, and the Day of Mutual Admiration remains, because it is always worth adoring those we care about.
-
-[Learn more](https://www.kalbi.pl/dzien-wzajemnej-adoracji)
+[Learn more](https://www.kalbi.pl/dzien-ukrytej-milosci)
 
 ---
 
-## International Shirt Day
+## Shy People's Day
 
-A shirt is a timeless piece of clothing. It improves your appearance and can be adapted to any occasion. Today it is worth buying a shirt, especially since many places offer special promotions.
+Shyness manifests itself in many ways - we feel embarrassed in the presence of an attractive person, we are afraid to express our opinion or speak in company. But today you just have to break through! Nobody will kill us for this...
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-koszuli)
+[Learn more](https://www.kalbi.pl/dzien-osob-niesmialych)
 
 ---
 
-## Rubber Ducky Day
+## World Logic Day
 
-The rubber ducky is not just an ordinary bath product for children. Rubber Ducky Day was established because this inconspicuous toy contributed to the development of science by pure accident. In the 1990s, a container ship carrying thousands of ducklings crashed and the toys fell into the ocean, and scientists used the routes along which they swam to assess water currents.
+Logic is a complicated field of science. It is not easy to learn its secrets, but Kurt Gödel and Alfred Tarski did it, and in their honor World Logic Day was established in 2019. On this day, conferences and lectures regarding the mentioned field of science are held.
 
-[Learn more](https://www.kalbi.pl/dzien-gumowej-kaczuszki)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-logiki)
 
 ---
 
 
-*Last updated: 2026-01-13 03:28:27 UTC*
+*Last updated: 2026-01-14 03:48:35 UTC*
