@@ -1,8 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**January 17, 2026**
+**January 18, 2026**
 
-No unusual holidays today.
+## Winnie the Pooh Day
+
+Winnie the Pooh Day falls on January 18, the birthday of the author of the iconic fairy tale, Alan Alexander Milne. The friendly teddy bear and his friends from the Hundred Acre Wood still entertain children all over the world.
+
+[Learn more](https://www.kalbi.pl/dzien-kubusia-puchatka)
+
+---
 
 
-*Last updated: 2026-01-17 03:24:32 UTC*
+*Last updated: 2026-01-18 03:46:21 UTC*
