@@ -1,22 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**January 19, 2026**
+**January 20, 2026**
 
-## Day of the Military Organizational Units of the Military Prosecutor's Office
+## Penguin Awareness Day
 
-Pursuant to the decision of the Minister of National Defense of December 24, 2013, January 19 in the calendar is reserved for the Military Organizational Units of the Military Prosecutor's Office. We wish military prosecutors to issue only fair and accurate verdicts.
+As the name suggests, the aim of the holiday is to popularize knowledge about penguins. On this day you can learn many interesting things about these nice animals. Even if they only look clumsy, in fact they are great swimmers and spend most of their time in the water.
 
-[Learn more](https://www.kalbi.pl/swieto-wojskowych-jednostek-organizacyjnych-prokuratury-wojskowej)
-
----
-
-## Popcorn Day
-
-A way to spend the popcorn holiday? Cinema or a movie on TV, friends and of course lots of popcorn…
-
-[Learn more](https://www.kalbi.pl/dzien-popcornu)
+[Learn more](https://www.kalbi.pl/dzien-wiedzy-o-pingwinach)
 
 ---
 
+## Bigos Day
 
-*Last updated: 2026-01-19 03:50:50 UTC*
+If there is bigos on the table, it is a sign that we are among our own people, most likely at a traditional Polish party. Today our flagship dish has its holiday.
+
+[Learn more](https://www.kalbi.pl/dzien-bigosu)
+
+---
+
+## Cheese Lovers' Day
+
+Did you know that several thousand types of cheese are produced all over the world? This means that even on Cheese Lovers' Day it is not realistic to try all the products. On this day, dairy enthusiasts not only eat cheese, but also inform about its positive impact on health.
+
+[Learn more](https://www.kalbi.pl/dzien-milosnikow-sera)
+
+---
+
+
+*Last updated: 2026-01-20 03:44:08 UTC*
