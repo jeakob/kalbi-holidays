@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**January 20, 2026**
+**January 21, 2026**
 
-## Penguin Awareness Day
+## International Hug Day
 
-As the name suggests, the aim of the holiday is to popularize knowledge about penguins. On this day you can learn many interesting things about these nice animals. Even if they only look clumsy, in fact they are great swimmers and spend most of their time in the water.
+Cuddling is an activity that has many health and well-being benefits. This is one of the reasons for adopting International Hug Day, which falls on January 21.
 
-[Learn more](https://www.kalbi.pl/dzien-wiedzy-o-pingwinach)
-
----
-
-## Bigos Day
-
-If there is bigos on the table, it is a sign that we are among our own people, most likely at a traditional Polish party. Today our flagship dish has its holiday.
-
-[Learn more](https://www.kalbi.pl/dzien-bigosu)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-przytulania)
 
 ---
 
-## Cheese Lovers' Day
+## International Sweatpants Day
 
-Did you know that several thousand types of cheese are produced all over the world? This means that even on Cheese Lovers' Day it is not realistic to try all the products. On this day, dairy enthusiasts not only eat cheese, but also inform about its positive impact on health.
+International Sweatpants Day is a time when it is worth emphasizing that this type of clothing is comfortable and ensures comfort during physical activity. The tracksuit can be worn not only at home, but also suits sporty and casual styles.
 
-[Learn more](https://www.kalbi.pl/dzien-milosnikow-sera)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-spodni-dresowych)
+
+---
+
+## Squirrel Day
+
+Squirrels can often be seen while walking in the park. These inconspicuous, red animals can be extremely communicative and incredibly intelligent. Interestingly, they celebrate their own Squirrel Day! It is worth going for a walk with a bag full of peanuts and surprising these interesting creatures. They will certainly not neglect eating at a time when their supplies are already greatly depleted and spring is still far away.
+
+[Learn more](https://www.kalbi.pl/dzien-wiewiorki)
 
 ---
 
 
-*Last updated: 2026-01-20 03:44:08 UTC*
+*Last updated: 2026-01-21 03:44:09 UTC*
