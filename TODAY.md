@@ -1,30 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**January 21, 2026**
+**January 22, 2026**
 
-## International Hug Day
+## Hot Sauce Day
 
-Cuddling is an activity that has many health and well-being benefits. This is one of the reasons for adopting International Hug Day, which falls on January 21.
+Hot Sauce Day is a celebration of all lovers of cuisine that strongly engages the sense of taste. On this day, you can add sauce with jalapeno peppers or large amounts of chili to your dishes. Daredevils are limited only by their endurance.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-przytulania)
-
----
-
-## International Sweatpants Day
-
-International Sweatpants Day is a time when it is worth emphasizing that this type of clothing is comfortable and ensures comfort during physical activity. The tracksuit can be worn not only at home, but also suits sporty and casual styles.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-spodni-dresowych)
-
----
-
-## Squirrel Day
-
-Squirrels can often be seen while walking in the park. These inconspicuous, red animals can be extremely communicative and incredibly intelligent. Interestingly, they celebrate their own Squirrel Day! It is worth going for a walk with a bag full of peanuts and surprising these interesting creatures. They will certainly not neglect eating at a time when their supplies are already greatly depleted and spring is still far away.
-
-[Learn more](https://www.kalbi.pl/dzien-wiewiorki)
+[Learn more](https://www.kalbi.pl/dzien-ostrego-sosu)
 
 ---
 
 
-*Last updated: 2026-01-21 03:44:09 UTC*
+*Last updated: 2026-01-22 03:48:18 UTC*
