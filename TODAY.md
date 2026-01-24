@@ -1,28 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**January 23, 2026**
+**January 24, 2026**
 
-## A day without foil packaging
+## International Education Day
 
-[Learn more](https://www.kalbi.pl/dzien-bez-opakowan-foliowych)
+In the 21st century, approximately 750 million children in the world cannot read and write. This is terrifying data. The International Day of Education is intended to draw people's attention to the fact that there are still regions of the world where education generally does not exist or is at a low level. On this day there are, among others: organized collections of school supplies for African children and campaigns to raise public awareness of this problem.
 
----
-
-## Most Loved Ones Day
-
-On this joyful day, we should show our feelings towards those people who make our lives happy.
-
-[Learn more](https://www.kalbi.pl/dzien-najbardziej-kochanych)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-edukacji)
 
 ---
 
-## Handwriting Day
+## Möbius Syndrome Awareness Day
 
-In the era of e-mails, instant messengers and mobile phones, we use handwriting less and less. Paper notebooks and diaries are also becoming a thing of the past. On Handwriting Day, it is worth remembering about it. The Writing Instrument Manufactures Association chose January 23 as the holiday date because John Hancock, one of the signers of the Declaration of Independence, known for his characteristic signature, was born on that day.
+Möbius syndrome is a rare disease that causes you to be unable to smile, frown, squint or move your eyes. Möbius Syndrome Awareness Day aims to raise awareness about the disease, but also commemorates the birth anniversary of Paul Julius Möbius, who first described it.
 
-[Learn more](https://www.kalbi.pl/dzien-pisma-recznego)
+[Learn more](https://www.kalbi.pl/dzien-wiedzy-o-zespole-mbiusa)
 
 ---
 
 
-*Last updated: 2026-01-23 03:42:41 UTC*
+*Last updated: 2026-01-24 03:26:58 UTC*
