@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**January 31, 2026**
+**February 01, 2026**
 
-## Illusionists' Day
+## Chewing Gum Day
 
-The first illusionists charmed audiences already in ancient Egypt, performing a trick with three balls and cups. However, in the Middle Ages they were even suspected of contacts with supernatural forces. Well, every magician is a colorful character. Today they have their holiday.
+Chewing gum has many valuable properties - it freshens breath, cleanses teeth, soothes. Moreover, it is not expensive. Today is its holiday, so it's worth going to the kiosk and buying your favorite gum.
 
-[Learn more](https://www.kalbi.pl/dzien-iluzjonistow)
-
----
-
-## The Day of the Birth of Russian Vodka
-
-On January 31, 1865, Dmitry Mendeleev publicly defended his doctoral thesis "On the combination of alcohol and water" in St. Petersburg. This event is considered the Day of the Birth of Russian Vodka.
-
-[Learn more](https://www.kalbi.pl/dzien-narodzin-rosyjskiej-wodki)
+[Learn more](https://www.kalbi.pl/dzien-gumy-do-zucia)
 
 ---
 
-## Zebra Day
+## International Day Without Palm Oil
 
-Zebras, like many other animals, also have their own holiday. On this day, you can learn some interesting facts about them, such as the fact that each zebra is unique. The arrangement of stripes is an individual feature, thanks to which these animals recognize each other in the herd.
+The International Day Without Palm Oil is an initiative of the Czech organization "Koalice proti palmovému oili". The holiday was first celebrated in 2016 and its aim is to phase out the production of palm oil, which harms tropical forests in countries such as Borneo.
 
-[Learn more](https://www.kalbi.pl/dzien-zebry)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-bez-oleju-palmowego)
+
+---
+
+## Car Insurance Day
+
+Road accidents happen every day. Car Insurance Day is primarily intended to raise awareness among drivers. People with a driving license think that insurance is an unnecessary expense, but only after a collision do we see how much we can save thanks to it.
+
+[Learn more](https://www.kalbi.pl/dzien-ubezpieczenia-samochodu)
 
 ---
 
 
-*Last updated: 2026-01-31 04:06:05 UTC*
+*Last updated: 2026-02-01 04:29:38 UTC*
