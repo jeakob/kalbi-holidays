@@ -1,30 +1,58 @@
 # 🎉 Today's Unusual Holidays
 
-**February 01, 2026**
+**February 02, 2026**
 
-## Chewing Gum Day
+## Positive Thinking Day
 
-Chewing gum has many valuable properties - it freshens breath, cleanses teeth, soothes. Moreover, it is not expensive. Today is its holiday, so it's worth going to the kiosk and buying your favorite gum.
-
-[Learn more](https://www.kalbi.pl/dzien-gumy-do-zucia)
+[Learn more](https://www.kalbi.pl/dzien-pozytywnego-myslenia)
 
 ---
 
-## International Day Without Palm Oil
+## World Wetlands Day
 
-The International Day Without Palm Oil is an initiative of the Czech organization "Koalice proti palmovému oili". The holiday was first celebrated in 2016 and its aim is to phase out the production of palm oil, which harms tropical forests in countries such as Borneo.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-bez-oleju-palmowego)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-mokradel)
 
 ---
 
-## Car Insurance Day
+## Trader's Day
 
-Road accidents happen every day. Car Insurance Day is primarily intended to raise awareness among drivers. People with a driving license think that insurance is an unnecessary expense, but only after a collision do we see how much we can save thanks to it.
+Traders' Day was celebrated already in the times of the Polish People's Republic. This is an opportunity to appreciate the work of sales representatives, sellers and account managers. Although the names of some positions change in the industry, the goal is always the same - to sell at a profit.
 
-[Learn more](https://www.kalbi.pl/dzien-ubezpieczenia-samochodu)
+[Learn more](https://www.kalbi.pl/dzien-handlowca)
+
+---
+
+## Groundhog Day
+
+The most famous groundhog in the world, Phil from Punxsutawney in Pennsylvania, will once again tell Americans how long winter will last. This is a tradition that dates back to the 19th century, which is why Groundhog Day is highly respected and celebrated overseas.
+
+[Learn more](https://www.kalbi.pl/dzien-swistaka)
+
+---
+
+## Bear Day
+
+This is probably one of the oldest items in the calendar of unusual holidays. For our ancestors, the bear was a magical animal, the master of time, so on February 2, the inhabitants of Europe carefully watched whether it would come out of its hole, heralding the arrival of spring. In the Middle Ages, the Catholic Church replaced Bear Day with the feast of Candlemas.
+
+[Learn more](https://www.kalbi.pl/dzien-niedzwiedzia)
+
+---
+
+## World Day of Consecrated Life
+
+This holiday was established by John Paul II in 1997. It falls annually on February 2, the feast of the Presentation of the Lord. On this day, it is worth praying for those who devoted their lives to serving God.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zycia-konsekrowanego)
+
+---
+
+## Pancake Day
+
+A simple dish that can be eaten for breakfast, lunch and dinner is, of course, pancakes. Their universality goes even further, because they can be prepared both savory and sweet. Pancake Day gives us the right to consume these delicacies without restrictions.
+
+[Learn more](https://www.kalbi.pl/dzien-nalesnika)
 
 ---
 
 
-*Last updated: 2026-02-01 04:29:38 UTC*
+*Last updated: 2026-02-02 04:24:53 UTC*
