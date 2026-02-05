@@ -1,22 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**February 04, 2026**
+**February 05, 2026**
 
-## International Cancer Day
+## World Nutella Day
 
-The holiday was established at the World Cancer Summit in February 2000 in Paris. The meeting adopted the Paris Charter, obliging the countries that signed it to create programs to prevent and treat cancer.
+Many people would die for this chocolate delicacy made of hazelnuts, chocolate, sugar and oil. Today is Nutella Day, so we can consume the entire jar of this popular cream without any remorse.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-walki-z-rakiem)
-
----
-
-## World Butcher and Meat Industry Day
-
-Just look in your fridge or on the table during a family party - sausages, ham and meat constitute a large part of it. We wish all butchers and meat industry workers all the best.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-rzeznika-i-przemyslu-wedliniarskiego)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-nutelli)
 
 ---
 
 
-*Last updated: 2026-02-04 04:11:29 UTC*
+*Last updated: 2026-02-05 04:15:06 UTC*
