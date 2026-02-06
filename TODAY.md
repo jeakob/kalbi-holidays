@@ -1,14 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**February 05, 2026**
+**February 06, 2026**
 
-## World Nutella Day
+## Bob Marley Day
 
-Many people would die for this chocolate delicacy made of hazelnuts, chocolate, sugar and oil. Today is Nutella Day, so we can consume the entire jar of this popular cream without any remorse.
+The Jamaican was not only a great musician, but also a great person, as evidenced by the fact that even many years after his death, he continues to inspire people all over the world.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-nutelli)
+[Learn more](https://www.kalbi.pl/dzien-boba-marleya)
+
+---
+
+## International Day of Zero Tolerance for Female Genital Mutilation
+
+The aim of the holiday is to raise awareness of the brutal, health- and life-threatening ritual of female circumcision, common in African countries. The holiday has been celebrated since 2003, on the initiative of the first lady of Nigeria, Stella Obasanjo.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zerowej-tolerancji-dla-okaleczania-zenskich-narzadow-plciowych)
+
+---
+
+## International Bartender Day
+
+Probably no one knows as many life stories as he does. Today, let's drink to his health once again - preferably at a bar, of course.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-barmana)
 
 ---
 
 
-*Last updated: 2026-02-05 04:15:06 UTC*
+*Last updated: 2026-02-06 04:15:41 UTC*
