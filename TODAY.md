@@ -1,30 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**February 06, 2026**
+**February 07, 2026**
 
-## Bob Marley Day
+## Day of the Supreme Audit Office
 
-The Jamaican was not only a great musician, but also a great person, as evidenced by the fact that even many years after his death, he continues to inspire people all over the world.
+The Supreme Audit Office (NIK) is one of the first institutions in the reborn, independent Poland. It is the main and independent state control body with the mission of guardian of public money. On the day of the holiday, we wish her the greatest success in the fight against fraudsters.
 
-[Learn more](https://www.kalbi.pl/dzien-boba-marleya)
-
----
-
-## International Day of Zero Tolerance for Female Genital Mutilation
-
-The aim of the holiday is to raise awareness of the brutal, health- and life-threatening ritual of female circumcision, common in African countries. The holiday has been celebrated since 2003, on the initiative of the first lady of Nigeria, Stella Obasanjo.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zerowej-tolerancji-dla-okaleczania-zenskich-narzadow-plciowych)
-
----
-
-## International Bartender Day
-
-Probably no one knows as many life stories as he does. Today, let's drink to his health once again - preferably at a bar, of course.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-barmana)
+[Learn more](https://www.kalbi.pl/dzien-najwyzszej-izby-kontroli)
 
 ---
 
 
-*Last updated: 2026-02-06 04:15:41 UTC*
+*Last updated: 2026-02-07 04:08:36 UTC*
