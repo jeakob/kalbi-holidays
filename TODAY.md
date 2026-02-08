@@ -1,14 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**February 07, 2026**
+**February 08, 2026**
 
-## Day of the Supreme Audit Office
+## Prison Service Day
 
-The Supreme Audit Office (NIK) is one of the first institutions in the reborn, independent Poland. It is the main and independent state control body with the mission of guardian of public money. On the day of the holiday, we wish her the greatest success in the fight against fraudsters.
+Prison service is very hard work, requiring, among others: mental resilience, responsibility and courage. We wish all guards only peaceful changes. The holiday commemorates Józef Piłsudski's decree of February 7, 1919, which established the prison system in reborn Poland.
 
-[Learn more](https://www.kalbi.pl/dzien-najwyzszej-izby-kontroli)
+[Learn more](https://www.kalbi.pl/swieto-sluzby-wieziennej)
 
 ---
 
 
-*Last updated: 2026-02-07 04:08:36 UTC*
+*Last updated: 2026-02-08 04:32:20 UTC*
