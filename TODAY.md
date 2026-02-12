@@ -1,36 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**February 11, 2026**
+**February 12, 2026**
 
-## World Day of the Sick
+## World Darwin Day
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-chorego)
+The holiday is, of course, celebrated on the anniversary of the birth of Darwin, the creator of the theory of evolution, according to which all species come from earlier forms. The aim of the holiday is to popularize natural sciences and show their importance for various areas of everyday life.
 
----
-
-## National Forest Game Feeding Day
-
-Winter is a difficult time for forest animals, because snow and frost make it difficult for them to access food. The National Day of Feeding Forest Animals aims to encourage people to help animals, but also to raise awareness of how to do it, because irresponsible action may cause more harm than good.
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-dokarmiania-zwierzyny-lesnej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-darwina)
 
 ---
 
-## European Emergency Number 112 Day
+## International Day of Child Soldiers
 
-112 is the emergency number valid in all European countries. May we never have to use it because it would mean we would be in trouble. The main purpose of the holiday is to spread knowledge on how to use it properly.
+International Child Soldiers Day commemorates the prohibition of using children under 18 years of age as soldiers in armed conflicts. Unfortunately, in some countries (including Africa) children carry rifles instead of playing football.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-numeru-alarmowego-112)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dzieci-zolnierzy)
 
 ---
 
-## International Day of Women and Girls in Science
+## National Writing Day
 
-Since the beginning of time, women have had limited access to education and work. The International Day of Women and Girls in Science aims to remind us that the rights of women and girls should be respected. In some countries, women are still discriminated against at work, and girls have to take care of the house instead of going to school.
+This holiday aims to promote handwriting with a fountain pen. The date February 12 refers to the patenting of the first fountain pen by Lewis Edson Waterman, which took place in 1884 in New York.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kobiet-i-dziewczat-w-nauce)
+[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-pisania-piorem)
 
 ---
 
 
-*Last updated: 2026-02-11 04:30:03 UTC*
+*Last updated: 2026-02-12 04:25:27 UTC*
