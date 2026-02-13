@@ -1,30 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**February 12, 2026**
+**February 13, 2026**
 
-## World Darwin Day
+## World Radio Day
 
-The holiday is, of course, celebrated on the anniversary of the birth of Darwin, the creator of the theory of evolution, according to which all species come from earlier forms. The aim of the holiday is to popularize natural sciences and show their importance for various areas of everyday life.
+This is a project initiated by Spain in 2010. Two years later it was proclaimed by UNESCO. The aim of World Radio Day is to draw attention to the importance of radio as a means of communication around the world, for example in developing countries, where it stimulates the development of society.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-darwina)
-
----
-
-## International Day of Child Soldiers
-
-International Child Soldiers Day commemorates the prohibition of using children under 18 years of age as soldiers in armed conflicts. Unfortunately, in some countries (including Africa) children carry rifles instead of playing football.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dzieci-zolnierzy)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-radia)
 
 ---
 
-## National Writing Day
+## International Condom Day
 
-This holiday aims to promote handwriting with a fountain pen. The date February 12 refers to the patenting of the first fountain pen by Lewis Edson Waterman, which took place in 1884 in New York.
+International Condom Day is a great excuse to make especially young people aware of the importance of protecting themselves during intercourse. It protects not only against unwanted pregnancy, but also against many diseases.
 
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-pisania-piorem)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-prezerwatywy)
 
 ---
 
 
-*Last updated: 2026-02-12 04:25:27 UTC*
+*Last updated: 2026-02-13 04:21:58 UTC*
