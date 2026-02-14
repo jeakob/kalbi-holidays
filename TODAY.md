@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**February 13, 2026**
+**February 14, 2026**
 
-## World Radio Day
+## Epilepsy Day
 
-This is a project initiated by Spain in 2010. Two years later it was proclaimed by UNESCO. The aim of World Radio Day is to draw attention to the importance of radio as a means of communication around the world, for example in developing countries, where it stimulates the development of society.
+February 14 is associated in Poland primarily with Saint Valentine's Day. Few people realize that Epilepsy Day is celebrated every year.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-radia)
-
----
-
-## International Condom Day
-
-International Condom Day is a great excuse to make especially young people aware of the importance of protecting themselves during intercourse. It protects not only against unwanted pregnancy, but also against many diseases.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-prezerwatywy)
+[Learn more](https://www.kalbi.pl/dzien-chorych-na-padaczke)
 
 ---
 
+## Congenital Heart Defects Awareness Day
 
-*Last updated: 2026-02-13 04:21:58 UTC*
+February 14 is a celebration of hearts, not only those who love, but also those that beat thanks to Polish doctors who operate on the smallest hearts - the hearts of children.
+
+[Learn more](https://www.kalbi.pl/dzien-wiedzy-o-wrodzonych-wadach-serca)
+
+---
+
+
+*Last updated: 2026-02-14 04:10:48 UTC*
