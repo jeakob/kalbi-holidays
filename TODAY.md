@@ -1,14 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**February 16, 2026**
+**February 17, 2026**
 
-## International Day of Postmen and Parcel Deliverers
+## Cat Day
 
-This holiday is celebrated on February 16 throughout Europe. Its aim is to appreciate the work of postmen and parcel deliverers, who do not have it easy - suffice it to mention that dogs consider them to be one of their biggest enemies. It is worth knowing that in Poland we have our own holiday - Polish Post Day.
+[Learn more](https://www.kalbi.pl/dzien-kota)
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-listonoszy-i-doreczycieli-przesylek)
+---
+
+## World Day of the Human Spirit
+
+Life is not only work, but also passions and dreams. World Day of the Human Spirit is intended to make us reflect on the state of our spirituality. It is worth giving yourself a few minutes to meditate on this day and try to continue this habit every day to take care not only of your body, but also your mind.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-ducha-ludzkiego)
 
 ---
 
 
-*Last updated: 2026-02-16 04:26:09 UTC*
+*Last updated: 2026-02-17 04:20:36 UTC*
