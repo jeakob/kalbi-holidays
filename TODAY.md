@@ -1,20 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**February 17, 2026**
+**February 18, 2026**
 
-## Cat Day
+## Battery Day
 
-[Learn more](https://www.kalbi.pl/dzien-kota)
+If the world suddenly ran out of batteries, people would have to turn their lives upside down. Thanks to them, our phones, alarm clocks, cameras and sensors work.
 
----
-
-## World Day of the Human Spirit
-
-Life is not only work, but also passions and dreams. World Day of the Human Spirit is intended to make us reflect on the state of our spirituality. It is worth giving yourself a few minutes to meditate on this day and try to continue this habit every day to take care not only of your body, but also your mind.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-ducha-ludzkiego)
+[Learn more](https://www.kalbi.pl/dzien-baterii)
 
 ---
 
+## Pluto Day
 
-*Last updated: 2026-02-17 04:20:36 UTC*
+Each Pluto Day is another anniversary of the discovery of this planet (now a dwarf planet) by scientists. Finding a new celestial body is always an exciting and important event, the importance of which is worth emphasizing.
+
+[Learn more](https://www.kalbi.pl/dzien-plutona)
+
+---
+
+
+*Last updated: 2026-02-18 04:22:10 UTC*
