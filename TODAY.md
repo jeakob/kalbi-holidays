@@ -1,22 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**February 18, 2026**
+**February 19, 2026**
 
-## Battery Day
+## Polish Science Day
 
-If the world suddenly ran out of batteries, people would have to turn their lives upside down. Thanks to them, our phones, alarm clocks, cameras and sensors work.
+Nicolaus Copernicus is a hero known to every Pole. On the anniversary of his birthday, we celebrate Polish Science Day, honoring all great Poles who contributed to the development of science.
 
-[Learn more](https://www.kalbi.pl/dzien-baterii)
-
----
-
-## Pluto Day
-
-Each Pluto Day is another anniversary of the discovery of this planet (now a dwarf planet) by scientists. Finding a new celestial body is always an exciting and important event, the importance of which is worth emphasizing.
-
-[Learn more](https://www.kalbi.pl/dzien-plutona)
+[Learn more](https://www.kalbi.pl/dzien-nauki-polskiej)
 
 ---
 
 
-*Last updated: 2026-02-18 04:22:10 UTC*
+*Last updated: 2026-02-19 04:21:10 UTC*
