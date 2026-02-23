@@ -1,22 +1,36 @@
 # 🎉 Today's Unusual Holidays
 
-**February 22, 2026**
+**February 23, 2026**
 
-## World Thinking Day
+## A day without a bribe
 
-One of the most important holidays in the Scout calendar, celebrating international friendship and brotherhood between young people around the world. On this day, scouts and scouts organize special collections, send greetings to friends from other countries and support the development of the scout movement through symbolic donations to a common fund. This is a living example of how small gestures can connect people across borders.
-
-[Learn more](https://www.kalbi.pl/dzien-mysli-braterskiej)
+[Learn more](https://www.kalbi.pl/dzien-bez-lapowki)
 
 ---
 
-## European Day of Victims of Crime
+## Military Geography Festival
 
-This is an initiative created by the European Parliament in 1988 to support victims of crime. In Poland, the Week of Assistance for Crime Victims begins on February 22, during which victims can seek free advice and legal assistance in designated places.
+The holiday commemorates the establishment of the Military-Geographical Institute. It took place on February 23, 1919. The Military-Geographical Institute was the first unit of this type in reborn Poland.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-ofiar-przestepstw)
+[Learn more](https://www.kalbi.pl/swieto-geografii-wojskowej)
+
+---
+
+## International Day of Aid to the Needy
+
+This holiday is to remind people that we need to help those in need, but also not to be afraid to ask for support when we are in need. Karma is back!
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pomocy-potrzebujacym)
+
+---
+
+## National Anti-Depression Day
+
+Depression is a very insidious and devastating disease. Sometimes it is difficult to recognize from our loved ones and friends where ordinary gloom and sadness ends and depression begins. The National Anti-Depression Day is a good opportunity to gain knowledge about its diagnosis and treatment.
+
+[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-walki-z-depresja)
 
 ---
 
 
-*Last updated: 2026-02-22 04:18:14 UTC*
+*Last updated: 2026-02-23 04:25:12 UTC*
