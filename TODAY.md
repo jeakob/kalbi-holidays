@@ -1,36 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**February 23, 2026**
+**February 24, 2026**
 
-## A day without a bribe
+## The day of the unexpected kiss
 
-[Learn more](https://www.kalbi.pl/dzien-bez-lapowki)
+For this holiday to have any meaning, you have to give a kiss to someone who doesn't expect it at all. Who knows, maybe there will be something more to it?
 
----
-
-## Military Geography Festival
-
-The holiday commemorates the establishment of the Military-Geographical Institute. It took place on February 23, 1919. The Military-Geographical Institute was the first unit of this type in reborn Poland.
-
-[Learn more](https://www.kalbi.pl/swieto-geografii-wojskowej)
+[Learn more](https://www.kalbi.pl/dzien-niespodziewanego-calusa)
 
 ---
 
-## International Day of Aid to the Needy
+## International EBM Day
 
-This holiday is to remind people that we need to help those in need, but also not to be afraid to ask for support when we are in need. Karma is back!
+Treating people is not an easy task at all. It requires a lot of knowledge and intelligence. International EBM Day highlights the importance of research data in diagnosing patients. Doctors should use this information to better help patients.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pomocy-potrzebujacym)
-
----
-
-## National Anti-Depression Day
-
-Depression is a very insidious and devastating disease. Sometimes it is difficult to recognize from our loved ones and friends where ordinary gloom and sadness ends and depression begins. The National Anti-Depression Day is a good opportunity to gain knowledge about its diagnosis and treatment.
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-walki-z-depresja)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ebm)
 
 ---
 
 
-*Last updated: 2026-02-23 04:25:12 UTC*
+*Last updated: 2026-02-24 04:19:50 UTC*
