@@ -1,26 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**February 27, 2026**
+**February 28, 2026**
 
-## World Non-Governmental Organizations Day
+## Sleeping in Public Day
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-organizacji-pozarzadowych)
+Sleeping in Public Day encourages us to abandon social conventions and take a nap wherever we are. This holiday reminds us that we are people - not machines - and we have a biological need to rest during the day. Scientific research confirms that a short nap is not laziness, but an investment in health that can become the first step to a more balanced lifestyle.
 
----
-
-## Anosmia Awareness Day
-
-[Learn more](https://www.kalbi.pl/dzien-wiedzy-o-anosmii)
+[Learn more](https://www.kalbi.pl/dzien-spania-w-miejscach-publicznych)
 
 ---
 
-## Polar Bear Day
+## Cracovia Fan Day
 
-Polar Bear Day is an initiative of Polar Bears International. In this way, it tries to make society aware that the ice cover in the Arctic is decreasing due to global warming. This may lead to the extinction of the species in the future. Polar Bear Day encourages people to find ways to reduce their carbon emissions
+Cracovia Fan Day commemorates the demonstrations on Basztowa in 2001. Thanks to Pasy's loyal fans, the oldest football club in Poland (founded on June 13, 1906) was saved.
 
-[Learn more](https://www.kalbi.pl/dzien-niedzwiedzia-polarnego)
+[Learn more](https://www.kalbi.pl/dzien-kibica-cracovii)
 
 ---
 
 
-*Last updated: 2026-02-27 04:13:09 UTC*
+*Last updated: 2026-02-28 03:55:18 UTC*
