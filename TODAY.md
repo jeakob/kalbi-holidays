@@ -1,30 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**March 03, 2026**
+**March 04, 2026**
 
-## World Wildlife Day
+## Kaziuki
 
-With over a million species at risk of extinction and more than half of the world's GDP dependent on nature, World Wildlife Day reminds us why protecting biodiversity is crucial to humanity's survival. This global celebration draws attention to the value of wildlife and the need for collective action to preserve it. On this day, organizations and people around the world unite to support the conservation and sustainable use of natural resources.
+Kaziuki, or Saint's Day Kazimierz is an important folk holiday derived from the Vilnius tradition. In Poland, Kaziuki are celebrated primarily in Podlasie.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-dzikiej-przyrody)
-
----
-
-## World Hearing Day
-
-The key message of World Hearing Day 2023 is the need to integrate ear and hearing care into primary health care to enable better diagnosis and treatment of ear and hearing problems. The aim is also to increase public awareness of the importance of prevention and regular hearing tests in preventing hearing loss and to encourage lifestyle changes that will have a positive impact on ear and hearing health.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-sluchu)
+[Learn more](https://www.kalbi.pl/kaziuki)
 
 ---
 
-## International Writers' Day
+## International HPV Awareness Day
 
-International Writers' Day was established in 1984 by the PEN Club. Its goal is to promote literature, defend freedom of speech and develop the writing community around the world. On the occasion of the holiday, author meetings and literary evenings are organized.
+International HPV Awareness Day aims to increase knowledge about the human papillomavirus (HPV) and its impact on the health of women and men. HPV is one of the most common sexually transmitted viruses and can lead to cancers such as cervical cancer and throat cancer. This day aims to encourage regular preventive examinations and promote vaccination against HPV.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pisarzy)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-swiadomosci-hpv)
+
+---
+
+## World Engineering Day for Sustainable Development
+
+World Engineering Day for Sustainable Development is an opportunity to celebrate engineering and the contributions of engineers to a better, sustainable world. The day provides an opportunity to highlight the achievements of engineers and engineering in the modern world and to improve public understanding of how engineering and technology are central to life in the modern world.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-nauk-inzynieryjnych-na-rzecz-zrownowazonego-rozwoju)
+
+---
+
+## Grammar Day
+
+Grammar Day is an annual celebration dedicated to linguistic correctness and grammar. On this day, the beauty of the language is celebrated and people are encouraged to use it correctly in speech and writing. This is an excellent opportunity to emphasize the importance of grammar and its importance for understanding and interpersonal communication.
+
+[Learn more](https://www.kalbi.pl/dzien-gramatyki)
+
+---
+
+## International Game Master's Day
+
+A game master is simply a guru during gameplay in role-playing games. He has full control over the game world, creates adventures and characters. It is his skills and imagination that make RPG fans forget about God's world. Today it is worth appreciating it.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-mistrza-gry)
 
 ---
 
 
-*Last updated: 2026-03-03 04:15:04 UTC*
+*Last updated: 2026-03-04 04:09:22 UTC*
