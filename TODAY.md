@@ -1,38 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**March 05, 2026**
+**March 06, 2026**
 
-## Mother-in-law's Day
+## European Speech Therapist Day
 
-Mother-in-law's Day is a holiday dedicated to the mothers of our partners, whose role in the family is often underestimated. It is an opportunity to strengthen family bonds and appreciate the unique relationship that connects various branches of the family. It is also an opportunity to reflect on the complexity of family relationships and the importance of mutual respect in building a harmonious family life.
+European Speech Therapist Day is a professional holiday emphasizing the importance of speech therapy in improving the quality of life of people with communication disorders. Organized by ESLA, it unites specialists from dozens of countries who together educate the public on the prevention and treatment of speech problems. It shows that a speech therapist is not only a specialist in "learning the correct pronunciation of r", but also a comprehensive communication therapist.
 
-[Learn more](https://www.kalbi.pl/dzien-tesciowej)
-
----
-
-## National Dentist Day
-
-There are over 41,000 dentists in Poland who take care of the health of our teeth and oral cavity every day. Their work is not only about treatment, but above all about prevention, education and the search for increasingly comfortable methods of therapy. National Dentist Day is a moment to thank these specialists for their effort and commitment to maintaining our beautiful smiles.
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-dentysty)
+[Learn more](https://www.kalbi.pl/europejski-dzien-logopedy)
 
 ---
 
-## Appreciation Day
+## European Day of Remembrance of the Righteous
 
-Appreciation Day aims to draw attention to the power of positive words. Appreciate, don't judge.
+European Day of Remembrance of the Righteous is a holiday established by the European Parliament honoring people who opposed totalitarianism and crimes against humanity. It commemorates those who risked their lives to save those persecuted during the Holocaust and other genocides of the 20th and 21st centuries. It is an expression of the belief that even in the darkest of times, individual acts of courage can illuminate the path towards human dignity and justice.
 
-[Learn more](https://www.kalbi.pl/dzien-doceniania)
-
----
-
-## Dissociative Personality Disorder Awareness Day
-
-People with mental disorders alienate themselves from the rest of society because they feel rejected. Dissociative Personality Disorders Awareness Day aims to increase awareness of what dysfunctions occur in sick people and how they can be helped.
-
-[Learn more](https://www.kalbi.pl/dzien-wiedzy-o-dysocjacyjnych-zaburzenia-osobowosci)
+[Learn more](https://www.kalbi.pl/europejski-dzien-pamieci-o-sprawiedliwych)
 
 ---
 
+## Olympian Day
 
-*Last updated: 2026-03-05 04:12:29 UTC*
+Olympian's Day is a holiday popular in Polish schools and kindergartens promoting Olympic values ​​and physical activity among children and teenagers. A rich ceremony with torch lighting, parades and sports competitions introduces students to the world of Olympic traditions and teaches the rules of fair play. Despite the lack of official international status, it is a valuable educational tool combining sport, knowledge and character development.
+
+[Learn more](https://www.kalbi.pl/dzien-olimpijczyka)
+
+---
+
+## Clean Table Day
+
+A particular place where mess usually becomes quite quickly is the table. On Clean Table Day, it is worth paying attention to what we keep on the counter and try to sort the trinkets, because it is much easier to find everything in order.
+
+[Learn more](https://www.kalbi.pl/dzien-czystego-stolu)
+
+---
+
+
+*Last updated: 2026-03-06 04:09:53 UTC*
