@@ -1,14 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**March 07, 2026**
+**March 08, 2026**
 
-## Breakfast Cereal Day
+## International Women's Rights Day
 
-Dietitians say that breakfast is the most important meal. Breakfast Cereal Day is a good time to change your routine and eat cornflakes instead of sandwiches. This dish with milk is extremely nutritious and provides vitamins and calcium.
+The first official Women's Day was celebrated on February 28, 1909, at the initiative of the Socialist Party of America. However, the Matronalia celebrated in ancient Rome can be considered its prototype. The holiday is an opportunity to thank our women for everything, but also to express respect for the victims of the fight for women's equality.
 
-[Learn more](https://www.kalbi.pl/dzien-platkow-sniadaniowych)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-praw-kobiet)
+
+---
+
+## Redhead Day
+
+Redheads never remain indifferent in society - some people tease them a bit because of the color of their hair, but many others consider them to be people with a fiery temperament. One thing is certain - it's worth wishing them well today! Or maybe even dye it red?
+
+[Learn more](https://www.kalbi.pl/dzien-rudych-osob)
 
 ---
 
 
-*Last updated: 2026-03-07 04:01:34 UTC*
+*Last updated: 2026-03-08 04:11:42 UTC*
