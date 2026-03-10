@@ -1,36 +1,44 @@
 # 🎉 Today's Unusual Holidays
 
-**March 09, 2026**
+**March 10, 2026**
 
-## World Nap at Work Day
+## Men's Day
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-drzemki-w-pracy)
-
----
-
-## Polish Statistics Day
-
-The holiday commemorates the first Census in Polish lands adopted on March 9, 1789 by the Four-Year Sejm. The Polish Statistics Day was established on December 2, 2008 at a meeting of the Statistics and Econometrics Committee of the Polish Academy of Sciences - its aim is to emphasize the importance of statistics in public life and to appreciate the work of experts.
-
-[Learn more](https://www.kalbi.pl/dzien-polskiej-statystyki)
+[Learn more](https://www.kalbi.pl/dzien-mezczyzn)
 
 ---
 
-## World DJ Day
+## Forehead Kissing Day
 
-Last night DJ saved my life... Will it be the same today? It's worth going to a party at a club and seeing... »
+A kiss on the forehead is a sign of caring for another person, so today it is worth giving this tender gesture to the person we particularly care about.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-didzeja)
-
----
-
-## Barbie Day
-
-The friend of all little girls who see themselves in her in the future celebrates her holiday on Barbie Day. The doll created by Ruth Handler in the middle of the last century has become the most popular toy. Nowadays, Barbie is available in almost all skin colors and professions, and girls are still crazy about her.
-
-[Learn more](https://www.kalbi.pl/dzien-barbie)
+[Learn more](https://www.kalbi.pl/dzien-calowania-w-czolo)
 
 ---
 
+## Mario's Day
 
-*Last updated: 2026-03-09 04:19:04 UTC*
+On Mario Day, all fans of the heroic plumber can spend the whole day playing the iconic computer game. Mario has crowds of fans around the world who celebrate every year and even dress up in his famous blue overalls.
+
+[Learn more](https://www.kalbi.pl/dzien-mario)
+
+---
+
+## International Wig Day
+
+Hair is an attribute of femininity. International Wig Day was created to draw attention to the well-being of women who have lost their hair as a result of chemotherapy. Thanks to wigs, women don't have to show their bald heads, which makes them feel embarrassed and makes people curious.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-peruki)
+
+---
+
+## International Bagpipe Day
+
+The International Day of Bagpipes, a wind instrument that is not very well known, is a great opportunity for people to learn that such music can also be beautiful. In the age of pop culture, classics are becoming a thing of the past and it would be good to stop this tendency.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dud)
+
+---
+
+
+*Last updated: 2026-03-10 04:10:04 UTC*
