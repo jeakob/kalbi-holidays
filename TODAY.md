@@ -1,14 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**March 16, 2026**
+**March 17, 2026**
 
-## Panda Day
+## Saint's Day Patrick
 
-This nice animal, which appears on the WWF logo, is in danger of extinction. The reason is the gradual reduction of the areas in which it lives and low reproduction. Panda Day aims to help the panda survive in a world increasingly dominated by humans and civilization.
+[Learn more](https://www.kalbi.pl/dzien-sw-patryka)
 
-[Learn more](https://www.kalbi.pl/dzien-pandy)
+---
+
+## Submarine Day
+
+The creation of the submarine was one of the breakthrough moments in history. Therefore, the date of presentation of the first boat of this type is the Submarine Day celebrated every year. Both then and now, these machines are an indispensable element of every military fleet.
+
+[Learn more](https://www.kalbi.pl/dzien-lodzi-podwodnej)
 
 ---
 
 
-*Last updated: 2026-03-16 04:40:17 UTC*
+*Last updated: 2026-03-17 04:19:49 UTC*
