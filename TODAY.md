@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**March 18, 2026**
+**March 19, 2026**
 
-## European Brain Day
+## Kashubian Unity Day
 
-There is no need to convince anyone how important a functioning brain is. Europeans have been celebrating Brain Day since 1998, and its aim is to promote knowledge about the functioning of our nervous system.
+This holiday commemorates the first written mention of Kashubia in the bull of Gregory IX. On March 19, 1238, the Pope titled Bogusław I of Szczecin as "Prince of Kashubia", confirming the goods donated by Bogusław I to the Order of St. John of St. John at Stargard nad Iną. The first Kashubian Unity Day was organized in 2004 in Gdańsk, previously it was celebrated as Kashubian Day.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-mozgu)
-
----
-
-## World Recycling Day
-
-The average person creates over 300 kg of garbage every year. World Recycling Day should draw everyone's attention to the need to segregate waste so that at least some of it can be reused instead of storing it in landfills for years.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-recyklingu)
+[Learn more](https://www.kalbi.pl/dzien-jednosci-kaszubow)
 
 ---
 
+## Carpenter's Day
 
-*Last updated: 2026-03-18 04:25:13 UTC*
+Carpenters, i.e. craftsmen who make furniture and other things from wood, celebrate their holiday on March 19, because on this day Saint. Joseph, the patron saint of this profession. The first carpentry guild in our country was established in 1489 in Kraków.
+
+[Learn more](https://www.kalbi.pl/dzien-stolarza)
+
+---
+
+
+*Last updated: 2026-03-19 04:23:32 UTC*
