@@ -1,68 +1,76 @@
 # 🎉 Today's Unusual Holidays
 
-**March 20, 2026**
+**March 21, 2026**
 
-## Meat Free Day
+## Truant's Day
 
-[Learn more](https://www.kalbi.pl/dzien-bez-miesa)
+You can get all "A's" and exemplary behavior, but... what's school life without truancy? Everyone should try it at least once. Maybe today?
 
----
-
-## World Oral Health Day
-
-As many as 90% of the world's population struggles with oral problems, and in Poland, dental caries affects 99.9% of people aged 35-44. World Oral Health Day is a day that reminds us of the importance of daily oral hygiene and regular visits to the dentist. The celebration, coordinated by the World Dental Federation, aims to increase public awareness of the prevention and treatment of oral diseases and their impact on overall health and well-being.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zdrowia-jamy-ustnej)
+[Learn more](https://www.kalbi.pl/dzien-wagarowicza)
 
 ---
 
-## International Day of Francophonie
+## World Forest Day
 
-It is a holiday that aims to celebrate French-speaking culture and the founding of the International Organization of Francophonie in 1967. Of course, it is celebrated most loudly in France and French-speaking countries, but Poles also remember it.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-frankofonii)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-lasu)
 
 ---
 
-## International Astrology Day
+## World Down Syndrome Day
 
-International Astrology Day is celebrated on the March equinox, March 20 or 21. On the occasion of the holiday of astrology lovers, events and lectures in this field are held. In our country, the celebrations are organized by the Polish Astrological Association.
+The originator of the holiday, whose message is to help people with Down syndrome, was Stylianos E. Antonarakis, a geneticist from the University of Geneva. The date of the celebration on March 21 refers to the essence of the disorder - trisomy 21 of the chromosome.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-astrologii)
-
----
-
-## International Sparrow Day
-
-International Sparrow Day was born in India and its goal is to save these little gray birds. This species was first described by Carl Linnaeus in 1758, but unfortunately the sparrow population is decreasing every year.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-wrobla)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zespolu-downa)
 
 ---
 
-## French Language Day
+## International Poetry Day
 
-The International Day of the French Language was established on the anniversary of the founding of the International Organization of the Francophonie. In this way, UNESCO honored the French language, which is the third most widely spoken in the world. As part of the holiday, numerous "French" cultural events take place throughout Poland.
+This holiday was established by UNESCO in 1999. Its goal is to encourage reading poetry and even creating your own poems. The main celebrations of International Poetry Day take place in Paris.
 
-[Learn more](https://www.kalbi.pl/dzien-jezyka-francuskiego)
-
----
-
-## International Day of Happiness
-
-On this day, it is worth looking around - happiness is certainly somewhere close to us, if only we can appreciate it...
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-szczescia)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-poezji)
 
 ---
 
-## World Frog Day
+## World Day for the Elimination of Racial Discrimination
 
-On World Frog Day, various events are organized to remind people that amphibians have a positive impact on the ecosystem and cannot be exterminated, and on the contrary, some species are fully or partially protected.
+The holiday, established by the United Nations General Assembly in 1966, commemorates the Sharperville massacre in 1960. Police shot and killed 69 people in a peaceful demonstration against apartheid's "pass laws."
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zaby)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-walki-z-dyskryminacja-rasowa)
+
+---
+
+## International Nowruz Day
+
+Nowruz (Nowruz) is the traditional Iranian new year celebration. Its name comes from Old Persian and means "new day". It is celebrated on the day of the spring equinox. In 2010, it was proclaimed by the UN General Assembly as an international holiday.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-nowruz)
+
+---
+
+## Surveyor's Day
+
+Surveyor's Day was originally established by the European Organization of Surveyors on the 500th anniversary of the birth of Mercator, the precursor of modern cartography, on March 5. Since 2018, Surveyor's Day is celebrated globally on March 21.
+
+[Learn more](https://www.kalbi.pl/dzien-geodety)
+
+---
+
+## World Puppetry Day
+
+World Puppetry Day was initiated by the International Puppeteer's Union UNIMA, the largest organization of puppeteers.  The puppetry community has been celebrating since 2003, and each year, outstanding "puppeteers" deliver a special message.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-lalkarstwa)
+
+---
+
+## Willow Day
+
+The willow has been an inseparable element of the Polish landscape for years. They are used not only as ornamental plants, but also in agriculture, and they also have medicinal properties. Unfortunately, due to human activity, their number is decreasing. On Willow Day, it is worth considering this problem.
+
+[Learn more](https://www.kalbi.pl/dzien-wierzby)
 
 ---
 
 
-*Last updated: 2026-03-20 04:14:56 UTC*
+*Last updated: 2026-03-21 04:06:20 UTC*
