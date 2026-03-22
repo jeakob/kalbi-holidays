@@ -1,76 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**March 21, 2026**
+**March 22, 2026**
 
-## Truant's Day
+## Baltic Sea Protection Day
 
-You can get all "A's" and exemplary behavior, but... what's school life without truancy? Everyone should try it at least once. Maybe today?
+Not every country is lucky enough to have access to the sea. However, Poland is among the chosen ones, so it is worth taking today's holiday seriously.
 
-[Learn more](https://www.kalbi.pl/dzien-wagarowicza)
-
----
-
-## World Forest Day
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-lasu)
+[Learn more](https://www.kalbi.pl/dzien-ochrony-baltyku)
 
 ---
 
-## World Down Syndrome Day
+## World Water Day
 
-The originator of the holiday, whose message is to help people with Down syndrome, was Stylianos E. Antonarakis, a geneticist from the University of Geneva. The date of the celebration on March 21 refers to the essence of the disorder - trisomy 21 of the chromosome.
+World Water Day was established by the UN General Assembly during the 1992 Earth Summit conference in Rio de Janeiro, Brazil. The reason given was that over a billion people in the world suffer from lack of access to clean drinking water.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zespolu-downa)
-
----
-
-## International Poetry Day
-
-This holiday was established by UNESCO in 1999. Its goal is to encourage reading poetry and even creating your own poems. The main celebrations of International Poetry Day take place in Paris.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-poezji)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-wody)
 
 ---
 
-## World Day for the Elimination of Racial Discrimination
+## International Seal Day
 
-The holiday, established by the United Nations General Assembly in 1966, commemorates the Sharperville massacre in 1960. Police shot and killed 69 people in a peaceful demonstration against apartheid's "pass laws."
+On International Seal Day, nature conservation organizations draw attention to the number of seals that die because they become entangled in nets or are killed by fishermen after going to the beach. The data are alarming, we need to sound the alarm and make society aware that seals have every right to live peacefully in the sea.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-walki-z-dyskryminacja-rasowa)
-
----
-
-## International Nowruz Day
-
-Nowruz (Nowruz) is the traditional Iranian new year celebration. Its name comes from Old Persian and means "new day". It is celebrated on the day of the spring equinox. In 2010, it was proclaimed by the UN General Assembly as an international holiday.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-nowruz)
-
----
-
-## Surveyor's Day
-
-Surveyor's Day was originally established by the European Organization of Surveyors on the 500th anniversary of the birth of Mercator, the precursor of modern cartography, on March 5. Since 2018, Surveyor's Day is celebrated globally on March 21.
-
-[Learn more](https://www.kalbi.pl/dzien-geodety)
-
----
-
-## World Puppetry Day
-
-World Puppetry Day was initiated by the International Puppeteer's Union UNIMA, the largest organization of puppeteers.  The puppetry community has been celebrating since 2003, and each year, outstanding "puppeteers" deliver a special message.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-lalkarstwa)
-
----
-
-## Willow Day
-
-The willow has been an inseparable element of the Polish landscape for years. They are used not only as ornamental plants, but also in agriculture, and they also have medicinal properties. Unfortunately, due to human activity, their number is decreasing. On Willow Day, it is worth considering this problem.
-
-[Learn more](https://www.kalbi.pl/dzien-wierzby)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-foki)
 
 ---
 
 
-*Last updated: 2026-03-21 04:06:20 UTC*
+*Last updated: 2026-03-22 04:21:02 UTC*
