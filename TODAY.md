@@ -1,30 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**March 22, 2026**
+**March 23, 2026**
 
-## Baltic Sea Protection Day
+## World Meteorology Day
 
-Not every country is lucky enough to have access to the sea. However, Poland is among the chosen ones, so it is worth taking today's holiday seriously.
+World Meteorological Day commemorates the entry into force of the Convention establishing the World Meteorological Organization in 1950. Its goal is to provide every country with access to weather forecasts. Thanks to this, we can plan our holidays in advance today.
 
-[Learn more](https://www.kalbi.pl/dzien-ochrony-baltyku)
-
----
-
-## World Water Day
-
-World Water Day was established by the UN General Assembly during the 1992 Earth Summit conference in Rio de Janeiro, Brazil. The reason given was that over a billion people in the world suffer from lack of access to clean drinking water.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wody)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-meteorologii)
 
 ---
 
-## International Seal Day
+## Elevator Day
 
-On International Seal Day, nature conservation organizations draw attention to the number of seals that die because they become entangled in nets or are killed by fishermen after going to the beach. The data are alarming, we need to sound the alarm and make society aware that seals have every right to live peacefully in the sea.
+The elevator is an invention that has been known since antiquity. However, the holiday commemorates the event of March 23, 1857 - on that day, a passenger elevator was launched in New York for the first time in history.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-foki)
+[Learn more](https://www.kalbi.pl/dzien-windy)
+
+---
+
+## Polish-Hungarian Friendship Day
+
+For years, Poles and Hungarians have had a close friendship that may be the envy of other nations. It is worth cultivating it so that the historical slogan "Pole of Hungary, two nephews" never loses its relevance.
+
+[Learn more](https://www.kalbi.pl/dzien-przyjazni-polsko-wegierskiej)
+
+---
+
+## Day of the Hydrometeorological Service of the Armed Forces
+
+The Headquarters of the Hydrometeorological Service of the Polish Armed Forces is responsible for collecting and processing hydrometeorological data from around the world in order to enable safe takeoffs and landings of aircraft anywhere. The holiday commemorates the adoption of the convention establishing the World Meteorological Organization (WMO) in 1950,
+
+[Learn more](https://www.kalbi.pl/swieto-sluzby-hydrometeorologicznej-sil-zbrojnych)
 
 ---
 
 
-*Last updated: 2026-03-22 04:21:02 UTC*
+*Last updated: 2026-03-23 04:29:01 UTC*
