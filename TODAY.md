@@ -1,38 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**March 23, 2026**
+**March 24, 2026**
 
-## World Meteorology Day
+## World Tuberculosis Day
 
-World Meteorological Day commemorates the entry into force of the Convention establishing the World Meteorological Organization in 1950. Its goal is to provide every country with access to weather forecasts. Thanks to this, we can plan our holidays in advance today.
+We celebrate World Tuberculosis Day on the anniversary of informing the world about the isolation of the tuberculosis bacillus. This was done by Robert Koch in 1882. The holiday, organized by the World Health Organization, aims to raise awareness of tuberculosis.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-meteorologii)
-
----
-
-## Elevator Day
-
-The elevator is an invention that has been known since antiquity. However, the holiday commemorates the event of March 23, 1857 - on that day, a passenger elevator was launched in New York for the first time in history.
-
-[Learn more](https://www.kalbi.pl/dzien-windy)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-gruzlicy)
 
 ---
 
-## Polish-Hungarian Friendship Day
+## National Life Day
 
-For years, Poles and Hungarians have had a close friendship that may be the envy of other nations. It is worth cultivating it so that the historical slogan "Pole of Hungary, two nephews" never loses its relevance.
+You can have an interesting job, millions in your bank account and great friends, but in fact, family should be a source of happiness for every person and support them at all times. National Life Day aims to promote the family as the basic social unit.
 
-[Learn more](https://www.kalbi.pl/dzien-przyjazni-polsko-wegierskiej)
-
----
-
-## Day of the Hydrometeorological Service of the Armed Forces
-
-The Headquarters of the Hydrometeorological Service of the Polish Armed Forces is responsible for collecting and processing hydrometeorological data from around the world in order to enable safe takeoffs and landings of aircraft anywhere. The holiday commemorates the adoption of the convention establishing the World Meteorological Organization (WMO) in 1950,
-
-[Learn more](https://www.kalbi.pl/swieto-sluzby-hydrometeorologicznej-sil-zbrojnych)
+[Learn more](https://www.kalbi.pl/narodowy-dzien-zycia)
 
 ---
 
+## European Artisanal Ice Cream Day
 
-*Last updated: 2026-03-23 04:29:01 UTC*
+The aim of the European Artisanal Ice Cream Day is to convince people to eat these sweets. Artisanal ice cream not only tastes better than those produced in a factory, but is also free from chemical additives and is made from high-quality products. The holiday was established by the European Parliament.
+
+[Learn more](https://www.kalbi.pl/europejski-dzien-lodow-rzemieslniczych)
+
+---
+
+## International Day for the Right to the Truth regarding Serious Violations of Human Rights and the Dignity of Victims
+
+This holiday was established by the UN General Assembly in 2010 in honor of Archbishop Oscar Arnulfo Romero of El Salvador, who fought for human rights. He was murdered on March 24, 1980. The purpose of celebrating the holiday is, among others, honoring the memory of victims of human rights violations and promoting the importance of the right to truth and justice,
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-prawa-do-prawdy-dotyczacej-powaznych-naruszen-praw-czlowieka-i-godnosci-ofiar)
+
+---
+
+## National Remembrance Day of Poles Saving Jews
+
+The Holocaust is a story still alive in the hearts of those who survived it. The National Day of Remembrance of Poles Saving Jews is a time to express deep respect for all the heroes who risked their lives to save adult Jews and their children from extermination.
+
+[Learn more](https://www.kalbi.pl/narodowy-dzien-pamieci-polakow-ratujacych-zydow)
+
+---
+
+
+*Last updated: 2026-03-24 04:20:41 UTC*
