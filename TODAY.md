@@ -1,46 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**March 24, 2026**
+**March 25, 2026**
 
-## World Tuberculosis Day
+## Tolkien Reading Day
 
-We celebrate World Tuberculosis Day on the anniversary of informing the world about the isolation of the tuberculosis bacillus. This was done by Robert Koch in 1882. The holiday, organized by the World Health Organization, aims to raise awareness of tuberculosis.
+Tolkien is the author of such literary classics as "The Lord of the Rings" and "The Hobbit, or There and Back Again". During the holiday, interesting competitions and events are organized in libraries and cultural institutions, e.g. famous people read his novels. As for the March 25 date, Lord of the Rings fans certainly know what that means...
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-gruzlicy)
-
----
-
-## National Life Day
-
-You can have an interesting job, millions in your bank account and great friends, but in fact, family should be a source of happiness for every person and support them at all times. National Life Day aims to promote the family as the basic social unit.
-
-[Learn more](https://www.kalbi.pl/narodowy-dzien-zycia)
+[Learn more](https://www.kalbi.pl/dzien-czytania-tolkiena)
 
 ---
 
-## European Artisanal Ice Cream Day
+## Sanctity of Life Day
 
-The aim of the European Artisanal Ice Cream Day is to convince people to eat these sweets. Artisanal ice cream not only tastes better than those produced in a factory, but is also free from chemical additives and is made from high-quality products. The holiday was established by the European Parliament.
+It is a holiday celebrated to emphasize the primary value of human life. John Paul II appealed to initiate such a holiday - in response, the Plenary Meeting of the Polish Episcopate adopted the date of celebration on March 25 in 1998.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-lodow-rzemieslniczych)
-
----
-
-## International Day for the Right to the Truth regarding Serious Violations of Human Rights and the Dignity of Victims
-
-This holiday was established by the UN General Assembly in 2010 in honor of Archbishop Oscar Arnulfo Romero of El Salvador, who fought for human rights. He was murdered on March 24, 1980. The purpose of celebrating the holiday is, among others, honoring the memory of victims of human rights violations and promoting the importance of the right to truth and justice,
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-prawa-do-prawdy-dotyczacej-powaznych-naruszen-praw-czlowieka-i-godnosci-ofiar)
+[Learn more](https://www.kalbi.pl/dzien-swietosci-zycia)
 
 ---
 
-## National Remembrance Day of Poles Saving Jews
+## International Waffle Day
 
-The Holocaust is a story still alive in the hearts of those who survived it. The National Day of Remembrance of Poles Saving Jews is a time to express deep respect for all the heroes who risked their lives to save adult Jews and their children from extermination.
+Waffle Day comes from Scandinavia, the inhabitants of this region are obsessed with these sweets. Waffles themselves were already known in the Middle Ages and, despite the passage of hundreds of years, they are still hard to resist... »
 
-[Learn more](https://www.kalbi.pl/narodowy-dzien-pamieci-polakow-ratujacych-zydow)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gofra)
+
+---
+
+## International Day of Remembrance for the Victims of Slavery and the Transatlantic Slave Trade
+
+The International Day of Remembrance for the Victims of Slavery and the Transatlantic Slave Trade was established by the United Nations to honor all the people who suffered and died as a result of events that took place between the 16th and 19th centuries. Millions of people were subjected to torture and displacement, and this practice concerned black people. This day is also intended to draw attention to the fact that the problem of racism is still relevant.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pamieci-ofiar-niewolnictwa-i-transatlantyckiego-handlu-niewolnikami)
 
 ---
 
 
-*Last updated: 2026-03-24 04:20:41 UTC*
+*Last updated: 2026-03-25 04:21:47 UTC*
