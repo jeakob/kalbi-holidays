@@ -1,38 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**March 25, 2026**
+**March 26, 2026**
 
-## Tolkien Reading Day
+## International Spinach Day
 
-Tolkien is the author of such literary classics as "The Lord of the Rings" and "The Hobbit, or There and Back Again". During the holiday, interesting competitions and events are organized in libraries and cultural institutions, e.g. famous people read his novels. As for the March 25 date, Lord of the Rings fans certainly know what that means...
+Everyone probably knows Popey, who owed his enormous strength to spinach. Today it is worth following in his footsteps!
 
-[Learn more](https://www.kalbi.pl/dzien-czytania-tolkiena)
-
----
-
-## Sanctity of Life Day
-
-It is a holiday celebrated to emphasize the primary value of human life. John Paul II appealed to initiate such a holiday - in response, the Plenary Meeting of the Polish Episcopate adopted the date of celebration on March 25 in 1998.
-
-[Learn more](https://www.kalbi.pl/dzien-swietosci-zycia)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-szpinaku)
 
 ---
 
-## International Waffle Day
+## Good Thief's Day (Janosik's Day)
 
-Waffle Day comes from Scandinavia, the inhabitants of this region are obsessed with these sweets. Waffles themselves were already known in the Middle Ages and, despite the passage of hundreds of years, they are still hard to resist... »
+In Poland, this holiday is known as Janosik's Day, a thief who robbed from the rich and gave to the poor. However, it refers to Saint Dismas, a repentant thief who was crucified with Christ.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gofra)
+[Learn more](https://www.kalbi.pl/dzien-dobrego-lotra-dzien-janosika)
 
 ---
 
-## International Day of Remembrance for the Victims of Slavery and the Transatlantic Slave Trade
+## Grizzly Bear Day
 
-The International Day of Remembrance for the Victims of Slavery and the Transatlantic Slave Trade was established by the United Nations to honor all the people who suffered and died as a result of events that took place between the 16th and 19th centuries. Millions of people were subjected to torture and displacement, and this practice concerned black people. This day is also intended to draw attention to the fact that the problem of racism is still relevant.
+People who think that the Grizzly bear is a funny teddy bear should be reminded that they are very wrong. Grizzly Bear Day is a great opportunity to get a better look at this species. Grizzlies live in North America and it's better not to wake them from hibernation!
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pamieci-ofiar-niewolnictwa-i-transatlantyckiego-handlu-niewolnikami)
+[Learn more](https://www.kalbi.pl/dzien-niedzwiedzia-grizzly)
 
 ---
 
 
-*Last updated: 2026-03-25 04:21:47 UTC*
+*Last updated: 2026-03-26 04:32:59 UTC*
