@@ -1,38 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**March 28, 2026**
+**March 29, 2026**
 
-## Weed Day
+## Polish Underwear Day
 
-Contrary to appearances, weeds are not as scary as we think. Moreover, they are an important element of ecosystems. The holiday was adopted to make people aware that their number is systematically decreasing - and this is not good news.
+This day aims to promote Polish brands of underwear manufacturers.
 
-[Learn more](https://www.kalbi.pl/dzien-chwastow)
-
----
-
-## Earth Hour
-
-Anyone who wants to celebrate this holiday must do one thing - turn off the lights and electrical appliances for an hour. The message of the event created by the World Wide Fund for Nature refers to environmental protection and climate change. The event took place for the first time in 2007 in Sydney - over two million people took part in it.
-
-[Learn more](https://www.kalbi.pl/godzina-dla-ziemi)
+[Learn more](https://www.kalbi.pl/swieto-polskiej-bielizny)
 
 ---
 
-## Jelly Beans Day
+## Piano Day
 
-Although they are unhealthy and stick to the teeth, due to their taste, variety of colors and shapes, they still have crowds of fans among both children and adults. Today you can eat them with impunity.
+Nils Frahm himself admitted that he "probably went crazy" and announced a new holiday. For the inauguration, he sat down at a giant piano, recorded eight improvisations in one take and gave the album away for free. Today Piano Day is celebrated on all continents.
 
-[Learn more](https://www.kalbi.pl/dzien-zelkow)
+[Learn more](https://www.kalbi.pl/dzien-fortepianu)
 
 ---
 
-## International Day Without Lies
+## Metal Worker's Day
 
-There are situations in life when we decide that it is better to lie so as not to face consequences for a prohibited act or to avoid offending someone. The International Day Without Lies draws attention to the fact that it is best to live honestly, because sooner or later untruths will come to light and may have unpleasant consequences.
+This is a holiday that was celebrated grandly in the Polish People's Republic. On the last Sunday of March, people working in heavy industry were appreciated. Currently somewhat forgotten, but not completely. On March 29, metal music fans, commonly called metalheads, make sure in their own way that tradition is fulfilled.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-bez-klamstwa)
+[Learn more](https://www.kalbi.pl/dzien-metalowca)
 
 ---
 
 
-*Last updated: 2026-03-28 04:22:07 UTC*
+*Last updated: 2026-03-29 04:37:34 UTC*
