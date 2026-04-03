@@ -1,22 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**April 02, 2026**
+**April 03, 2026**
 
-## World Autism Awareness Day
+## Rainbow Day
 
-The aim of World Autism Day is to raise people's awareness of disorders related to this disease. On this day, everyone can show support and help to those who need it the most.
+This beautiful optical and meteorological phenomenon simply deserves its own celebration - it is called "Find a Rainbow". On April 3, it is worth praying for rain, because then there is a high probability that we will be able to capture a rainbow in the sky.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-swiadomosci-autyzmu)
-
----
-
-## International Children's Book Day
-
-This day aims to spread books and reading among children. It is celebrated on the anniversary of the birth of the famous fairy tale writer Hans Christian Andresen
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ksiazki-dla-dzieci)
+[Learn more](https://www.kalbi.pl/dzien-teczy)
 
 ---
 
 
-*Last updated: 2026-04-02 04:30:07 UTC*
+*Last updated: 2026-04-03 04:30:05 UTC*
