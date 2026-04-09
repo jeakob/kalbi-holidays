@@ -1,30 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**April 08, 2026**
+**April 09, 2026**
 
-## International Day of Opposition Against GMOs
+## World Pigeon Day
 
-Genetically modified organism - the abbreviation GMO itself raises doubts. It's no wonder that the calendar of the world of unusual shows the International Day of Opposition Against GMOs.
+The "courier" abilities of pigeons are known from ancient Persia and Egypt. On World Pigeon Day, maybe it's worth writing a romantic letter? Of course, on paper, not on a phone screen
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-opozycji-przeciw-gmo)
-
----
-
-## International Roma Day
-
-Roma culture has long and colorful traditions. On International Roma Day, it is also worth taking an interest in the problems they face in the modern world. Otherwise, the saying that there are no real gypsies today will become extremely true.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-romow)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-golebia)
 
 ---
 
-## Zoo Lovers' Day
+## International Unicorn Day
 
-The institution of the zoo has its opponents and supporters. Zoo Lovers' Day is a celebration of the latter, who make skeptics aware that some animal species, if they did not reproduce artificially in the zoo, would have become extinct a long time ago. On this day, it is worth going for a walk and seeing exotic animals.
+Unicorns have become a hit in pop culture. Teenagers dye their hair in rainbow colors. Many gadgets with the image of a mythical creature with one horn have been created. International Unicorn Day should be the happiest day of the year. It was created as a competition to the depressing Blue Monday.
 
-[Learn more](https://www.kalbi.pl/dzien-milosnikow-zoo)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-jednorozca)
 
 ---
 
 
-*Last updated: 2026-04-08 04:37:03 UTC*
+*Last updated: 2026-04-09 04:34:20 UTC*
