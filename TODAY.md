@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**April 09, 2026**
+**April 10, 2026**
 
-## World Pigeon Day
+## Bandurek Day
 
-The "courier" abilities of pigeons are known from ancient Persia and Egypt. On World Pigeon Day, maybe it's worth writing a romantic letter? Of course, on paper, not on a phone screen
+In the past, our ancestors spent their time playing the bandura. In the wake of the growing interest in Slavic culture, it is worth mentioning this ancient instrument such as a lute.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-golebia)
-
----
-
-## International Unicorn Day
-
-Unicorns have become a hit in pop culture. Teenagers dye their hair in rainbow colors. Many gadgets with the image of a mythical creature with one horn have been created. International Unicorn Day should be the happiest day of the year. It was created as a competition to the depressing Blue Monday.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-jednorozca)
+[Learn more](https://www.kalbi.pl/dzien-bandurka)
 
 ---
 
+## International Safety Pin Day
 
-*Last updated: 2026-04-09 04:34:20 UTC*
+International Safety Pin Day reminds us that it is worth always having it with us. An inconspicuous, small thing will help when the zipper on your skirt is torn or when the zipper on your pants is broken.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-agrafki)
+
+---
+
+
+*Last updated: 2026-04-10 04:47:13 UTC*
