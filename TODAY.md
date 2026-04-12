@@ -1,30 +1,52 @@
 # 🎉 Today's Unusual Holidays
 
-**April 11, 2026**
+**April 12, 2026**
 
-## Radio Day
+## Chocolate Day
 
-Radio Day is a Polish holiday established to commemorate the adoption on April 11, 1923 of the guidelines for the Radiotelegraphy Act, a document that contributed to the creation of Polish radio broadcasting.
-
-[Learn more](https://www.kalbi.pl/dzien-radia)
+[Learn more](https://www.kalbi.pl/dzien-czekolady)
 
 ---
 
-## Day of People with Parkinson's Disease
+## International Aviation and Space Day
 
-This holiday was established in 1997 in honor of James Parkinson. He was the first to describe the symptoms of the disease, which is why it received this name.
+Yuri Gagarin was the first man in space. International Aviation and Space Day is a tribute to him and those who contributed to the historic flight into space.
 
-[Learn more](https://www.kalbi.pl/dzien-osob-z-choroba-parkinsona)
-
----
-
-## National Day for the Fight against Unemployment
-
-Unemployment is a serious social problem that also generates other problems. May this day no longer be needed in the future... »
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-walki-z-bezrobociem)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-lotnictwa-i-kosmonautyki)
 
 ---
 
+## International Street Children's Day
 
-*Last updated: 2026-04-11 04:22:37 UTC*
+The child should play in the sandbox or on the playground. If instead he has to live on the streets, it is a huge tragedy. On this day, it is worth reflecting on this embarrassing problem of the modern world.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dzieci-ulicy)
+
+---
+
+## Hamster Day
+
+These little cute creatures have their holiday on April 12. On this occasion, it is worth buying your pet a treat or a new toy for its cage.
+
+[Learn more](https://www.kalbi.pl/dzien-chomika)
+
+---
+
+## International Day of Manned Spaceflight
+
+This holiday was established by the UN General Assembly on April 7, 2011 on the 50th anniversary of the first human flight into space. The historic event was achieved by Yuri Gagarin.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zalogowych-lotow-kosmicznych)
+
+---
+
+## Clean Windows Day
+
+On this holiday, only one thing comes to mind to properly honor it - of course, wash the windows!
+
+[Learn more](https://www.kalbi.pl/dzien-czystych-okien)
+
+---
+
+
+*Last updated: 2026-04-12 04:46:56 UTC*
