@@ -1,52 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**April 12, 2026**
+**April 13, 2026**
 
-## Chocolate Day
+## Remembrance Day of the Victims of the Katyn Massacre
 
-[Learn more](https://www.kalbi.pl/dzien-czekolady)
+The holiday commemorates the victims of the Katyn massacre committed by the NKVD. This is one of the saddest events in the history of our country.
 
----
-
-## International Aviation and Space Day
-
-Yuri Gagarin was the first man in space. International Aviation and Space Day is a tribute to him and those who contributed to the historic flight into space.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-lotnictwa-i-kosmonautyki)
+[Learn more](https://www.kalbi.pl/dzien-pamieci-ofiar-zbrodni-katynskiej)
 
 ---
 
-## International Street Children's Day
+## Scrabble day
 
-The child should play in the sandbox or on the playground. If instead he has to live on the streets, it is a huge tragedy. On this day, it is worth reflecting on this embarrassing problem of the modern world.
+The calendar of unusual holidays could not miss this iconic game, invented by Alfred Butts in 1931. Its enormous popularity is confirmed by the fact that the Scrabble world championship is organized. Creating words is great fun, so today it's worth playing with your family or friends.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dzieci-ulicy)
-
----
-
-## Hamster Day
-
-These little cute creatures have their holiday on April 12. On this occasion, it is worth buying your pet a treat or a new toy for its cage.
-
-[Learn more](https://www.kalbi.pl/dzien-chomika)
-
----
-
-## International Day of Manned Spaceflight
-
-This holiday was established by the UN General Assembly on April 7, 2011 on the 50th anniversary of the first human flight into space. The historic event was achieved by Yuri Gagarin.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zalogowych-lotow-kosmicznych)
-
----
-
-## Clean Windows Day
-
-On this holiday, only one thing comes to mind to properly honor it - of course, wash the windows!
-
-[Learn more](https://www.kalbi.pl/dzien-czystych-okien)
+[Learn more](https://www.kalbi.pl/dzien-scrabble)
 
 ---
 
 
-*Last updated: 2026-04-12 04:46:56 UTC*
+*Last updated: 2026-04-13 04:58:21 UTC*
