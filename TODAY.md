@@ -1,22 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**April 13, 2026**
+**April 14, 2026**
 
-## Remembrance Day of the Victims of the Katyn Massacre
+## Homeless People's Day
 
-The holiday commemorates the victims of the Katyn massacre committed by the NKVD. This is one of the saddest events in the history of our country.
+We should help people who, for various reasons, live on the streets as often as possible. Not only on Homeless People's Day
 
-[Learn more](https://www.kalbi.pl/dzien-pamieci-ofiar-zbrodni-katynskiej)
-
----
-
-## Scrabble day
-
-The calendar of unusual holidays could not miss this iconic game, invented by Alfred Butts in 1931. Its enormous popularity is confirmed by the fact that the Scrabble world championship is organized. Creating words is great fun, so today it's worth playing with your family or friends.
-
-[Learn more](https://www.kalbi.pl/dzien-scrabble)
+[Learn more](https://www.kalbi.pl/dzien-ludzi-bezdomnych)
 
 ---
 
+## Sky Gazing Day
 
-*Last updated: 2026-04-13 04:58:21 UTC*
+Look at the sky and see how beautiful it is there. I hope it doesn't rain that day!
+
+[Learn more](https://www.kalbi.pl/dzien-patrzenia-sie-w-niebo)
+
+---
+
+## Dolphin Day
+
+These cute animals deserve their own celebration in the human world. If only because they help not only other representatives of their species, but even humans.
+
+[Learn more](https://www.kalbi.pl/dzien-delfina)
+
+---
+
+## Feast of the Baptism of Poland
+
+It is worth knowing the history of your native country. The Baptism of Poland Day commemorates one of the key events for the homeland, which took place on April 14, 966. Then the prince of Polans, Mieszko I, was baptized and thus the Christianization of Poland began.
+
+[Learn more](https://www.kalbi.pl/swieto-chrztu-polski)
+
+---
+
+
+*Last updated: 2026-04-14 04:45:33 UTC*
