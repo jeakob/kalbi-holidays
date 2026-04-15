@@ -1,38 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**April 14, 2026**
+**April 15, 2026**
 
-## Homeless People's Day
+## World Sobriety Day
 
-We should help people who, for various reasons, live on the streets as often as possible. Not only on Homeless People's Day
+Why are people so happy to put themselves in a state where they lose control of themselves? This has been happening for centuries and let's face it, it will continue for another few hundred years. But even if only one person quits stimulants on World Sobriety Day, it will be a success.
 
-[Learn more](https://www.kalbi.pl/dzien-ludzi-bezdomnych)
-
----
-
-## Sky Gazing Day
-
-Look at the sky and see how beautiful it is there. I hope it doesn't rain that day!
-
-[Learn more](https://www.kalbi.pl/dzien-patrzenia-sie-w-niebo)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-trzezwosci)
 
 ---
 
-## Dolphin Day
+## World Art Day
 
-These cute animals deserve their own celebration in the human world. If only because they help not only other representatives of their species, but even humans.
+Art has accompanied us practically from the very beginning of human civilization. It's a way to delight, move and relax. On World Art Day, it is worth going to the theater, cinema or opera and getting a taste of "culture".
 
-[Learn more](https://www.kalbi.pl/dzien-delfina)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-sztuki)
 
 ---
 
-## Feast of the Baptism of Poland
+## International Veterans Day
 
-It is worth knowing the history of your native country. The Baptism of Poland Day commemorates one of the key events for the homeland, which took place on April 14, 966. Then the prince of Polans, Mieszko I, was baptized and thus the Christianization of Poland began.
+World War II claimed many human lives. The people who survived this hell are living history today. International Veterans Day is a time to honor the insurgents, soldiers and other frontline fighters who shed their blood for their homeland.
 
-[Learn more](https://www.kalbi.pl/swieto-chrztu-polski)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kombatanta)
 
 ---
 
 
-*Last updated: 2026-04-14 04:45:33 UTC*
+*Last updated: 2026-04-15 04:45:57 UTC*
