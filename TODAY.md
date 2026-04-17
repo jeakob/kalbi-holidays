@@ -1,46 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**April 16, 2026**
+**April 17, 2026**
 
-## Sapper's Day
+## World Hemophilia Day
 
-A sapper is only wrong once - this saying is the clearest example that it is a very dangerous profession. On Sapper's Day, it is worth paying tribute to professionals who risk their lives every time they perform their duties.
+World Hemophilia Day was established by the World Federation of Hemophilia in 1989. The date is associated with the birthday of the founder of the Federation, Frank Schnabel. The main goal of this initiative is to expand knowledge about the disease, raise awareness of the needs of people struggling with it and provide them with support.
 
-[Learn more](https://www.kalbi.pl/dzien-sapera)
-
----
-
-## European Speed ​​Check Day
-
-Nobody likes speed controls, but if it weren't for them, there would probably be huge chaos on the roads, and few drivers would live to be 30 years old.
-
-[Learn more](https://www.kalbi.pl/europejski-dzien-kontroli-predkosci)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-chorych-na-hemofilie)
 
 ---
 
-## Textile Worker's Day
+## World Rubik's Cube Day
 
-Textile Worker's Day, i.e. a person involved in textiles, is currently not as popular as it used to be. Over time, textile workers were replaced by machines and now the entire textile industry is automated. In the past, this day was celebrated loudly in workplaces, bosses provided refreshments to employees and organized festivals.
+This logic toy is a challenge for the greatest brains. On April 17, you should not refuse to compete with Ernő Rubik's invention.
 
-[Learn more](https://www.kalbi.pl/dzien-wlokniarza)
-
----
-
-## Engineering Troops Day
-
-Soldiers of engineering forces are specialists who very often risk their lives, for example when defusing mines and bombs. They are also responsible for many activities outside the frontline - they help during floods and repair roads and bridges.
-
-[Learn more](https://www.kalbi.pl/swieto-wojsk-inzynieryjnych)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-kostki-rubika)
 
 ---
 
-## World Day for the Elimination of Child Slavery
+## International Nasty Day
 
-This holiday is intended to draw attention to the tragedy of children used for slave labor. The date commemorates Iqbal Masih from Pakistan - a boy at the age of 4 was sold by his father to a carpet factory. He managed to escape after 6 years, and his activities contributed to the release of 3,000 children. Unfortunately, at the age of 13, he was shot by unknown perpetrators.
+Nasty people of all nations, unite! Today is your holiday!
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-walki-z-niewolnictwem-dzieci)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-paskudy)
 
 ---
 
 
-*Last updated: 2026-04-16 04:51:25 UTC*
+*Last updated: 2026-04-17 04:49:14 UTC*
