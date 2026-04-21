@@ -1,46 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**April 20, 2026**
+**April 21, 2026**
 
-## Love for Diversity Day
+## Parilia
 
-Love for Diversity Day is a celebration of authentic acceptance instead of simple tolerance. It celebrates the uniqueness of each person and reminds us that the differences between us are the source of a wealth of experiences, creativity and the development of society.
+Rome's birthday, i.e. secular celebrations related to the founding of the city of Rome. According to legend, told by Marcus Terence Varro, Romulus founded the city of Rome on April 21, 753 BC.
 
-[Learn more](https://www.kalbi.pl/dzien-milosci-do-roznorodnosci)
-
----
-
-## International Free Press Day
-
-Thanks to the press, we can find out what is happening around us. Therefore, everyone should care even more about it being objective and independent. And now go to the kiosk to buy a newspaper!
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-wolnej-prasy)
+[Learn more](https://www.kalbi.pl/parilia)
 
 ---
 
-## Textile, Clothing and Leather Industry Worker's Day
+## World Creativity and Innovation Day
 
-The resolution regarding this holiday was adopted on January 9, 1964, still in the Polish People's Republic. Its aim was to appreciate the work of textile workers, clothing workers, shoemakers and tanners. Although the resolution was abolished, the holiday survived and is currently held on April 20.
+The International Day of Creativity and Innovation is a time when various events are organized to promote modern and original solutions. Young people, especially, should be encouraged to use their imagination and invent new things. Only in this way will humanity continue to develop.
 
-[Learn more](https://www.kalbi.pl/dzien-pracownika-przemyslu-wlokienniczego-odziezowego-i-skorzanego)
-
----
-
-## Marijuana Day
-
-Marijuana probably has as many supporters as opponents. However, the latter should relax a bit on Marijuana Day and look at smokers with a gentler eye
-
-[Learn more](https://www.kalbi.pl/dzien-marihuany)
-
----
-
-## Chinese Language Day
-
-中国语言日 – if you are Polish and you know what it means without using a dictionary, it means that you have a real talent for languages. It is worth taking advantage of this, because this language has both rich traditions and enormous potential - its importance in the modern world is growing along with the Chinese economy.
-
-[Learn more](https://www.kalbi.pl/dzien-jezyka-chinskiego)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-kreatywnosci-i-innowacji)
 
 ---
 
 
-*Last updated: 2026-04-20 04:58:01 UTC*
+*Last updated: 2026-04-21 04:48:35 UTC*
