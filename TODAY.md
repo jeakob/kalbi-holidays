@@ -1,44 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**April 26, 2026**
+**April 27, 2026**
 
-## International Rescue Dog Day
+## World Graphics Day
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-psa-ratowniczego)
+We have been celebrating the holiday since 1995, on the anniversary of the establishment of Icograda, the International Council of Associations of Graphic Designers. On the occasion of World Graphics Day, we would like to wish representatives of this industry as much creativity and ideas as possible.
 
----
-
-## World Intellectual Property Day
-
-The holiday was established in 2000 to commemorate the entry into force of the convention establishing the World Intellectual Property Organization in 1970. The aim of this event is to deepen knowledge about intellectual property law, patents, trademarks, designs, and to emphasize their importance in everyday life.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wlasnosci-intelektualnej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-grafika)
 
 ---
 
-## Road and Transport Worker's Day
+## Florist's Day
 
-Road and Transport Worker's Day has long traditions, as it was celebrated in the times of the Polish People's Republic. It currently has a permanent date - April 26. Therefore, we should wish road workers and transport workers all the best, and above all, job satisfaction.
+The holiday was born in 2010 thanks to the forumkwiatowe.pl community. Its goal is not only to honor florists, but to show that it is not an easy job. On this day, you should buy a beautiful bouquet and give it - not necessarily to a florist - but, for example, to your mother, grandmother or wife.
 
-[Learn more](https://www.kalbi.pl/dzien-drogowca-i-transportowca)
-
----
-
-## International Remembrance Day for the Chernobyl Disaster
-
-The explosion of a nuclear reactor at a power plant in Ukraine became a black page in the history of nuclear power plants. International Chernobyl Disaster Remembrance Day was proclaimed to honor the memory of all the people who died as a result of this unimaginable tragedy.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pamieci-o-katastrofie-w-czarnobylu)
+[Learn more](https://www.kalbi.pl/dzien-florysty)
 
 ---
 
-## World Pinhole Photography Day
+## World Tapir Day
 
-This holiday is for everyone who appreciates original, artistic photos. Taken, of course, with a hand-made camera
+These unusual proboscis mammals will certainly be happy when we visit them at the Zoo today. The ceremony will include a special cake and dance shows. It is also a good opportunity to learn interesting facts about their lives.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-fotografii-otworkowej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-tapira)
 
 ---
 
 
-*Last updated: 2026-04-26 05:11:33 UTC*
+*Last updated: 2026-04-27 05:23:38 UTC*
