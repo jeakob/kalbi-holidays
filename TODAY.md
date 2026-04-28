@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**April 27, 2026**
+**April 28, 2026**
 
-## World Graphics Day
+## World Day for Safety and Health at Work
 
-We have been celebrating the holiday since 1995, on the anniversary of the establishment of Icograda, the International Council of Associations of Graphic Designers. On the occasion of World Graphics Day, we would like to wish representatives of this industry as much creativity and ideas as possible.
+It was born from a grass-roots initiative of trade unions, and today it has become a global movement for a culture of safety at work. Every day, around 5,000 people die in the world as a result of accidents at work, and World Safety Day reminds us that no death at work is inevitable. It connects the memory of victims with concrete action - engaging governments, employers and workers to build safer workplaces for all.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-grafika)
-
----
-
-## Florist's Day
-
-The holiday was born in 2010 thanks to the forumkwiatowe.pl community. Its goal is not only to honor florists, but to show that it is not an easy job. On this day, you should buy a beautiful bouquet and give it - not necessarily to a florist - but, for example, to your mother, grandmother or wife.
-
-[Learn more](https://www.kalbi.pl/dzien-florysty)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-bezpieczenstwa-i-ochrony-zdrowia-w-pracy)
 
 ---
 
-## World Tapir Day
+## Camembert Cheese Day
 
-These unusual proboscis mammals will certainly be happy when we visit them at the Zoo today. The ceremony will include a special cake and dance shows. It is also a good opportunity to learn interesting facts about their lives.
+Camembert is more than cheese - it is a story about tradition, history and love for taste. The celebration of this unique album reminds us of the power of local passion that transformed a simple product into an icon of French culture. Immerse yourself in the creamy legend!
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-tapira)
+[Learn more](https://www.kalbi.pl/dzien-sera-camembert)
+
+---
+
+## World Day of Remembrance for Victims of Accidents at Work
+
+The holiday aims to draw attention to improving the safety conditions of working people and to commemorate people who died while performing their professional duties.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-pamieci-ofiar-wypadkow-przy-pracy)
 
 ---
 
 
-*Last updated: 2026-04-27 05:23:38 UTC*
+*Last updated: 2026-04-28 05:30:47 UTC*
