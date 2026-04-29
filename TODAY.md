@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**April 28, 2026**
+**April 29, 2026**
 
-## World Day for Safety and Health at Work
+## Intergenerational Solidarity Day
 
-It was born from a grass-roots initiative of trade unions, and today it has become a global movement for a culture of safety at work. Every day, around 5,000 people die in the world as a result of accidents at work, and World Safety Day reminds us that no death at work is inevitable. It connects the memory of victims with concrete action - engaging governments, employers and workers to build safer workplaces for all.
+This holiday proves that intergenerational solidarity is not a luxury, but a necessity in the face of the challenges of the 21st century. Since its inception in 2009, it has become a platform for dialogue between generations across Europe, inspiring thousands of local initiatives and projects. Learn how simple gestures of cooperation between young and old can counter ageism, build mutual respect and strengthen social cohesion on our continent.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-bezpieczenstwa-i-ochrony-zdrowia-w-pracy)
-
----
-
-## Camembert Cheese Day
-
-Camembert is more than cheese - it is a story about tradition, history and love for taste. The celebration of this unique album reminds us of the power of local passion that transformed a simple product into an icon of French culture. Immerse yourself in the creamy legend!
-
-[Learn more](https://www.kalbi.pl/dzien-sera-camembert)
+[Learn more](https://www.kalbi.pl/dzien-solidarnosci-miedzypokoleniowej)
 
 ---
 
-## World Day of Remembrance for Victims of Accidents at Work
+## International Dance Day
 
-The holiday aims to draw attention to improving the safety conditions of working people and to commemorate people who died while performing their professional duties.
+Dance is a language that does not need a translator. International Dance Day was created to celebrate the power of movement that connects people across borders and cultures. Discover a celebration inspired by the vision of dance speaking straight to the heart.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-pamieci-ofiar-wypadkow-przy-pracy)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-tanca)
+
+---
+
+## Immunology Day
+
+Your immune system works for you 24/7 – it's time to learn its secrets! World Immunology Day, initiated in 2005, is a global celebration of science that demystifies the body's complex defense mechanisms and demonstrates their key importance in the fight against diseases ranging from infections to cancer. Annual events around the world – from laboratory workshops to interactive exhibitions – make the fascinating world of immune cells accessible to everyone.
+
+[Learn more](https://www.kalbi.pl/dzien-immunologii)
 
 ---
 
 
-*Last updated: 2026-04-28 05:30:47 UTC*
+*Last updated: 2026-04-29 05:26:40 UTC*
