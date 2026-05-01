@@ -1,38 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**April 30, 2026**
+**May 01, 2026**
 
-## World Day Against Child Beating
+## National Kaszanka Festival
 
-A global campaign challenging the thousand-year-old tradition of "educational spanking", which - contrary to popular belief - does not teach discipline, but harms the development of a child's brain and psyche. Initiated by American activists, today it unites 68 countries that have completely banned corporal punishment. Discover how you can parent effectively without violence and why every blow leaves a mark not only on the child's body, but also on the child's psyche.
+What can I say, black pudding is our pride. This holiday was initially celebrated in the vicinity of Płock, but today it is known throughout Poland. The beginning of the long May weekend is a great opportunity to eat grilled black pudding.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-sprzeciwu-wobec-bicia-dzieci)
-
----
-
-## International Jazz Day
-
-Louis Armstrong, John Coltrane and many others - if you like their music, you certainly know where to celebrate International Jazz Day. For others, it is a great opportunity to get to know this species better.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-jazzu)
+[Learn more](https://www.kalbi.pl/ogolnopolskie-swieto-kaszanki)
 
 ---
 
-## National Horse Day
+## International Guerrilla Sunflower Planting Day
 
-Horses are beautiful animals, which makes it even more difficult to understand why they are treated so badly by some people. So on National Horse Day, let's express our best wishes to these animals, but let's also help fight bandits who transport them in cruel conditions and turn them into meat.
+The inspiration for Richard Reynolds, the originator of the international Guerrilla Sunflower Planting Day, was the color they add to even the most gloomy places. The celebration of the holiday is intended to encourage people to plant sunflowers in their area, especially since they do not require any special care or conditions.
 
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-koni)
-
----
-
-## Honesty Day
-
-Being honest is difficult, but it certainly pays off more than lying and taking shortcuts. Honesty Day reminds us that it is best to follow principles and values ​​in life, and not only on this one day.
-
-[Learn more](https://www.kalbi.pl/dzien-uczciwosci)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-partyzanckiego-sadzenia-slonecznikow)
 
 ---
 
+## Lily of the Valley Festival
 
-*Last updated: 2026-04-30 05:30:43 UTC*
+Lily of the Valley Day is a holiday originating from France. The roots probably date back to ancient times, but the holiday's contemporary popularity also owes to politics, as it has become a symbol of Labor Day in France.
+
+[Learn more](https://www.kalbi.pl/swieto-konwalii)
+
+---
+
+## Space Day
+
+The holiday was established on the initiative of American astronauts. Its message is not only to commemorate efforts related to exploring space, but also to inspire scientists to further activities.
+
+[Learn more](https://www.kalbi.pl/dzien-kosmosu)
+
+---
+
+## International Tuba Day
+
+This brass instrument from the group of mouthpiece aerophones is celebrated on the first Friday of May.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-tuby)
+
+---
+
+
+*Last updated: 2026-05-01 05:41:53 UTC*
