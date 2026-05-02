@@ -1,46 +1,62 @@
 # 🎉 Today's Unusual Holidays
 
-**May 01, 2026**
+**May 02, 2026**
 
-## National Kaszanka Festival
+## Polish Diaspora and Poles Abroad Day
 
-What can I say, black pudding is our pride. This holiday was initially celebrated in the vicinity of Płock, but today it is known throughout Poland. The beginning of the long May weekend is a great opportunity to eat grilled black pudding.
+Poles have been going to other countries for years for various reasons. However, they will always be our compatriots, it is worth remembering this in every situation and in every place on earth.
 
-[Learn more](https://www.kalbi.pl/ogolnopolskie-swieto-kaszanki)
-
----
-
-## International Guerrilla Sunflower Planting Day
-
-The inspiration for Richard Reynolds, the originator of the international Guerrilla Sunflower Planting Day, was the color they add to even the most gloomy places. The celebration of the holiday is intended to encourage people to plant sunflowers in their area, especially since they do not require any special care or conditions.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-partyzanckiego-sadzenia-slonecznikow)
+[Learn more](https://www.kalbi.pl/dzien-polonii-i-polakow-za-granica)
 
 ---
 
-## Lily of the Valley Festival
+## Barbecue Day
 
-Lily of the Valley Day is a holiday originating from France. The roots probably date back to ancient times, but the holiday's contemporary popularity also owes to politics, as it has become a symbol of Labor Day in France.
+The beginning of May is a good date to start the barbecue season. Sausages, beer, a good package - what more do you need on a barbecue day?
 
-[Learn more](https://www.kalbi.pl/swieto-konwalii)
-
----
-
-## Space Day
-
-The holiday was established on the initiative of American astronauts. Its message is not only to commemorate efforts related to exploring space, but also to inspire scientists to further activities.
-
-[Learn more](https://www.kalbi.pl/dzien-kosmosu)
+[Learn more](https://www.kalbi.pl/dzien-grilla)
 
 ---
 
-## International Tuba Day
+## White Eagle Festival
 
-This brass instrument from the group of mouthpiece aerophones is celebrated on the first Friday of May.
+The eagle on a red background is one of the symbols of our country. The White Eagle Festival emphasizes the importance of the national emblem and draws attention to the fact that we should treat symbols with due respect.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-tuby)
+[Learn more](https://www.kalbi.pl/swieto-orla-bialego)
+
+---
+
+## World Tuna Day
+
+World Tuna Day is not only an excuse to eat this delicious meat, but also an opportunity to draw consumers' attention to the fact that the high demand for this fish may result in its extinction in the near future. That's why we need to push for sustainable fishing.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-tunczyka)
+
+---
+
+## International Harry Potter Day
+
+Apparently, International Harry Potter Day was announced by British Prime Minister David Cameron - he announced this day as an official international holiday in honor of JK Rowling's literary work. Grab your wand and let's enjoy the magical story of Harry Potter.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-harryego-pottera)
+
+---
+
+## World Naked Gardening Day
+
+This is a holiday that will certainly be properly celebrated by naturists. The garden is absolutely our place here, after all, being naked is the most natural outfit.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-nagiego-ogrodnictwa)
+
+---
+
+## Drone Day
+
+There is no doubt that the drone festival is gaining in importance every year. Drones are the future - they are used not only by the army for reconnaissance purposes, but also by scientists, photographers, extreme sports enthusiasts and rescuers.
+
+[Learn more](https://www.kalbi.pl/dzien-dronow)
 
 ---
 
 
-*Last updated: 2026-05-01 05:41:53 UTC*
+*Last updated: 2026-05-02 04:58:50 UTC*
