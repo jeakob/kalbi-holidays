@@ -1,36 +1,70 @@
 # 🎉 Today's Unusual Holidays
 
-**May 03, 2026**
+**May 04, 2026**
 
-## World Press Freedom Day
+## International Firefighter's Day
 
-Did you know that as many as 85% of the world's population has experienced a deterioration in press freedom in their country? This holiday celebrates journalistic courage and reminds us that without independent media there is no true democracy. It is a global call to protect reporters from censorship, violence and manipulation - especially in the era of artificial intelligence and mass disinformation.
+Firefighters celebrated their holiday long before it became official! This 150-year-old tradition related to the cult of St. Florian - a Roman fire brigade officer who died for his faith - survived the partitions, communism and political changes. Learn the fascinating history of the holiday, which from informal celebrations in fire stations turned into a global event uniting over 2 million firefighters in Poland alone.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wolnosci-prasy)
-
----
-
-## A day without a computer
-
-[Learn more](https://www.kalbi.pl/dzien-bez-komputera)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-strazaka)
 
 ---
 
-## International Asthma and Allergy Day
+## World Slowness Day
 
-Allergies and Asthma are diseases that make the lives of many people miserable. They are characterized by a rash, shortness of breath, cough and runny nose. If left untreated, they pose a threat to life. Thanks to medications and avoiding allergens, you can avoid the unpleasant symptoms accompanying these diseases.
+The idea of ​​this holiday is delicious. It is about enjoying the current moment, life without rush. Everyone can quietly answer what their day looks like - phone calls, thousands of things to do and no time for anything... Today it just has to be different
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-astmy-i-alergii)
-
----
-
-## Sun Day
-
-Many of us love the sun and beautiful weather. But how much do we really know about him? Today is a chance to catch up.
-
-[Learn more](https://www.kalbi.pl/dzien-slonca)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-powolnosci)
 
 ---
 
+## Steelworker's Day
 
-*Last updated: 2026-05-03 05:30:36 UTC*
+The first celebration of Steelworker's Day took place in 1962. Since then, various celebrations - conferences, festivals and sports competitions - are held every year in metallurgical schools, academies and workplaces related to the industry.
+
+[Learn more](https://www.kalbi.pl/dzien-hutnika)
+
+---
+
+## Chimney Sweep Day
+
+Why should we grab the button when we see a chimney sweeper? The reason is prosaic. In the past, every housewife wanted him to visit her house first, because his clothes were still clean and not soot-smeared. So they pulled the button to their home, and the one who was faster was considered lucky.
+
+[Learn more](https://www.kalbi.pl/dzien-kominiarza)
+
+---
+
+## Potter's Day
+
+Pottery is one of the oldest crafts, unfortunately increasingly forgotten today. However, on Potter's Day it is worth remembering about it, because it is an extremely interesting and creative activity.
+
+[Learn more](https://www.kalbi.pl/dzien-garncarza)
+
+---
+
+## Baker's Day
+
+Thanks to them, we can eat delicious rolls or crusty bread. On this holiday, it is worth realizing that while we are sleeping soundly, they are baking our delicacies.
+
+[Learn more](https://www.kalbi.pl/dzien-piekarza)
+
+---
+
+## International Star Wars Day
+
+May the force be with you! Today is Star Wars Day, so on this occasion it is worth having a movie marathon with this iconic work.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gwiezdnych-wojen)
+
+---
+
+## Military Fire Protection Day
+
+Soldiers who serve in the Military Fire Protection are involved in preventing and fighting fires. The celebration of the event is an opportunity to present medals, decorations and awards of higher service ranks to firefighters and soldiers of the Military Fire Protection Service.
+
+[Learn more](https://www.kalbi.pl/swieto-wojskowej-ochrony-przeciwpozarowej)
+
+---
+
+
+*Last updated: 2026-05-04 05:34:37 UTC*
