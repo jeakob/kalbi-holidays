@@ -1,70 +1,52 @@
 # 🎉 Today's Unusual Holidays
 
-**May 04, 2026**
+**May 05, 2026**
 
-## International Firefighter's Day
+## World Hand Hygiene Day
 
-Firefighters celebrated their holiday long before it became official! This 150-year-old tradition related to the cult of St. Florian - a Roman fire brigade officer who died for his faith - survived the partitions, communism and political changes. Learn the fascinating history of the holiday, which from informal celebrations in fire stations turned into a global event uniting over 2 million firefighters in Poland alone.
+A day that reminds us what a powerful tool in the fight against disease your hands are - when they are clean! This is a WHO initiative that changes the world, starting with the simplest habit. Discover why this small gesture makes a global difference to the health of all of us.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-strazaka)
-
----
-
-## World Slowness Day
-
-The idea of ​​this holiday is delicious. It is about enjoying the current moment, life without rush. Everyone can quietly answer what their day looks like - phone calls, thousands of things to do and no time for anything... Today it just has to be different
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-powolnosci)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-higieny-rak)
 
 ---
 
-## Steelworker's Day
+## Day Without Makeup
 
-The first celebration of Steelworker's Day took place in 1962. Since then, various celebrations - conferences, festivals and sports competitions - are held every year in metallurgical schools, academies and workplaces related to the industry.
+No Makeup Day is an annual holiday celebrated to promote the natural beauty and health of the skin. It is also a reminder of the importance of self-acceptance and a reflection on social pressure regarding appearance. The holiday is an excellent opportunity to rest your skin, break stereotypes and celebrate our natural beauty.
 
-[Learn more](https://www.kalbi.pl/dzien-hutnika)
-
----
-
-## Chimney Sweep Day
-
-Why should we grab the button when we see a chimney sweeper? The reason is prosaic. In the past, every housewife wanted him to visit her house first, because his clothes were still clean and not soot-smeared. So they pulled the button to their home, and the one who was faster was considered lucky.
-
-[Learn more](https://www.kalbi.pl/dzien-kominiarza)
+[Learn more](https://www.kalbi.pl/dzien-bez-makijazu)
 
 ---
 
-## Potter's Day
+## International Midwife Day
 
-Pottery is one of the oldest crafts, unfortunately increasingly forgotten today. However, on Potter's Day it is worth remembering about it, because it is an extremely interesting and creative activity.
+The idea for the holiday was born in the late 1980s at a conference of the International Confederation of Midwives in the Netherlands. International Midwife's Day was first celebrated on May 5, 1991. Its idea is to emphasize and appreciate the role midwives play in everyday life.
 
-[Learn more](https://www.kalbi.pl/dzien-garncarza)
-
----
-
-## Baker's Day
-
-Thanks to them, we can eat delicious rolls or crusty bread. On this holiday, it is worth realizing that while we are sleeping soundly, they are baking our delicacies.
-
-[Learn more](https://www.kalbi.pl/dzien-piekarza)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-poloznej)
 
 ---
 
-## International Star Wars Day
+## Day for Combating Discrimination against People with Disabilities
 
-May the force be with you! Today is Star Wars Day, so on this occasion it is worth having a movie marathon with this iconic work.
+The Day for Combating Discrimination against People with Disabilities aims to increase social awareness of the problems faced by people with disabilities and to fight discrimination. It is about promoting equality and social inclusion of those who are full members of society and deserve equal treatment and opportunities.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gwiezdnych-wojen)
+[Learn more](https://www.kalbi.pl/dzien-walki-z-dyskryminacja-osob-z-niepelnosprawnoscia)
 
 ---
 
-## Military Fire Protection Day
+## Europe Day
 
-Soldiers who serve in the Military Fire Protection are involved in preventing and fighting fires. The celebration of the event is an opportunity to present medals, decorations and awards of higher service ranks to firefighters and soldiers of the Military Fire Protection Service.
+Europe Day is celebrated on the anniversary of the establishment of the Council of Europe - it took place on May 5, 1949 in London. EU member states celebrate on May 9, the anniversary of the announcement of the Schumann Plan.
 
-[Learn more](https://www.kalbi.pl/swieto-wojskowej-ochrony-przeciwpozarowej)
+[Learn more](https://www.kalbi.pl/dzien-europy)
+
+---
+
+## World Asthma Day
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-astmy)
 
 ---
 
 
-*Last updated: 2026-05-04 05:34:37 UTC*
+*Last updated: 2026-05-05 05:14:55 UTC*
