@@ -1,54 +1,39 @@
 # 🎉 Today's Unusual Holidays
 
-**May 08, 2026**
+**May 09, 2026**
 
-## National Victory Day
+## World Fair Trade Day
 
-The holiday celebrated in Poland on May 8 commemorates the end of World War II in Europe.
+World Fair Trade Day is an international event to promote and raise awareness of fair trade. The celebration focuses on educating consumers, producers and politicians about ethical values, decent working conditions, fair prices and sustainable development. By choosing fair trade products, everyone can support producers in developing countries and contribute to reducing poverty and protecting the environment.
 
-[Learn more](https://www.kalbi.pl/narodowy-dzien-zwyciestwa)
-
----
-
-## International Professional Driver's Day
-
-This profession requires sacrifices, such as separation from family. On the occasion of professional drivers' holiday, we wish them to spend more time at home.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kierowcy-zawodowego)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-sprawiedliwego-handlu)
 
 ---
 
-## Librarian and Libraries Day
+## World Migratory Bird Day
 
-The first information about the profession of a librarian comes from ancient times. The holiday was initiated by the Association of Polish Librarians - it is celebrated every year on May 8.
+World Migratory Bird Day (WMBD) is an annual event aimed at increasing public awareness of migratory birds and their conservation. It is celebrated twice a year to accommodate the different migration seasons. The initiative emphasizes the importance of protecting bird habitats and educating the public about their impact on ecosystems. WMBD promotes international cooperation in protecting these extraordinary creatures that cross borders and connect people around the world.
 
-[Learn more](https://www.kalbi.pl/dzien-bibliotekarza-i-bibliotek)
-
----
-
-## World Red Cross and Red Crescent Day
-
-This international humanitarian movement brings together almost 100 million volunteers around the world who selflessly help other people and protect their health and lives. May 8 is a good date to thank them for this.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-czerwonego-krzyza-i-czerwonego-polksiezyca)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-ptakow-wedrownych)
 
 ---
 
-## World Donkey Day
+## European Union Day
 
-In developed countries, many people do not know that World Donkey Day exists because these animals are no longer used to transport goods or people. However, there are places where donkeys still work for people, e.g. in Mexico, and it is there that the animals are honored for their work on this day.
+The date of this holiday is related to the announcement by the French Minister of Foreign Affairs, Robert Schuman, of the plan that gave birth to the European Union.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-osla)
+[Learn more](https://www.kalbi.pl/dzien-unii-europejskiej)
 
 ---
 
-## World Ovarian Cancer Day
+## Ophthalmology Day
 
-Despite the availability of the best treatments for ovarian cancer, many women die. Many of them could have been saved if they had reached a gynecologist in time. Therefore, on the International Ovarian Cancer Day, foundations organize campaigns encouraging women to visit their doctors regularly.
+The Day of Ophthalmologists and Ophthalmology was established on the anniversary of the birth of Ferdinand Monoyer, a French ophthalmologist and professor of medical physics in Lyon. Ferdinand Monoyer defined diopters and developed a chart to measure visual acuity.
+Ophthalmology Day is a good day to preventively examine your eyesight and, if necessary, react in time to any changes in the performance of your eyes.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-walki-z-rakiem-jajnika)
+[Learn more](https://www.kalbi.pl/dzien-okulistyki)
 
 ---
 
 
-*Last updated: 2026-05-08 04:53:19 UTC*
+*Last updated: 2026-05-09 05:21:53 UTC*
