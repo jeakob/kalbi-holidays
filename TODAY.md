@@ -1,30 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**May 10, 2026**
+**May 11, 2026**
 
-## Municipal Worker's Day
+## A day without littering
 
-Municipal management is an important field of the national economy. Thanks to employees working in the water supply, sewage, waste management and reclamation sectors, we can live cleanly.
+Man produces waste wholesale and the worst thing is that many people leave it wherever they can: on the street, by the lake, in the forest, in the staircase, in the office. Let's clean up after ourselves and the world will be a cleaner place.
 
-[Learn more](https://www.kalbi.pl/dzien-pracownika-gospodarki-komunalnej)
-
----
-
-## World Lupus Day
-
-Lupus is a very serious disease that attacks the entire body. Not only does it require the care of various specialists, but if important organs are damaged, it is life-threatening. The holiday is organized by the World Lupus Federation and its aim is to improve the quality of life of people affected by lupus and to raise public awareness about this disease.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-tocznia)
+[Learn more](https://www.kalbi.pl/dzien-bez-smiecenia)
 
 ---
 
-## Bitch Day
+## Tax Advisor Day
 
-The origins of the celebration of the Zołza Festival are unknown. "Slut" itself is often treated as an acronym for Slim, Agile, Pretty, Resourceful, Ambitious instead of a pejorative term... »
+Tax Advisor Day is celebrated in commemoration of the adoption by the Sejm of the Republic of Poland of the Act of May 11, 2001, according to which the Minister of Finance was obliged to convene the 1st National Congress of Tax Advisors. This gave rise to the professional self-government of tax advisors in Poland.
 
-[Learn more](https://www.kalbi.pl/dzien-zolzy)
+[Learn more](https://www.kalbi.pl/dzien-doradcy-podatkowego)
 
 ---
 
 
-*Last updated: 2026-05-10 05:37:22 UTC*
+*Last updated: 2026-05-11 05:58:37 UTC*
