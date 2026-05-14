@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**May 13, 2026**
+**May 14, 2026**
 
-## World Furaha Day
+## Medical Guardian Day
 
-World Furaha Day is a day aimed at creating people's awareness about cerebral palsy and autism among children. Furaha means happiness in the local Swahili language.
+Medical Caregiver Day is a special holiday that commemorates the extraordinary contribution of these health care workers to our lives. In fact, a medical caregiver is not just a profession, but a calling that requires great empathy and dedication. On this day, we especially appreciate their invaluable work and wish them the strength to continue helping those who need it most.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-furaha)
-
----
-
-## International Hummus Day
-
-International Hummus Day is a celebration of vegetarians and vegans, because it is mainly them who use this creamy chickpea paste to replace traditional products, e.g. ham, on sandwiches. However, this day is intended to popularize hummus so that more people like this vegetarian spread, and thus there is a chance that fewer animals will die.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-hummusu)
+[Learn more](https://www.kalbi.pl/dzien-opiekuna-medycznego)
 
 ---
 
+## Pharmacist's Day
 
-*Last updated: 2026-05-13 05:48:54 UTC*
+A pharmacist is a profession with traditions, very responsible and requiring extensive knowledge. It depends on him whether the patient will get the right medicine for his health condition. In the world, Pharmacist's Day is celebrated on September 25.
+
+[Learn more](https://www.kalbi.pl/dzien-farmaceuty)
+
+---
+
+
+*Last updated: 2026-05-14 05:47:59 UTC*
