@@ -1,62 +1,44 @@
 # 🎉 Today's Unusual Holidays
 
-**May 15, 2026**
+**May 16, 2026**
 
-## International Day of Families
+## Border Guard Day
 
-A holiday celebrating families as the strongest foundation of society and the most effective transmitter of values ​​between generations. Initiated by the United Nations, it recalls the need to create policies that support families in their everyday challenges and recognizes their unique role in shaping the future. This global event highlights that healthy and supported families are key to building a more just and sustainable world for all.
+Border Guard Day is a special opportunity to appreciate the work of officers guarding Poland's borders. Established by the Sejm, it commemorates the beginning of the activity of this formation. The Border Guard, protecting the borders of the country and the European Union, plays a key role in our security.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-rodzin)
-
----
-
-## Celebration of Polish Music and Art
-
-The Polish Music and Fine Arts Festival aims to promote Polish art. When admiring foreign songs or paintings, we must not forget that our culture is also valuable and has a lot of charm.
-
-[Learn more](https://www.kalbi.pl/swieto-polskiej-muzyki-i-plastyki)
+[Learn more](https://www.kalbi.pl/swieto-strazy-granicznej)
 
 ---
 
-## Forget-me-not Day
+## International Celiac Disease Day
 
-The originator of this holiday was the editor of Radio One, Andrzej Zalewski. It is celebrated annually on May 15, and although it is primarily related to nature, it also carries a deeper message to remember important moments.
+International Celiac Disease Day is a date that is important for all people suffering from gluten intolerance. This condition is quite troublesome because the mentioned dietary ingredient is found in many products. On Celiac Day, events and information campaigns are held to increase people's awareness of this disease.
 
-[Learn more](https://www.kalbi.pl/dzien-niezapominajki)
-
----
-
-## International Nylon Stockings Day
-
-The holiday refers to May 15, 1940, when a new product appeared in the USA - Fully Fashioned nylon stockings. This day, called "Nylon Day", began the spectacular career of this sensual underwear all over the world.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ponczoch-nylonowych)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-celiakii)
 
 ---
 
-## World Kangaroo Day
+## International Day of Light
 
-Kangaroo care is a method supporting the treatment of newborn children, recommended mainly for premature babies and children with low birth weight. It involves placing the baby on the mother's belly for the first 2 hours after birth. As part of Kangaroo Day, the method invented by Colombian Edgar Rey Sanabria is promoted around the world.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-kangurowania)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-swiatla)
 
 ---
 
-## Patronal Farmers' Festival
+## International Whiskey Day
 
-It is a celebration of farmers who on this day remember their patron saint, Saint Izydor the Plowman. Isidore, who comes from Spain, is the patron saint of many parishes in our country. On this occasion, services, celebrations, artistic performances and various competitions are held throughout Poland.
+The originator of World Whiskey Day is Blair Bowman, who envied gin lovers his holiday. In 2011, he registered the domain WorldWhiskyDay.com and, as it turned out, the initiative to celebrate his favorite drink together gained many supporters. Let's celebrate his health with a glass of whiskey today!
 
-[Learn more](https://www.kalbi.pl/patronalne-swieto-rolnikow)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-whisky)
 
 ---
 
-## Cycling to Work Day
+## Free Culture Day
 
-Cycling to Work Day is intended to promote not only a healthy lifestyle based on daily physical activity, but also the positive impact of cycling on the environment.
+Free Culture Day is intended to encourage recipients to use art created by free artists, disseminate it and, interestingly, make their own corrections to it. On this day, creators of free culture have the opportunity to promote their works to a wider audience.
 
-[Learn more](https://www.kalbi.pl/dzien-dojazdu-rowerem-do-pracy)
+[Learn more](https://www.kalbi.pl/dzien-wolnej-kultury)
 
 ---
 
 
-*Last updated: 2026-05-15 05:55:03 UTC*
+*Last updated: 2026-05-16 05:27:32 UTC*
