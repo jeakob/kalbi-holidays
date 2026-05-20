@@ -1,62 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**May 19, 2026**
+**May 20, 2026**
 
-## World Fair Play Day
+## World Bee Day
 
-World Fair Play Day is a celebration promoting the noblest principles of sports competition: honesty, respect and solidarity. Established by the United Nations as a global recognition of the idea that sport should unite people across cultural, political and social divides. It's a reminder that true victory in sports and in life comes not just by crossing the finish line first, but by how you play the entire game.
+Bees are responsible for pollinating over 75% of the world's food crops - from almonds to apples. World Bee Day was established by the United Nations in recognition of the critical role these humble creatures play in maintaining biodiversity and the global food chain. Without immediate protective action, we may face a food crisis of unprecedented proportions, as the extinction of pollinators is a death sentence for our ecosystems and agriculture.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-fair-play)
-
----
-
-## Car Wash Day
-
-A clean car is not only a matter of appearance, but also safety. International Car Washing Day is a good opportunity to freshen up your car.
-
-[Learn more](https://www.kalbi.pl/dzien-mycia-samochodow)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-pszczol)
 
 ---
 
-## Good Deeds Day
+## World Metrology Day
 
-There should be holidays like this every day! The world would definitely be better. On this day, we don't necessarily have to give someone our entire salary, we just need to help with a small matter.
+Metrology Day is an event that commemorates the signing of the Metric Convention in 1875. It is an institution that establishes measurement standards and methods.
 
-[Learn more](https://www.kalbi.pl/dzien-dobrych-uczynkow)
-
----
-
-## National Twins Day
-
-Two heads are better than one! Twins from all over the country have their own holiday today. Of course, they should definitely visit their clone on this occasion.
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-blizniat)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-metrologii)
 
 ---
 
-## World Family Doctor Day
+## International Dishwashing Liquids Day
 
-Internists are usually treated by patients as specialists of a lower category. World Family Doctor Day draws society's attention to the importance of the knowledge and experience of frontline doctors in the diagnostic process. They deserve respect for this.
+Dishwashing liquid is an indispensable helper in every kitchen. Today, in his honor, let's wash a whole pile of dishes!
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-lekarza-rodzinnego)
-
----
-
-## World Day of the Honorary Donor of Breast Milk
-
-Many mothers cannot breastfeed their children, and natural milk and colostrum are the source of valuable nutrients and antibodies that give the little ones immunity. World Honorary Donor of Breast Milk Day is a celebration of all heroes who donate their milk so that the children of other mothers can be fed naturally.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-honorowej-dawczyni-mleka-kobiecego)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-plynow-do-mycia-naczyn)
 
 ---
 
-## World Inflammatory Bowel Disease Day
+## European Sea Day
 
-Patients struggling with digestive problems often hide how much these ailments bother them. Some people cannot even function and work normally. World Inflammatory Bowel Disease Day is a perfect time to show people that patients are not pretending and it is worth getting to know their point of view rather than judging in advance.
+During this holiday, the importance of the sea in the lives of European citizens is emphasized, and maritime economy problems are debated during numerous conferences and workshops. European Maritime Day was adopted in 2008.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-nieswoistych-zapalen-jelit)
+[Learn more](https://www.kalbi.pl/europejski-dzien-morza)
 
 ---
 
 
-*Last updated: 2026-05-19 06:07:53 UTC*
+*Last updated: 2026-05-20 06:07:33 UTC*
