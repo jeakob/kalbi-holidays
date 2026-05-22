@@ -1,46 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**May 21, 2026**
+**May 22, 2026**
 
-## International Tea Day
+## International Day of Biological Diversity
 
-Five thousand years of tradition enclosed in one cup - tea is not just a drink, but a universal symbol of comfort connecting people all over the world. From imperial palaces to modern cafés, tea has permeated cultures, creating unique rituals and traditions celebrated by millions of people. This holiday pays tribute to a drink that crosses cultural boundaries, bringing people together at a common table and building bridges between tradition and modernity.
+The diversity of life is the most valuable treasure of our planet, providing us with food, medicines and clean air every day. The International Day for Biological Diversity celebrates this wonderful web of life and reminds us that each of us can play a part in protecting it. This celebration unites people around the world in striving for harmony with nature and building a future where humanity and nature flourish together.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-herbaty)
-
----
-
-## World Day of Cultural Diversity for Dialogue and Development
-
-The diversity of cultures is humanity's most valuable treasure, driving innovation and inspiring the search for new solutions to global problems. Established by the United Nations, the day celebrates the world's mosaic of traditions, languages ​​and artistic expressions as the source of our collective creativity. By getting to know other cultures, we not only broaden our horizons, but also build the foundations of a better, more harmonious world.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-roznorodnosci-kulturowej-dla-dialogu-i-rozwoju)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-roznorodnosci-biologicznej)
 
 ---
 
-## European Natura 2000 Day
+## World Goth Day
 
-The Natura 2000 program protects valuable natural areas that are threatened throughout Europe. These are places that need special care because they are exceptionally beautiful.
+Get to know the holiday that was born on the initiative of British DJs and won the hearts of goths all over the world! This is a unique opportunity to look behind the black curtain of one of the most enduring and misunderstood subcultures, which survived decades while others faded away along with fashion. During the celebration, goths manifest their identity through music, fashion and art, while fighting harmful stereotypes and proving that gothic black is a legitimate color in the palette of human expression.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-obszarow-natura-2000)
-
----
-
-## Cadet Day
-
-This holiday was established by Marshal Józef Piłsudski in 1930. May 21 is the date when the fighting on Mount St. began. Anna during the Third Silesian Uprising and the anniversary of the death of the youngest of the fallen cadets, sixteen-year-old Karol Chodkiewicz.
-
-[Learn more](https://www.kalbi.pl/dzien-kadeta)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-gotow)
 
 ---
 
-## Renewal Day
+## Pac-Man Day
 
-How many people are there with whom we once laughed until we fell asleep and experienced adventures? If we renew contact with even one of them today, let's consider it a success.
+A yellow ball named Pac Man is one of the most popular and hungriest computer game heroes. Today this timeless game has its celebration.
 
-[Learn more](https://www.kalbi.pl/dzien-odnawiania-znajomosci)
+[Learn more](https://www.kalbi.pl/dzien-pac-mana)
+
+---
+
+## Animal Rights Day
+
+On May 22, 1997, the largest civic campaign for animal rights in our country, organized by Klub Gaja, ended with success. Parliament passed the Animal Protection Act. To commemorate this event, we celebrate Animal Rights Day.
+
+[Learn more](https://www.kalbi.pl/dzien-praw-zwierzat)
 
 ---
 
 
-*Last updated: 2026-05-21 06:10:24 UTC*
+*Last updated: 2026-05-22 06:06:53 UTC*
