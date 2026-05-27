@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**May 26, 2026**
+**May 27, 2026**
 
-## World Dracula Day
+## Local Government Day
 
-A Gothic literary gem that has stood the test of time and shaped the image of the vampire we know today. World Dracula Day commemorates Bram Stoker's novel, which revolutionized the horror genre and introduced the immortal figure of the Transylvanian count to popular culture. This is a celebration for lovers of literature and pop culture who want to appreciate how one work was able to cast such a long shadow on our collective imagination.
+Local Government Day commemorates the moment that changed the face of Poland forever - the first fully democratic elections to municipal councils in 1990. It was then that the process of decentralization of power began, giving Poles a real opportunity to influence their immediate surroundings. The holiday reminds us of the power of local democracy and the importance of communities that shape their own future.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-drakuli)
-
----
-
-## Paper Plane Day
-
-These machines do not need fuel to fly and are much cheaper to produce. It's no wonder that they are popular all over the world. However, constructing such a model is not that easy - it is worth trying because it develops our manual skills and creativity.
-
-[Learn more](https://www.kalbi.pl/dzien-samolotow-z-papieru)
+[Learn more](https://www.kalbi.pl/dzien-samorzadu-terytorialnego)
 
 ---
 
+## Laboratory Diagnostician's Day
 
-*Last updated: 2026-05-26 06:06:39 UTC*
+The date of celebration of Laboratory Diagnostician's Day is related to the discovery of the genetic code on May 27, 1961 by American scientists. Research into deciphering genetic information took many years, and scientists were awarded the Nobel Prize for their achievements. Therefore, May 27 is a great opportunity to remember the people on whom the treatment process of our patients depends so much.
+
+[Learn more](https://www.kalbi.pl/dzien-diagnosty-laboratoryjnego)
+
+---
+
+
+*Last updated: 2026-05-27 06:21:08 UTC*
