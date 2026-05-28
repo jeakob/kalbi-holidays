@@ -1,22 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**May 27, 2026**
+**May 28, 2026**
 
-## Local Government Day
+## Day Without a Condom
 
-Local Government Day commemorates the moment that changed the face of Poland forever - the first fully democratic elections to municipal councils in 1990. It was then that the process of decentralization of power began, giving Poles a real opportunity to influence their immediate surroundings. The holiday reminds us of the power of local democracy and the importance of communities that shape their own future.
+A day that has no official creator, but perfectly reflects Polish disputes about sexual education and the influence of conservative values ​​on intimate life. This online provocation divides society into those who treat it as an absurd joke and those who see it as a serious threat to public health. Where does humor end and responsibility for health begin?
 
-[Learn more](https://www.kalbi.pl/dzien-samorzadu-terytorialnego)
-
----
-
-## Laboratory Diagnostician's Day
-
-The date of celebration of Laboratory Diagnostician's Day is related to the discovery of the genetic code on May 27, 1961 by American scientists. Research into deciphering genetic information took many years, and scientists were awarded the Nobel Prize for their achievements. Therefore, May 27 is a great opportunity to remember the people on whom the treatment process of our patients depends so much.
-
-[Learn more](https://www.kalbi.pl/dzien-diagnosty-laboratoryjnego)
+[Learn more](https://www.kalbi.pl/dzien-bez-prezerwatywy)
 
 ---
 
+## World Blood Cancer Day
 
-*Last updated: 2026-05-27 06:21:08 UTC*
+The main goal of World Blood Cancer Day is to increase awareness of blood cancer and the importance of preventive tests. On this day, the organizers encourage people to show support for sick people and donate bone marrow. The symbol of the holiday is the red "&" sign.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-raka-krwi)
+
+---
+
+## World Hamburger Day
+
+This tasty fast food with cutlet has its holiday today - so we already know what we will eat for lunch or dinner.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-hamburgera)
+
+---
+
+## Hygiene Day During Menstruation
+
+During menstruation, proper intimate hygiene is very important. On this holiday, it is worth learning how to take care of it properly to increase your comfort during these difficult days.
+
+[Learn more](https://www.kalbi.pl/dzien-higieny-podczas-miesiaczki)
+
+---
+
+## Amnesty International Day
+
+On May 28, 1961, Peter Berenson read a newspaper article about two Portuguese students who had been arrested under the pretext of toasting freedom. This was the impetus for the creation of the international non-governmental organization Amnesty International, which continues to fight fiercely for human rights to this day. On the anniversary of its creation, it is especially worth promoting this idea among your friends.
+
+[Learn more](https://www.kalbi.pl/dzien-amnesty-international)
+
+---
+
+
+*Last updated: 2026-05-28 06:12:43 UTC*
