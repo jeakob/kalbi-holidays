@@ -1,46 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**May 28, 2026**
+**May 29, 2026**
 
-## Day Without a Condom
+## International Day of UN Peacekeepers
 
-A day that has no official creator, but perfectly reflects Polish disputes about sexual education and the influence of conservative values ​​on intimate life. This online provocation divides society into those who treat it as an absurd joke and those who see it as a serious threat to public health. Where does humor end and responsibility for health begin?
+The first UN peacekeeping mission began in 1948 in the Middle East, launching the largest global peacekeeping program in human history. For nearly 80 years, more than 2 million women and men have served in 70 peacekeeping missions, helping countries transition from conflict to stability. International Peacekeepers' Day commemorates this unique international cooperation and pays tribute to all those who gave their lives for peace.
 
-[Learn more](https://www.kalbi.pl/dzien-bez-prezerwatywy)
-
----
-
-## World Blood Cancer Day
-
-The main goal of World Blood Cancer Day is to increase awareness of blood cancer and the importance of preventive tests. On this day, the organizers encourage people to show support for sick people and donate bone marrow. The symbol of the holiday is the red "&" sign.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-raka-krwi)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-uczestnikow-misji-pokojowych-onz)
 
 ---
 
-## World Hamburger Day
+## World Digestive Health Day
 
-This tasty fast food with cutlet has its holiday today - so we already know what we will eat for lunch or dinner.
+Digestive system diseases have one thing in common: for a long time they do not give reasons to seek help. The bacterium responsible for most cases of stomach cancer, a tumor that grows for years without symptoms, a disorder that affects one in ten people - and half of patients do not know they have it. The World Gastroenterology Organization has been identifying one such problem every year for over two decades and providing tools to avoid missing it.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-hamburgera)
-
----
-
-## Hygiene Day During Menstruation
-
-During menstruation, proper intimate hygiene is very important. On this holiday, it is worth learning how to take care of it properly to increase your comfort during these difficult days.
-
-[Learn more](https://www.kalbi.pl/dzien-higieny-podczas-miesiaczki)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zdrowia-ukladu-pokarmowego)
 
 ---
 
-## Amnesty International Day
+## European Neighbor Day
 
-On May 28, 1961, Peter Berenson read a newspaper article about two Portuguese students who had been arrested under the pretext of toasting freedom. This was the impetus for the creation of the international non-governmental organization Amnesty International, which continues to fight fiercely for human rights to this day. On the anniversary of its creation, it is especially worth promoting this idea among your friends.
+European Neighbor Day is celebrated on the last Friday of May in over 30 European countries. The aim of this holiday is to ensure good neighborly relations.
 
-[Learn more](https://www.kalbi.pl/dzien-amnesty-international)
+[Learn more](https://www.kalbi.pl/europejski-dzien-sasiada)
+
+---
+
+## Cultural Activist Day
+
+The French writer André Malraux said an interesting sentence: "Culture is what made man something other than just a random event in nature." Cultural Activist Day is therefore a great opportunity to recognize people involved in cultural activities - creators, artists, animators.
+
+[Learn more](https://www.kalbi.pl/dzien-dzialacza-kultury)
+
+---
+
+## Veteran's Day of Operations Abroad
+
+The event commemorates the activities of veterans outside Poland - soldiers, firefighters, policemen and border guards. It was established by the Sejm of the Republic of Poland in 2011, and we have been celebrating the holiday since May 29, 2012.
+
+[Learn more](https://www.kalbi.pl/dzien-weterana-dzialan-poza-granicami-panstwa)
 
 ---
 
 
-*Last updated: 2026-05-28 06:12:43 UTC*
+*Last updated: 2026-05-29 06:13:27 UTC*
