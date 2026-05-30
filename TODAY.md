@@ -1,46 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**May 29, 2026**
+**May 30, 2026**
 
-## International Day of UN Peacekeepers
+## Foster Parenting Day
 
-The first UN peacekeeping mission began in 1948 in the Middle East, launching the largest global peacekeeping program in human history. For nearly 80 years, more than 2 million women and men have served in 70 peacekeeping missions, helping countries transition from conflict to stability. International Peacekeepers' Day commemorates this unique international cooperation and pays tribute to all those who gave their lives for peace.
+In Poland, tens of thousands of children are waiting in care facilities for a chance to grow up in a family - this day was created for them in 2006. The holiday is intended to develop and popularize foster parenthood, which differs from adoption in that it offers children a temporary home and preparation for a better future. It is a reminder that every child - regardless of their history - deserves love and family care.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-uczestnikow-misji-pokojowych-onz)
-
----
-
-## World Digestive Health Day
-
-Digestive system diseases have one thing in common: for a long time they do not give reasons to seek help. The bacterium responsible for most cases of stomach cancer, a tumor that grows for years without symptoms, a disorder that affects one in ten people - and half of patients do not know they have it. The World Gastroenterology Organization has been identifying one such problem every year for over two decades and providing tools to avoid missing it.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zdrowia-ukladu-pokarmowego)
+[Learn more](https://www.kalbi.pl/dzien-rodzicielstwa-zastepczego)
 
 ---
 
-## European Neighbor Day
+## International Potato Day
 
-European Neighbor Day is celebrated on the last Friday of May in over 30 European countries. The aim of this holiday is to ensure good neighborly relations.
+The humble potato from the Andean mountains has taken the world by storm and has become one of the five most important food crops on the planet. This UN holiday celebrates the tuber's extraordinary journey, which has changed human food history and today feeds two-thirds of the world's population. Learn the fascinating history of a plant that has over 5,000 varieties and continues to shape the future of global food security.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-sasiada)
-
----
-
-## Cultural Activist Day
-
-The French writer André Malraux said an interesting sentence: "Culture is what made man something other than just a random event in nature." Cultural Activist Day is therefore a great opportunity to recognize people involved in cultural activities - creators, artists, animators.
-
-[Learn more](https://www.kalbi.pl/dzien-dzialacza-kultury)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ziemniaka)
 
 ---
 
-## Veteran's Day of Operations Abroad
+## World Multiple Sclerosis Day
 
-The event commemorates the activities of veterans outside Poland - soldiers, firefighters, policemen and border guards. It was established by the Sejm of the Republic of Poland in 2011, and we have been celebrating the holiday since May 29, 2012.
+May 30 is the day on which World Multiple Sclerosis Day is celebrated. This chronic and unfortunately incurable disease involves the incorrect transmission of nerve impulses.
 
-[Learn more](https://www.kalbi.pl/dzien-weterana-dzialan-poza-granicami-panstwa)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-stwardnienia-rozsianego)
+
+---
+
+## World Juice Day
+
+Today is a good day to celebrate with a glass of juice. Firstly, they are simply delicious, secondly, fruit and vegetable juices contain many vitamins and minerals.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-soku)
 
 ---
 
 
-*Last updated: 2026-05-29 06:13:27 UTC*
+*Last updated: 2026-05-30 05:48:03 UTC*
