@@ -1,46 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 01, 2026**
+**June 02, 2026**
 
-## World Parents Day
+## A day without a tie
 
-World Parents' Day intentionally falls on Children's Day, creating a unique symbolism of unity between child and parent. This international holiday, established by the United Nations in 2012, recognizes the selfless sacrifices of parents around the world. It shows that parenthood and childhood are two sides of the same fundamental human relationship.
+Day Without a Tie originated in Polish companies as an antidote to the dress code imported from the West and as proof that comfort translates into productivity. This is one of the most popular unusual holidays in the corporate environment, which proves: you can be professional without pretending to be a British gentleman. When the tie ends up in the drawer, the atmosphere in the office becomes more creative and collaborative.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-rodzicow)
-
----
-
-## A day without alcohol
-
-When the Sejm combined Children's Day with the fight against alcohol, it created a powerful symbol of social responsibility. A Day Without Alcohol is a practical test for every Pole - can we refrain from drinking for one day for the sake of the youngest? The holiday reminds that protecting children from domestic violence, neglect and bad role models starts with simple, everyday choices of adults.
-
-[Learn more](https://www.kalbi.pl/dzien-bez-alkoholu)
+[Learn more](https://www.kalbi.pl/dzien-bez-krawata)
 
 ---
 
-## Milk Day
+## Stepmother's Day
 
-The holiday aims to draw attention to the benefits of daily consumption of milk and dairy products for our health.
+The word Stepmother does not have the best connotations. The story of Cinderella had a lot of importance in this. Meanwhile, every year in Poland, several dozen thousand women take on the role of stepmother. Stepmother's Day is a day of reflection on the difficulty of taking on this role, on what role stepmothers play in society and families. And above all, it is an opportunity to celebrate with families. Dear stepmothers, stepmothers, stepmothers - HAPPY BIRTHDAY!
 
-[Learn more](https://www.kalbi.pl/dzien-mleka)
-
----
-
-## Bun Festival
-
-It is not without reason that it is said that something sells like hot cakes. This taste is simply irresistible. Today it's worth getting up early and buying fresh, fragrant and delicious rolls for breakfast...
-
-[Learn more](https://www.kalbi.pl/swieto-bulki)
+[Learn more](https://www.kalbi.pl/dzien-macochy)
 
 ---
 
-## Air Traffic Service Day
+## First Aid Day for Wild and Domestic Animals
 
-The aim of the air traffic service is to guarantee the safety of aircraft crews and passengers during flight and maneuvering at airports. We wish all employees peaceful shifts!
+The #Mouth-Mouth campaign of the Nela Mała Reporterki Foundation puts forward a non-obvious thesis: knowing what not to do with an injured animal is as important as knowing what to do. The initiative educates pet owners and people encountering wild animals about pre-veterinary first aid - the one undertaken before a specialist arrives. Incorrect intervention may worsen the animal's condition more than no intervention at all.
 
-[Learn more](https://www.kalbi.pl/swieto-sluzby-ruchu-lotniczego)
+[Learn more](https://www.kalbi.pl/dzien-pierwszej-pomocy-dla-zwierzat-dzikich-i-domowych)
 
 ---
 
 
-*Last updated: 2026-06-01 06:56:19 UTC*
+*Last updated: 2026-06-02 06:41:44 UTC*
