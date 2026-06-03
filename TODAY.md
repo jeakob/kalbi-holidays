@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 02, 2026**
+**June 03, 2026**
 
-## A day without a tie
+## World Bicycle Day
 
-Day Without a Tie originated in Polish companies as an antidote to the dress code imported from the West and as proof that comfort translates into productivity. This is one of the most popular unusual holidays in the corporate environment, which proves: you can be professional without pretending to be a British gentleman. When the tie ends up in the drawer, the atmosphere in the office becomes more creative and collaborative.
+World Bicycle Day has Polish roots - an initiative attributed to former Polish professional cyclist prof. Leszek Sybilski, was brought to the level of the UN General Assembly and in 2018 it became an official day with resolution A/RES/72/272. The UN defines cycling as a tool for transport, health, climate and social inclusion - not as sports equipment.
 
-[Learn more](https://www.kalbi.pl/dzien-bez-krawata)
-
----
-
-## Stepmother's Day
-
-The word Stepmother does not have the best connotations. The story of Cinderella had a lot of importance in this. Meanwhile, every year in Poland, several dozen thousand women take on the role of stepmother. Stepmother's Day is a day of reflection on the difficulty of taking on this role, on what role stepmothers play in society and families. And above all, it is an opportunity to celebrate with families. Dear stepmothers, stepmothers, stepmothers - HAPPY BIRTHDAY!
-
-[Learn more](https://www.kalbi.pl/dzien-macochy)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-roweru)
 
 ---
 
-## First Aid Day for Wild and Domestic Animals
+## Savoir-Vivre Day
 
-The #Mouth-Mouth campaign of the Nela Mała Reporterki Foundation puts forward a non-obvious thesis: knowing what not to do with an injured animal is as important as knowing what to do. The initiative educates pet owners and people encountering wild animals about pre-veterinary first aid - the one undertaken before a specialist arrives. Incorrect intervention may worsen the animal's condition more than no intervention at all.
+The blog of the Montemarco Academy is subtitled: "savoir-vivre is not only table etiquette and rules of precedent." And it is with this sentence that the Savoir-Vivre Day begins - a manifesto of personal culture announced in 2016, which lists thirteen values: from tact and respect to kindness, patriotism and well-understood courage. All of them can be practiced.
 
-[Learn more](https://www.kalbi.pl/dzien-pierwszej-pomocy-dla-zwierzat-dzikich-i-domowych)
+[Learn more](https://www.kalbi.pl/dzien-savoir-vivre)
+
+---
+
+## Good Grade Day
+
+A good grade isn't necessarily an A - it's one that lets you know what to improve. Good Grade Day, celebrated on June 3, is an informal holiday without a patron, but with a clear message: a grade only makes sense if it gives the student direction. This idea is based on over 25 years of work of Polish schools with the formative assessment program.
+
+[Learn more](https://www.kalbi.pl/dzien-dobrej-oceny)
 
 ---
 
 
-*Last updated: 2026-06-02 06:41:44 UTC*
+*Last updated: 2026-06-03 06:52:45 UTC*
