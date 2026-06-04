@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 03, 2026**
+**June 04, 2026**
 
-## World Bicycle Day
+## Freedom and Civil Rights Day
 
-World Bicycle Day has Polish roots - an initiative attributed to former Polish professional cyclist prof. Leszek Sybilski, was brought to the level of the UN General Assembly and in 2018 it became an official day with resolution A/RES/72/272. The UN defines cycling as a tool for transport, health, climate and social inclusion - not as sports equipment.
+In times of division, it is worth remembering June 4, 1989 - the day when Poland focused on freedom and dialogue. This is a lesson that democracy does not end with elections, but begins every day.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-roweru)
-
----
-
-## Savoir-Vivre Day
-
-The blog of the Montemarco Academy is subtitled: "savoir-vivre is not only table etiquette and rules of precedent." And it is with this sentence that the Savoir-Vivre Day begins - a manifesto of personal culture announced in 2016, which lists thirteen values: from tact and respect to kindness, patriotism and well-understood courage. All of them can be practiced.
-
-[Learn more](https://www.kalbi.pl/dzien-savoir-vivre)
+[Learn more](https://www.kalbi.pl/dzien-wolnosci-i-praw-obywatelskich)
 
 ---
 
-## Good Grade Day
+## Printer's Day
 
-A good grade isn't necessarily an A - it's one that lets you know what to improve. Good Grade Day, celebrated on June 3, is an informal holiday without a patron, but with a clear message: a grade only makes sense if it gives the student direction. This idea is based on over 25 years of work of Polish schools with the formative assessment program.
+During the partitions, Polish printing houses smuggled into the world words that the invaders tried to erase - the printers themselves describe themselves as "precursors of the fight for independence". This tradition gave rise to Printer's Day, whose roots date back to the National Congress in Gniezno in 1945. Today, the industry employs 55,000 people and is the largest printing market in Central and Eastern Europe.
 
-[Learn more](https://www.kalbi.pl/dzien-dobrej-oceny)
+[Learn more](https://www.kalbi.pl/dzien-drukarza)
+
+---
+
+## International Day of Children Victims of Aggression
+
+The 1982 UN resolution, adopted during the special session on Palestine, established a fixed point in the calendar: a day of commemoration of child victims of aggression. Today it covers six categories of serious violations condemned by the Security Council, from recruitment and abductions to attacks on schools and hospitals. The 2024 CAAC report verified 41,370 such incidents – a 25% year-over-year increase.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dzieci-bedacych-ofiarami-agresji)
 
 ---
 
 
-*Last updated: 2026-06-03 06:52:45 UTC*
+*Last updated: 2026-06-04 06:42:37 UTC*
