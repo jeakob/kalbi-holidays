@@ -1,30 +1,36 @@
 # 🎉 Today's Unusual Holidays
 
-**June 04, 2026**
+**June 05, 2026**
 
-## Freedom and Civil Rights Day
+## World Environment Day
 
-In times of division, it is worth remembering June 4, 1989 - the day when Poland focused on freedom and dialogue. This is a lesson that democracy does not end with elections, but begins every day.
+When World Environment Day in 2018 focused on single-use plastic, India announced a ban on it. When the 2022 edition focused on ecosystem restoration, Sweden withdrew new coal and gas licenses. UNEP does not describe this as a coincidence - WED has been operating since 1973 as a global reference point for political decisions, established by a UN resolution a year after the historic Stockholm Conference.
 
-[Learn more](https://www.kalbi.pl/dzien-wolnosci-i-praw-obywatelskich)
-
----
-
-## Printer's Day
-
-During the partitions, Polish printing houses smuggled into the world words that the invaders tried to erase - the printers themselves describe themselves as "precursors of the fight for independence". This tradition gave rise to Printer's Day, whose roots date back to the National Congress in Gniezno in 1945. Today, the industry employs 55,000 people and is the largest printing market in Central and Eastern Europe.
-
-[Learn more](https://www.kalbi.pl/dzien-drukarza)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-srodowiska)
 
 ---
 
-## International Day of Children Victims of Aggression
+## International Day against Illegal, Unreported and Unregulated Fishing
 
-The 1982 UN resolution, adopted during the special session on Palestine, established a fixed point in the calendar: a day of commemoration of child victims of aggression. Today it covers six categories of serious violations condemned by the Security Council, from recruitment and abductions to attacks on schools and hospitals. The 2024 CAAC report verified 41,370 such incidents – a 25% year-over-year increase.
+“Illegal fishing” is just one of three components of the problem — and not the hardest to combat. The acronym IUU also covers unreported fishing (legal vessel, hidden fishing) and unregulated fishing (open sea beyond the reach of the law). The UN chose this date because it was then that the agreement came into force that closed ports around the world to IUU fleets.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dzieci-bedacych-ofiarami-agresji)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-walki-z-polowami-nnn)
+
+---
+
+## Environmental Protection Day
+
+[Learn more](https://www.kalbi.pl/dzien-ochrony-srodowiska)
+
+---
+
+## Celebration of the Regional IT Center in Warsaw
+
+The holiday of the Regional IT Center in Warsaw falls on June 5. This is the current name of the military holiday of the unit that took over the traditions of the Central Communications Node of the Ministry of National Defense and the ICT Support Center of the Armed Forces.
+
+[Learn more](https://www.kalbi.pl/swieto-regionalnego-centrum-informatyki-warszawa)
 
 ---
 
 
-*Last updated: 2026-06-04 06:42:37 UTC*
+*Last updated: 2026-06-05 06:22:45 UTC*
