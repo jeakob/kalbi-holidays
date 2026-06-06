@@ -1,36 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**June 05, 2026**
+**June 06, 2026**
 
-## World Environment Day
+## Russian Language Day
 
-When World Environment Day in 2018 focused on single-use plastic, India announced a ban on it. When the 2022 edition focused on ecosystem restoration, Sweden withdrew new coal and gas licenses. UNEP does not describe this as a coincidence - WED has been operating since 1973 as a global reference point for political decisions, established by a UN resolution a year after the historic Stockholm Conference.
+Alexander Pushkin was born on June 6, 1799. Two centuries later, the United Nations and UNESCO chose this date as Russian Language Day - recognizing that one poet can embody the heritage of an entire language. Russian is one of the six official languages ​​of the United Nations, and this day belongs to literature and multilingualism.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-srodowiska)
-
----
-
-## International Day against Illegal, Unreported and Unregulated Fishing
-
-“Illegal fishing” is just one of three components of the problem — and not the hardest to combat. The acronym IUU also covers unreported fishing (legal vessel, hidden fishing) and unregulated fishing (open sea beyond the reach of the law). The UN chose this date because it was then that the agreement came into force that closed ports around the world to IUU fleets.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-walki-z-polowami-nnn)
+[Learn more](https://www.kalbi.pl/dzien-jezyka-rosyjskiego)
 
 ---
 
-## Environmental Protection Day
+## Slayer Day
 
-[Learn more](https://www.kalbi.pl/dzien-ochrony-srodowiska)
+Slayer is an icon of metal music. Their holiday was decided by fans with the telling date of June 6, 2006 at 6:06:06. The celebrations include, among others: blasting Slayer's music at full volume and many other crazy actions.
 
----
-
-## Celebration of the Regional IT Center in Warsaw
-
-The holiday of the Regional IT Center in Warsaw falls on June 5. This is the current name of the military holiday of the unit that took over the traditions of the Central Communications Node of the Ministry of National Defense and the ICT Support Center of the Armed Forces.
-
-[Learn more](https://www.kalbi.pl/swieto-regionalnego-centrum-informatyki-warszawa)
+[Learn more](https://www.kalbi.pl/dzien-slayera)
 
 ---
 
+## Chemical Troops Day
 
-*Last updated: 2026-06-05 06:22:45 UTC*
+The main tasks of chemical troops include activities related to weapons of mass destruction, chemicals, smoke screens and sanitary procedures. On the day of the Military Chemists' Day, distinguished soldiers are rewarded.
+
+[Learn more](https://www.kalbi.pl/swieto-wojsk-chemicznych)
+
+---
+
+## Jojo's Day
+
+Jojo is more than just an ordinary toy. This weight suspended on a string allows you to perform complex tricks, and Jo-Yo competitions enjoy a great reputation. On Yo-Yo Day, it's worth trying to perform some combinations yourself, it's a great alternative to the computer!
+
+[Learn more](https://www.kalbi.pl/dzien-jojo)
+
+---
+
+
+*Last updated: 2026-06-06 05:54:02 UTC*
