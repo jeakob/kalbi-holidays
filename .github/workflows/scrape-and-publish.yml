@@ -2,7 +2,12 @@ name: Scrape and Publish Holidays
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    # Regenerate today.json at local midnight in Europe/Warsaw.
+    # GitHub cron is UTC and can't follow DST, so we run at both offsets.
+    # "today" is computed in Europe/Warsaw below, so whichever fires picks
+    # the correct Warsaw calendar day.
+    - cron: '0 22 * * *'   # 00:00 Warsaw during CEST (summer, UTC+2)
+    - cron: '0 23 * * *'   # 00:00 Warsaw during CET  (winter, UTC+1)
   workflow_dispatch:
   push:
     branches:
@@ -49,13 +54,15 @@ jobs:
           python3 -c "
           import json
           from datetime import datetime
-          
+          from zoneinfo import ZoneInfo
+
           with open('nietypowe_swieta.json', 'r', encoding='utf-8') as f:
               data = json.load(f)
-          
-          now = datetime.now()
+
+          # Use Warsaw local date so today.json matches the Polish calendar day.
+          now = datetime.now(ZoneInfo('Europe/Warsaw'))
           today = [h for h in data if h['day'] == now.day and h['month'] == now.month]
-          
+
           with open('public/today.json', 'w', encoding='utf-8') as f:
               json.dump(today, f, ensure_ascii=False, indent=2)
           "
@@ -66,15 +73,16 @@ jobs:
           import json
           from deep_translator import GoogleTranslator
           from datetime import datetime
-          
+          from zoneinfo import ZoneInfo
+
           translator = GoogleTranslator(source='pl', target='en')
-          
+
           # Load Polish data
           with open('nietypowe_swieta.json', 'r', encoding='utf-8') as f:
               data = json.load(f)
-          
-          # Get today's holiday
-          now = datetime.now()
+
+          # Get today's holiday (Warsaw local date)
+          now = datetime.now(ZoneInfo('Europe/Warsaw'))
           today = [h for h in data if h['day'] == now.day and h['month'] == now.month]
           
           # Translate only today's holiday
@@ -181,16 +189,19 @@ jobs:
           python3 << 'PYEOF'
           import json
           from datetime import datetime
-          
+          from zoneinfo import ZoneInfo
+
+          warsaw = ZoneInfo('Europe/Warsaw')
+
           # Load today's holidays (English)
           try:
               with open('public/today-english.json', 'r', encoding='utf-8') as f:
                   today_en = json.load(f)
           except:
               today_en = []
-          
-          # Generate TODAY.md content
-          today_date = datetime.now().strftime('%B %d, %Y')
+
+          # Generate TODAY.md content (Warsaw local date)
+          today_date = datetime.now(warsaw).strftime('%B %d, %Y')
           
           content = f"# 🎉 Today's Unusual Holidays\n\n"
           content += f"**{today_date}**\n\n"
@@ -205,7 +216,7 @@ jobs:
           else:
               content += "No unusual holidays today.\n\n"
           
-          content += f"\n*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*\n"
+          content += f"\n*Last updated: {datetime.now(warsaw).strftime('%Y-%m-%d %H:%M:%S')} Europe/Warsaw*\n"
           
           # Write TODAY.md
           with open('TODAY.md', 'w', encoding='utf-8') as f:

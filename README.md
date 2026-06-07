@@ -6,7 +6,7 @@ A simple API that scrapes unusual/quirky holidays from the web and serves them a
 
 Ever wanted to know it's "International Talk Like a Pirate Day" or "National Pizza Day"? This scrapes those fun, unusual holidays and makes them available through a dead-simple JSON API.
 
-The data updates automatically every day at 2 AM UTC, so you're always getting fresh info.
+The data updates automatically every day at **midnight Europe/Warsaw time** (`today.json` is filtered to the Polish calendar day), so you're always getting fresh info.
 
 ## See holidays today [here](TODAY.md)
 
