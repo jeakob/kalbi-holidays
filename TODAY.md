@@ -1,38 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 06, 2026**
+**June 07, 2026**
 
-## Russian Language Day
+## Sex Day
 
-Alexander Pushkin was born on June 6, 1799. Two centuries later, the United Nations and UNESCO chose this date as Russian Language Day - recognizing that one poet can embody the heritage of an entire language. Russian is one of the six official languages ​​of the United Nations, and this day belongs to literature and multilingualism.
+A holiday that should not exist because it was created from a joke about the non-existent EU institution. But now that it exists, it's worth using it to talk about what couples around the world really need. International research reveals surprising cultural differences in attitudes towards intimacy and what determines satisfaction in relationships.
 
-[Learn more](https://www.kalbi.pl/dzien-jezyka-rosyjskiego)
-
----
-
-## Slayer Day
-
-Slayer is an icon of metal music. Their holiday was decided by fans with the telling date of June 6, 2006 at 6:06:06. The celebrations include, among others: blasting Slayer's music at full volume and many other crazy actions.
-
-[Learn more](https://www.kalbi.pl/dzien-slayera)
+[Learn more](https://www.kalbi.pl/dzien-seksu)
 
 ---
 
-## Chemical Troops Day
+## World Food Safety Day
 
-The main tasks of chemical troops include activities related to weapons of mass destruction, chemicals, smoke screens and sanitary procedures. On the day of the Military Chemists' Day, distinguished soldiers are rewarded.
+The farmer, the producer, the refrigerated truck driver, the seller and the cook are all responsible for the safety of the food on your plate - each link in the chain carries its part. World Food Safety Day, established by a UN resolution in 2018, reminds us every year that this responsibility is shared and systemic. FAO and WHO coordinate the celebrations based on the Codex Alimentarius, a global set of standards that unites food control in 188 countries.
 
-[Learn more](https://www.kalbi.pl/swieto-wojsk-chemicznych)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-bezpieczenstwa-zywnosci)
 
 ---
 
-## Jojo's Day
+## Chemist's Day
 
-Jojo is more than just an ordinary toy. This weight suspended on a string allows you to perform complex tricks, and Jo-Yo competitions enjoy a great reputation. On Yo-Yo Day, it's worth trying to perform some combinations yourself, it's a great alternative to the computer!
+This event was initiated by the Association of Engineers and Technicians of the Chemical Industry. The aim is to appreciate employees of chemical plants and chemists from all over Poland. On this occasion, meetings, concerts and festivals are organized.
 
-[Learn more](https://www.kalbi.pl/dzien-jojo)
+[Learn more](https://www.kalbi.pl/dzien-chemika)
 
 ---
 
 
-*Last updated: 2026-06-06 05:54:02 UTC*
+*Last updated: 2026-06-07 06:24:18 UTC*
