@@ -1,38 +1,54 @@
 # 🎉 Today's Unusual Holidays
 
-**June 08, 2026**
+**June 09, 2026**
 
-## IT Day
+## International Archives Day
 
-IT Day is not only a celebration of programmers, but of the entire industry that has gone from "computer repairers" to architects of the digital future. A modern IT specialist is a business strategist who is able to ensure that technologies actually serve people. This is a profession in which competences count more than experience, and artificial intelligence has become an everyday work tool.
+This is the day when the "guardians of memory" show why archives are much more than document repositories - they are the foundations of democracy and transparency of power. The international holiday was created out of the belief that access to authentic historical sources is the right of every citizen, regardless of education or interests. In the era of fake news and disinformation, archives become bastions of truth - places where facts have their irrefutable evidence in the form of original documents.
 
-[Learn more](https://www.kalbi.pl/dzien-informatyka)
-
----
-
-## World Oceans Day
-
-The oceans produce more oxygen than all the world's forests combined - and are the main source of protein for over a billion people. Celebrated each year on June 8, World Oceans Day, established by the United Nations in 2009, is an annual opportunity to face what's really behind these numbers: overfishing, plastic and warming waters. The article also shows why the Baltic Sea - a closed and particularly sensitive sea - is a lens for global ocean problems.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-oceanow)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-archiwow)
 
 ---
 
-## Circus Day without Animals
+## Donald Duck Day
 
-Lions and tigers disappeared from Polish circuses in 2021 - a law banned circuses from using dangerous animals. However, horses, dogs and birds are still legal, and circuses using them still operate. Viva! Foundation campaign "Circus Without Animals" is fighting for a full ban.
+The holiday commemorates the debut of one of Disney's most recognizable characters in a moralistic cartoon about the value of hard work. What started as a fan tradition in the mid-20th century has now become an official pop culture event combining nostalgia with corporate marketing. It's a fascinating example of the evolution of a grassroots initiative into a global entertainment phenomenon.
 
-[Learn more](https://www.kalbi.pl/dzien-cyrku-bez-zwierzat)
-
----
-
-## World Brain Tumor Day
-
-A brain tumor diagnosis changes the life of the entire family - not just the patient. In 2000, Deutsche Hirntumorhilfe established World Brain Tumor Day to remind the world for one day a year that behind medical statistics there are people who need support. The gray ribbon carries this message further than any information campaign.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-guza-mozgu)
+[Learn more](https://www.kalbi.pl/dzien-kaczora-donalda)
 
 ---
 
+## Friend's Day
 
-*Last updated: 2026-06-08 02:01:33 Europe/Warsaw*
+There's someone you haven't spoken to in a while - and somehow there's never a good time. Friend's Day solves this problem: it gives you a ready excuse to write. This article explains how this mechanism works and brings together what science has found about friendship and health.
+
+[Learn more](https://www.kalbi.pl/dzien-przyjaciela)
+
+---
+
+## Accountant's Day
+
+On June 9, 1907, the "Association of Accountants in Warsaw" was established, covering the entire Kingdom of Poland. So today the Association of Accountants in Poland (current name) celebrates its birthday.
+
+[Learn more](https://www.kalbi.pl/dzien-ksiegowego-buchaltera)
+
+---
+
+## Agugag Day
+
+Do you remember your first "conversations" with a baby, when the only common language was "agugaga"? These characteristic sounds give rise to the name of this unusual holiday, which celebrates the magical beginnings of communication between parents and children. Agugaga Day is a reminder that every baby's first sound is an invitation to conversation and the beginning of a great adventure with language.
+
+[Learn more](https://www.kalbi.pl/dzien-agugaga)
+
+---
+
+## Coral Triangle Day
+
+The Coral Triangle is a picturesque area of ​​tropical waters where most of the species of corals that build coral reefs occur. The holiday was born in 2012, when it was celebrated as a local interpretation of World Oceans Day. Over time, it became an independent event, its goal is to protect the Coral Triangle area.
+
+[Learn more](https://www.kalbi.pl/dzien-trojkata-koralowego)
+
+---
+
+
+*Last updated: 2026-06-09 01:08:58 Europe/Warsaw*
