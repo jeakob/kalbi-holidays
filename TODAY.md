@@ -1,54 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 09, 2026**
+**June 10, 2026**
 
-## International Archives Day
+## International Electrician's Day
 
-This is the day when the "guardians of memory" show why archives are much more than document repositories - they are the foundations of democracy and transparency of power. The international holiday was created out of the belief that access to authentic historical sources is the right of every citizen, regardless of education or interests. In the era of fake news and disinformation, archives become bastions of truth - places where facts have their irrefutable evidence in the form of original documents.
+A profession experiencing a real boom - electricians have been in deficit for years, and their median earnings reached PLN 7,360 gross. The energy transformation and PLN 64 billion of investments in the Polish electricity network are creating a golden age for the industry. It is a celebration of people who have job security and rising wages.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-archiwow)
-
----
-
-## Donald Duck Day
-
-The holiday commemorates the debut of one of Disney's most recognizable characters in a moralistic cartoon about the value of hard work. What started as a fan tradition in the mid-20th century has now become an official pop culture event combining nostalgia with corporate marketing. It's a fascinating example of the evolution of a grassroots initiative into a global entertainment phenomenon.
-
-[Learn more](https://www.kalbi.pl/dzien-kaczora-donalda)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-elektryka)
 
 ---
 
-## Friend's Day
+## International Day of Dialogue among Civilizations
 
-There's someone you haven't spoken to in a while - and somehow there's never a good time. Friend's Day solves this problem: it gives you a ready excuse to write. This article explains how this mechanism works and brings together what science has found about friendship and health.
+The latest UN holiday, established on the initiative of China and supported by over 80 countries. The first-ever celebration aims to promote mutual respect and understanding between different cultures in the face of growing tensions around the world. This is a response to the need to build bridges where walls are currently being built.
 
-[Learn more](https://www.kalbi.pl/dzien-przyjaciela)
-
----
-
-## Accountant's Day
-
-On June 9, 1907, the "Association of Accountants in Warsaw" was established, covering the entire Kingdom of Poland. So today the Association of Accountants in Poland (current name) celebrates its birthday.
-
-[Learn more](https://www.kalbi.pl/dzien-ksiegowego-buchaltera)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dialogu-miedzy-cywilizacjami)
 
 ---
 
-## Agugag Day
+## World Naked Cycling Day
 
-Do you remember your first "conversations" with a baby, when the only common language was "agugaga"? These characteristic sounds give rise to the name of this unusual holiday, which celebrates the magical beginnings of communication between parents and children. Agugaga Day is a reminder that every baby's first sound is an invitation to conversation and the beginning of a great adventure with language.
+In the calendar of unusual holidays, this is certainly one of the most controversial ones. Will you dare to celebrate them properly?
 
-[Learn more](https://www.kalbi.pl/dzien-agugaga)
-
----
-
-## Coral Triangle Day
-
-The Coral Triangle is a picturesque area of ​​tropical waters where most of the species of corals that build coral reefs occur. The holiday was born in 2012, when it was celebrated as a local interpretation of World Oceans Day. Over time, it became an independent event, its goal is to protect the Coral Triangle area.
-
-[Learn more](https://www.kalbi.pl/dzien-trojkata-koralowego)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-jazdy-nago-na-rowerze)
 
 ---
 
 
-*Last updated: 2026-06-09 01:59:58 Europe/Warsaw*
+*Last updated: 2026-06-10 01:13:34 Europe/Warsaw*
