@@ -1,30 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**June 11, 2026**
+**June 12, 2026**
 
-## International Fun Day
+## State Protection Service Day
 
-35 years after the world promised children the right to play in the 1989 UN Convention, a special day was needed to remember this promise. This is a painful admission by the international community that we have failed a fundamental right of the child, which should be as obvious as the right to education. The day is intended to restore play to its rightful place in childhood.
+Invisible professionals from the State Protection Service work behind the scenes of every presidential speech, visit of a foreign leader, parliamentary session or work of ministries. This is an elite formation protecting the most important people and facilities in Poland as well as Polish diplomatic missions abroad. The holiday is an opportunity to appreciate the people who guard the foundations of state security 24/7 - from the Belvedere Palace to embassies around the world.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zabawy)
-
----
-
-## International Lynx Day
-
-The lynx returns to Polish forests thanks to pioneering reintroduction projects and the "born to be free" method. The international holiday, established by European conservationists, celebrates one of the greatest successes of nature conservation - since 2007, almost a hundred of these unique cats have been introduced into nature. Cooperation with Estonia, Germany and Austria shows how international solidarity can save a species from extinction
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-rysia)
+[Learn more](https://www.kalbi.pl/swieto-sluzby-ochrony-panstwa)
 
 ---
 
-## Court Bailiff's Day
+## World Day Against Child Labor
 
-Although bailiffs mainly arouse fear and reluctance, today it is worth considering how difficult and dangerous their job is. World Court Bailiffs' Day has been celebrated around the world on the second Thursday of June since 2008.
+160 million children around the world work instead of going to school - that's almost one in ten children globally, half of whom work in hazardous, life-threatening work. While in Poland the problem is practically non-existent, we are connected to this drama through every chocolate we buy and every clothes we wear. From 2027, new EU regulations will require Polish companies to check whether their products are not made thanks to child labor.
 
-[Learn more](https://www.kalbi.pl/dzien-komornika-sadowego)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-sprzeciwu-wobec-pracy-dzieci)
+
+---
+
+## Nail Stylist Day
+
+Representatives of this professional group have been celebrating their holiday since 2011. The celebration includes free training, workshops and competitions.
+
+[Learn more](https://www.kalbi.pl/dzien-stylisty-paznokci)
+
+---
+
+## International Falafel Day
+
+Falafel is a popular vegan dish in Arab countries, which also has its supporters in Poland. These fried balls or cutlets made of spiced chickpeas or broad beans with sesame seeds can be found in many places today at a very promotional price.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-falafela)
 
 ---
 
 
-*Last updated: 2026-06-11 02:11:51 Europe/Warsaw*
+*Last updated: 2026-06-12 01:16:10 Europe/Warsaw*
