@@ -1,44 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**June 13, 2026**
+**June 14, 2026**
 
-## Festival of Good Advice
+## World Blood Donation Day
 
-Do you know someone who loves to tell you how to live, even though their own life is complete chaos? Good Advice Day is the perfect time to laugh at this universal phenomenon - we all hand out advice like candy, ignoring the fact that we rarely use it ourselves. This holiday reminds us of one important truth: before you start advising someone, check whether you apply your own "golden thoughts" - because it may turn out that you are a master of theory and an amateur of practice!
+This event is dedicated to all good people who donate their blood to those in need. We celebrate World Blood Donor Day on June 14, the birthday of Karl Landsteiner, who discovered blood groups in 1901. The holiday was established on June 14, 2004.
 
-[Learn more](https://www.kalbi.pl/swieto-dobrych-rad)
-
----
-
-## Military Police Day
-
-When General Tomasz Łubieński created the Field Guard in 1831, it was difficult to predict that the tradition of scarlet berets would survive for almost two centuries and lead to the moment when a Polish officer would lead the European gendarmerie forces. Today, the Military Police means 35 years of rebuilding prestige, rescue missions and guarding order - from everyday service in garrisons to the most difficult challenges on international missions. This is the story of how the scarlet beret became a symbol of reliability and courage.
-
-[Learn more](https://www.kalbi.pl/swieto-zandarmerii-wojskowej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-krwiodawstwa)
 
 ---
 
-## International Albinism Awareness Day
+## National Remembrance Day for the Victims of German Nazi Concentration and Extermination Camps
 
-Albinism is a rare genetic condition causing a lack of melanin in the skin, hair and eyes, which affects between 1 in 20,000 people in Europe and 1 in 1,400 in Tanzania. The day aims to educate about the fact that "sunscreen is a medicine, not a cosmetic" - in some countries, most people with albinism die of skin cancer between the ages of 30 and 40. This holiday promotes medical awareness and the fight against discrimination based on disabilities and differences in appearance.
+At the Krakow bus stop, prisoners heard through megaphones about the fall of Paris. They were going from Tarnów to a camp that was just starting to operate - 728 Poles, including Olympian Bronisław Czech and eighteen-year-old Kazimierz Albin. This date, June 14, 1940, later became the basis for Poland's National Day of Remembrance.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-swiadomosci-nt-albinizmu)
-
----
-
-## World Knitting in Public Day
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-robienia-na-drutach-w-miejscach-publicznych)
+[Learn more](https://www.kalbi.pl/narodowy-dzien-pamieci-ofiar-niemieckich-nazistowskich-obozow-koncentracyjnych-i-obozow-zaglady)
 
 ---
 
-## World Wellness Day
+## Citizen Journalist Day
 
-World Wellness Day is a very pleasant holiday - after all, it is a great opportunity to go for relaxing treatments, sit in a jacuzzi or swim in the pool.
+A citizen journalist is a person who describes the world in the public interest. He is not a professional, so he can write whatever he wants, he is not pressed for deadlines. The origin of this term is closely related to the Internet, and the first Polish website is the Polish-language version of Wikinews.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wellness)
+[Learn more](https://www.kalbi.pl/dzien-dziennikarza-obywatelskiego)
+
+---
+
+## International Bathing Day
+
+International Bathing Day is the best opportunity to treat yourself to a home SPA. Add aromatic oils to hot water, pour wine into a glass and immerse your whole body in the bathtub to relax.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kapieli)
 
 ---
 
 
-*Last updated: 2026-06-13 02:15:31 Europe/Warsaw*
+*Last updated: 2026-06-14 00:56:07 Europe/Warsaw*
