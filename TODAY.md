@@ -1,38 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 14, 2026**
+**June 15, 2026**
 
-## World Blood Donation Day
+## Dzień Wiatru
 
-This event is dedicated to all good people who donate their blood to those in need. We celebrate World Blood Donor Day on June 14, the birthday of Karl Landsteiner, who discovered blood groups in 1901. Święto zostało ustanowione 14 czerwca 2004 roku.
+Wiatr ma dwa oblicza – z jednej strony to niszczycielski żywioł, ale z drugiej przynosi ludziom wiele korzyści. W Światowy Dzień Wiatru uświadamia się społeczeństwo przede wszystkim na temat energii wiatrowej, jej potencjale, globalnym rozwoju i możliwościach zastępowania nieodnawialnych źródeł energii.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-krwiodawstwa)
-
----
-
-## Narodowy Dzień Pamięci Ofiar Niemieckich Nazistowskich Obozów Koncentracyjnych i Obozów Zagłady
-
-Na krakowskim przystanku więźniowie usłyszeli przez megafony o upadku Paryża. Jechali z Tarnowa do obozu, który dopiero zaczynał działać — 728 Polaków, w tym olimpijczyk Bronisław Czech i osiemnastoletni Kazimierz Albin. Ta data, 14 czerwca 1940, stała się później podstawą polskiego Narodowego Dnia Pamięci.
-
-[Learn more](https://www.kalbi.pl/narodowy-dzien-pamieci-ofiar-niemieckich-nazistowskich-obozow-koncentracyjnych-i-obozow-zaglady)
+[Learn more](https://www.kalbi.pl/dzien-wiatru)
 
 ---
 
-## Dzień Dziennikarza Obywatelskiego
+## Ogólnopolski Dzień Dogoterapii
 
-Dziennikarz obywatelski to osoba, która opisuje świat w interesie społecznym. Nie jest zawodowcem, więc może pisać co chce, nie gonią go terminy. Powstanie tego terminu jest ściśle związane z Internetem, a pierwszą polską stroną jest polskojęzyczna wersja Wikinews.
+Psy to wspaniałe zwierzęta, które nie tylko zajmują nasze miejsce na kanapie, ale i wymiernie pomagają chorym i niepełnosprawnym. Dogoterapia, bo dziś ta forma leczenia i rehabilitacji ma swoje święto stosowana jest w Polsce z powodzeniem od wielu lat.
 
-[Learn more](https://www.kalbi.pl/dzien-dziennikarza-obywatelskiego)
+[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-dogoterapii)
 
 ---
 
-## International Bathing Day
+## Światowy Dzień Praw Osób Starszych
 
-International Bathing Day is the best opportunity to treat yourself to a home SPA. Add aromatic oils to hot water, pour wine into a glass and immerse your whole body in the bathtub to relax.
+Osoby starsze często padają ofiarą innych, są wykorzystywane, poniżane. A przecież kiedyś to oni opiekowali się młodszymi, należy więc okazać im wdzięczność a nie złość. Nie tylko w Światowy Dzień Praw Osób Starszych.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kapieli)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-praw-osob-starszych)
 
 ---
 
 
-*Last updated: 2026-06-14 02:01:14 Europe/Warsaw*
+*Last updated: 2026-06-15 01:00:50 Europe/Warsaw*
