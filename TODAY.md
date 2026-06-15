@@ -2,29 +2,29 @@
 
 **June 15, 2026**
 
-## Dzień Wiatru
+## Wind Day
 
-Wiatr ma dwa oblicza – z jednej strony to niszczycielski żywioł, ale z drugiej przynosi ludziom wiele korzyści. W Światowy Dzień Wiatru uświadamia się społeczeństwo przede wszystkim na temat energii wiatrowej, jej potencjale, globalnym rozwoju i możliwościach zastępowania nieodnawialnych źródeł energii.
+The wind has two faces - on the one hand, it is a destructive element, but on the other, it brings many benefits to people. On World Wind Day, society is made aware primarily of wind energy, its potential, global development and possibilities of replacing non-renewable energy sources.
 
 [Learn more](https://www.kalbi.pl/dzien-wiatru)
 
 ---
 
-## Ogólnopolski Dzień Dogoterapii
+## National Dog Therapy Day
 
-Psy to wspaniałe zwierzęta, które nie tylko zajmują nasze miejsce na kanapie, ale i wymiernie pomagają chorym i niepełnosprawnym. Dogoterapia, bo dziś ta forma leczenia i rehabilitacji ma swoje święto stosowana jest w Polsce z powodzeniem od wielu lat.
+Dogs are wonderful animals that not only take up our place on the couch, but also significantly help the sick and disabled. Dog therapy, because today this form of treatment and rehabilitation has its day, has been used successfully in Poland for many years.
 
 [Learn more](https://www.kalbi.pl/ogolnopolski-dzien-dogoterapii)
 
 ---
 
-## Światowy Dzień Praw Osób Starszych
+## World Day for the Rights of Older Persons
 
-Osoby starsze często padają ofiarą innych, są wykorzystywane, poniżane. A przecież kiedyś to oni opiekowali się młodszymi, należy więc okazać im wdzięczność a nie złość. Nie tylko w Światowy Dzień Praw Osób Starszych.
+Older people often fall victim to others, are exploited and humiliated. After all, they used to take care of the younger ones, so you should show them gratitude, not anger. Not only on World Day of the Rights of Older Persons.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-praw-osob-starszych)
 
 ---
 
 
-*Last updated: 2026-06-15 01:00:50 Europe/Warsaw*
+*Last updated: 2026-06-15 02:04:29 Europe/Warsaw*
