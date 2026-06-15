@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 15, 2026**
+**June 16, 2026**
 
-## Wind Day
+## African Children's Day
 
-The wind has two faces - on the one hand, it is a destructive element, but on the other, it brings many benefits to people. On World Wind Day, society is made aware primarily of wind energy, its potential, global development and possibilities of replacing non-renewable energy sources.
+African Children's Day is celebrated on June 16. It commemorates the Soweto students of 1976 and focuses on children's rights, education and the safety of the youngest in Africa. In Polish circulation it is also known as the International Day for African Children.
 
-[Learn more](https://www.kalbi.pl/dzien-wiatru)
-
----
-
-## National Dog Therapy Day
-
-Dogs are wonderful animals that not only take up our place on the couch, but also significantly help the sick and disabled. Dog therapy, because today this form of treatment and rehabilitation has its day, has been used successfully in Poland for many years.
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-dogoterapii)
+[Learn more](https://www.kalbi.pl/dzien-dziecka-afrykanskiego)
 
 ---
 
-## World Day for the Rights of Older Persons
+## Bloom's Day
 
-Older people often fall victim to others, are exploited and humiliated. After all, they used to take care of the younger ones, so you should show them gratitude, not anger. Not only on World Day of the Rights of Older Persons.
+Bloomsday is a tribute to the Irish writer James Joyce and his iconic novel Ulysses. The date is not accidental - it was on June 16, 1904 that Leopold Bloom "wandered" the streets of Dublin. This holiday is also celebrated there most loudly today.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-praw-osob-starszych)
+[Learn more](https://www.kalbi.pl/dzien-blooma)
+
+---
+
+## International Family Remittance Day
+
+International Family Remittance Day is June 16. It is a day of the UN and IFAD dedicated to the money sent by migrants to their families and its importance for the livelihood, education, health and development of local communities.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-rodzinnych-przekazow-pienieznych)
 
 ---
 
 
-*Last updated: 2026-06-15 02:04:29 Europe/Warsaw*
+*Last updated: 2026-06-16 01:29:50 Europe/Warsaw*
