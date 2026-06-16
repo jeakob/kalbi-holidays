@@ -1,30 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**June 16, 2026**
+**June 17, 2026**
 
-## African Children's Day
+## Day to Combat Desertification and Drought
 
-African Children's Day is celebrated on June 16. It commemorates the Soweto students of 1976 and focuses on children's rights, education and the safety of the youngest in Africa. In Polish circulation it is also known as the International Day for African Children.
+At the turn of the 1960s and 1970s, sub-Saharan Africa was hit by a drought that killed over 200,000 people and millions of animals. The purpose of celebrating the holiday is to ensure that such a tragedy never happens again.
 
-[Learn more](https://www.kalbi.pl/dzien-dziecka-afrykanskiego)
-
----
-
-## Bloom's Day
-
-Bloomsday is a tribute to the Irish writer James Joyce and his iconic novel Ulysses. The date is not accidental - it was on June 16, 1904 that Leopold Bloom "wandered" the streets of Dublin. This holiday is also celebrated there most loudly today.
-
-[Learn more](https://www.kalbi.pl/dzien-blooma)
+[Learn more](https://www.kalbi.pl/dzien-walki-z-pustynnieniem-i-suszami)
 
 ---
 
-## International Family Remittance Day
+## Armored and Mechanized Forces Day
 
-International Family Remittance Day is June 16. It is a day of the UN and IFAD dedicated to the money sent by migrants to their families and its importance for the livelihood, education, health and development of local communities.
+The Armored and Mechanized Forces Day, commonly known as Tanker Day, falls on June 17. It commemorates the arrival to Poland of the 1st Tank Regiment of the Army of General Józef Haller and is currently a celebration of armored and mechanized formations of the Polish Army.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-rodzinnych-przekazow-pienieznych)
+[Learn more](https://www.kalbi.pl/swieto-wojsk-pancernych-i-zmechanizowanych)
 
 ---
 
 
-*Last updated: 2026-06-16 02:25:39 Europe/Warsaw*
+*Last updated: 2026-06-17 01:18:41 Europe/Warsaw*
