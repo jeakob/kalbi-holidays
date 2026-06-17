@@ -1,22 +1,38 @@
 # 🎉 Today's Unusual Holidays
 
-**June 17, 2026**
+**June 18, 2026**
 
-## Day to Combat Desertification and Drought
+## International Sushi Day
 
-At the turn of the 1960s and 1970s, sub-Saharan Africa was hit by a drought that killed over 200,000 people and millions of animals. The purpose of celebrating the holiday is to ensure that such a tragedy never happens again.
+It's impossible not to notice this - Poles love Sushi. It's not only about the taste, but also the method of preparation, serving, nutritional value and variety of additives. In a word - Sushi is art, and Poles love art. On International Sushi Day, it is worth going with your family or friends for a common feast.
 
-[Learn more](https://www.kalbi.pl/dzien-walki-z-pustynnieniem-i-suszami)
-
----
-
-## Armored and Mechanized Forces Day
-
-The Armored and Mechanized Forces Day, commonly known as Tanker Day, falls on June 17. It commemorates the arrival to Poland of the 1st Tank Regiment of the Army of General Józef Haller and is currently a celebration of armored and mechanized formations of the Polish Army.
-
-[Learn more](https://www.kalbi.pl/swieto-wojsk-pancernych-i-zmechanizowanych)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sushi)
 
 ---
 
+## Sustainable Gastronomy Day
 
-*Last updated: 2026-06-17 02:12:12 Europe/Warsaw*
+Sustainable Gastronomy Day falls on June 18. It is the official UN day dedicated to food, culinary culture and food systems in the spirit of sustainable development, from local products to reducing food waste.
+
+[Learn more](https://www.kalbi.pl/dzien-zrownowazonej-gastronomii)
+
+---
+
+## International Day for the Prevention of Hate Speech
+
+The International Day for the Prevention of Hate Speech falls on June 18. It is the UN day dedicated to human rights, anti-discrimination, education, responsibility of digital platforms and reducing the harm caused by hate speech.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-przeciwdzialania-mowie-nienawisci)
+
+---
+
+## World Kidney Cancer Day
+
+World Kidney Cancer Day aims to help disseminate information about this disease and its first symptoms, which, if detected earlier, provide a chance for effective treatment.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-raka-nerki)
+
+---
+
+
+*Last updated: 2026-06-18 01:17:47 Europe/Warsaw*
