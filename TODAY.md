@@ -1,38 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 18, 2026**
+**June 19, 2026**
 
-## International Sushi Day
+## World Sickle Cell Anemia Day
 
-It's impossible not to notice this - Poles love Sushi. It's not only about the taste, but also the method of preparation, serving, nutritional value and variety of additives. In a word - Sushi is art, and Poles love art. On International Sushi Day, it is worth going with your family or friends for a common feast.
+Sickle cell anemia is one of the most common genetic diseases in the world. The day of celebration, included in the UNESCO calendar in 2009, aims to raise awareness of this disease.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sushi)
-
----
-
-## Sustainable Gastronomy Day
-
-Sustainable Gastronomy Day falls on June 18. It is the official UN day dedicated to food, culinary culture and food systems in the spirit of sustainable development, from local products to reducing food waste.
-
-[Learn more](https://www.kalbi.pl/dzien-zrownowazonej-gastronomii)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-anemii-sierpowatej)
 
 ---
 
-## International Day for the Prevention of Hate Speech
+## Lazy Walks Day
 
-The International Day for the Prevention of Hate Speech falls on June 18. It is the UN day dedicated to human rights, anti-discrimination, education, responsibility of digital platforms and reducing the harm caused by hate speech.
+When America went jogging crazy, someone announced a counter-holiday: a day of walking slowly and aimlessly. W.T. Rabe did it in **1979** — without institutions, without a campaign, with one idea. *Sauntering* is an English word with no Polish equivalent; Lazy Walks Day is its closest translation.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-przeciwdzialania-mowie-nienawisci)
+[Learn more](https://www.kalbi.pl/dzien-leniwych-spacerow)
 
 ---
 
-## World Kidney Cancer Day
+## Wisła Kraków Fan Day
 
-World Kidney Cancer Day aims to help disseminate information about this disease and its first symptoms, which, if detected earlier, provide a chance for effective treatment.
+Wisła Kraków Fan Day or Wisła Day (sometimes also Wiślak Day) is a celebration of one of the most famous football clubs in Poland. The day was initiated by a fan and commemorates the founding of the club in June 1906.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-raka-nerki)
+[Learn more](https://www.kalbi.pl/dzien-kibica-wisly-krakow)
 
 ---
 
 
-*Last updated: 2026-06-18 02:11:56 Europe/Warsaw*
+*Last updated: 2026-06-19 01:29:33 Europe/Warsaw*
