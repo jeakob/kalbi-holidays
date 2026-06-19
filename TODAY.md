@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 19, 2026**
+**June 20, 2026**
 
-## World Sickle Cell Anemia Day
+## World Refugee Day
 
-Sickle cell anemia is one of the most common genetic diseases in the world. The day of celebration, included in the UNESCO calendar in 2009, aims to raise awareness of this disease.
+World Refugee Day was adopted by the UN General Assembly on December 4, 2000. The holiday commemorates the courage and strength of refugees around the world who had to leave their hometowns and loved ones in search of a better, and most often simply safe, life.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-anemii-sierpowatej)
-
----
-
-## Lazy Walks Day
-
-When America went jogging crazy, someone announced a counter-holiday: a day of walking slowly and aimlessly. W.T. Rabe did it in **1979** — without institutions, without a campaign, with one idea. *Sauntering* is an English word with no Polish equivalent; Lazy Walks Day is its closest translation.
-
-[Learn more](https://www.kalbi.pl/dzien-leniwych-spacerow)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-uchodzcy)
 
 ---
 
-## Wisła Kraków Fan Day
+## International Surfing Day
 
-Wisła Kraków Fan Day or Wisła Day (sometimes also Wiślak Day) is a celebration of one of the most famous football clubs in Poland. The day was initiated by a fan and commemorates the founding of the club in June 1906.
+On this day, wave catchers all over the world celebrate their holiday. It is worth remembering that there are many nice surfing spots in Poland, including the Hel Peninsula.
 
-[Learn more](https://www.kalbi.pl/dzien-kibica-wisly-krakow)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-surfingu)
+
+---
+
+## World Juggling Day
+
+Juggling is not an easy thing, it requires incredible skill. On today's holiday, it is worth trying this unusual "sport", especially since various juggling shows and workshops are held in many places.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zonglerki)
 
 ---
 
 
-*Last updated: 2026-06-19 02:21:16 Europe/Warsaw*
+*Last updated: 2026-06-20 00:45:32 Europe/Warsaw*
