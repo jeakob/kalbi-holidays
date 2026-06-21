@@ -1,54 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**June 21, 2026**
+**June 22, 2026**
 
-## Music Festival
+## Światowy Dzień Garbusa
 
-Music entertains us, delights us, moves us, inspires us and even scares us. Today it is worth listening to your favorite album, going to a concert or playing an instrument. The best thing to do is to take part in the Fête de la Musique parade.
+Kultowy Volkswagen „Garbus” był najdłużej i najliczniej produkowanym modelem samochodu w historii motoryzacji. Nie ma chyba osoby, która by nie kojarzyła tego charakterystycznego auta.
 
-[Learn more](https://www.kalbi.pl/swieto-muzyki)
-
----
-
-## Skateboard Day
-
-Skateboard Day is celebrated on June 21 and is an encouragement for everyone to "drop everything" and go outside to skate.
-
-[Learn more](https://www.kalbi.pl/dzien-deskorolki)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-garbusa)
 
 ---
 
-## International Yoga Day
+## Physical Culture Day
 
-On the international day of yoga, many interesting actions and happenings related to this philosophy take place. So you can take part in a free yoga session, paint with henna, or listen to oriental music.
+Physical activity has a beneficial effect on the entire body. Thanks to it, we are healthier, stronger, more confident and happier. In private, it is worth celebrating this holiday at least three times a week - going for a bike ride, a swimming pool or even a long walk.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-jogi)
-
----
-
-## World Giraffe Day
-
-Is it a coincidence that World Giraffe Day is celebrated on the longest day of the year? You don't have to be Einstein to associate it with the neck of this cute animal.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zyrafy)
+[Learn more](https://www.kalbi.pl/dzien-kultury-fizycznej)
 
 ---
 
-## World Hydrography Day
+## World Rainforest Day
 
-The holiday commemorates the establishment of the International Hydrographic Office in Monaco in 1921. It has been organized in Poland and around the world since 2006, its aim is to emphasize the importance of the work of hydrographic services and international cooperation in this field.
+World Rainforest Day is the best opportunity to start a discussion about the gradual destruction of the "lungs of the world" by humans. Activities undertaken by various organizations on this day aim to make the whole world pay attention to the cutting down of trees in rainforests.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-hydrografii)
-
----
-
-## International Solstice Celebration Day
-
-International Solstice Celebration Day is June 21. It is a UN day associated with the cultural significance of the solstices, social traditions, heritage and respect for the diversity of customs.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-swietowania-przesilenia)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-lasu-deszczowego)
 
 ---
 
 
-*Last updated: 2026-06-21 02:01:53 Europe/Warsaw*
+*Last updated: 2026-06-22 01:02:50 Europe/Warsaw*
