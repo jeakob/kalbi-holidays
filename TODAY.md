@@ -2,9 +2,9 @@
 
 **June 22, 2026**
 
-## Światowy Dzień Garbusa
+## World Beetle Day
 
-Kultowy Volkswagen „Garbus” był najdłużej i najliczniej produkowanym modelem samochodu w historii motoryzacji. Nie ma chyba osoby, która by nie kojarzyła tego charakterystycznego auta.
+The iconic Volkswagen Beetle was the longest and most frequently produced car model in the history of the automotive industry. There is probably no person who would not recognize this characteristic car.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-garbusa)
 
@@ -27,4 +27,4 @@ World Rainforest Day is the best opportunity to start a discussion about the gra
 ---
 
 
-*Last updated: 2026-06-22 01:02:50 Europe/Warsaw*
+*Last updated: 2026-06-22 02:05:35 Europe/Warsaw*
