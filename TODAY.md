@@ -4,19 +4,19 @@
 
 ## Hug Day
 
-Hug Day, also known as “Free Hugs,” is a holiday that requires just a little commitment. Przytulanie to świetny sposób, by okazać drugiemu człowiekowi sympatię, miłość albo podarować trochę ciepła. Pamiętajmy o tym nie tylko 24 czerwca.
+Hug Day, also known as “Free Hugs,” is a holiday that requires just a little commitment. Hugging is a great way to show another person sympathy, love or give some warmth. Let's remember this not only on June 24.
 
 [Learn more](https://www.kalbi.pl/dzien-przytulania)
 
 ---
 
-## Międzynarodowy Dzień Kobiet w Dyplomacji
+## International Women in Diplomacy Day
 
-Międzynarodowy Dzień Kobiet w Dyplomacji przypada 24 czerwca. To dzień ONZ poświęcony udziałowi kobiet w dyplomacji, polityce zagranicznej, negocjacjach, procesach pokojowych i przywództwie międzynarodowym.
+International Women in Diplomacy Day falls on June 24. It is the UN day dedicated to the participation of women in diplomacy, foreign policy, negotiations, peace processes and international leadership.
 
 [Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kobiet-w-dyplomacji)
 
 ---
 
 
-*Last updated: 2026-06-24 01:00:58 Europe/Warsaw*
+*Last updated: 2026-06-24 01:51:21 Europe/Warsaw*
