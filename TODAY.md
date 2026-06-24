@@ -1,22 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**June 24, 2026**
+**June 25, 2026**
 
-## Hug Day
+## Sailor's Day
 
-Hug Day, also known as “Free Hugs,” is a holiday that requires just a little commitment. Hugging is a great way to show another person sympathy, love or give some warmth. Let's remember this not only on June 24.
+The first ever celebration of this holiday took place on June 25, 2011. The message of Seafarers' Day is to recognize the invaluable contribution of seafarers (including fishermen) to global trade and the economy at the expense of their personal lives and families.
 
-[Learn more](https://www.kalbi.pl/dzien-przytulania)
-
----
-
-## International Women in Diplomacy Day
-
-International Women in Diplomacy Day falls on June 24. It is the UN day dedicated to the participation of women in diplomacy, foreign policy, negotiations, peace processes and international leadership.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kobiet-w-dyplomacji)
+[Learn more](https://www.kalbi.pl/dzien-marynarza)
 
 ---
 
 
-*Last updated: 2026-06-24 01:51:21 Europe/Warsaw*
+*Last updated: 2026-06-25 00:59:45 Europe/Warsaw*
