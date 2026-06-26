@@ -1,30 +1,36 @@
 # 🎉 Today's Unusual Holidays
 
-**June 26, 2026**
+**June 27, 2026**
 
-## Światowy Dzień Chłodnictwa
+## International Day of Micro, Small and Medium-sized Enterprises
 
-Data 26 czerwca nie jest przypadkowa — nawiązuje do urodzin Lorda Kelvina, XIX-wiecznego fizyka, który opisał termodynamikę rządzącą każdą lodówką, klimatyzatorem i pompą ciepła na świecie. Kampania Światowy Dzień Chłodnictwa, działająca od 2019 roku, chce pokazać, że za bezpieczną szczepionką, świeżym mlekiem i skutecznym lekiem stoi ta sama technologia: łańcuch chłodniczy. Bez niego owoce gniją w transporcie, a leki tracą moc zanim dotrą do pacjenta.
+The International Day of Micro, Small and Medium-sized Enterprises was established to highlight their importance in achieving the Sustainable Development Goals, especially in promoting innovation, creativity and decent work. The celebration aims to increase public awareness of the contribution of MSMEs to sustainable development and to promote the formalization, participation and growth of these enterprises in international, regional and national markets, including by providing access to capacity building and financial services.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-chlodnictwa)
-
----
-
-## International Day in Support of Victims of Torture
-
-Torture is the most terrible nightmare for many people - the helplessness that accompanies it, pain and fear leave a lasting mark on the psyche. Today's holiday aims to support them in returning to normal life.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pomocy-ofiarom-tortur)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-mikro-malych-i-srednich-przedsiebiorstw)
 
 ---
 
-## International Day for the Prevention of Drug Addiction
+## Brother-in-law's Day
 
-The International Day for the Prevention of Drug Addiction is a UN day celebrated on June 26, officially known as the International Day against Drug Abuse and Illicit Trafficking. It reminds about addiction prevention, support for people affected by the use of psychoactive substances and counteracting illegal drug trade.
+Who exactly is a brother-in-law and why does he deserve his own holiday? This is a man who has to endure family jokes, participate in endless discussions, and pretend to understand all the internal family codes. Brother-in-law's Day is a moment to appreciate his patience and effort in building relationships with his "new family".
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zapobiegania-narkomanii)
+[Learn more](https://www.kalbi.pl/dzien-szwagra)
+
+---
+
+## World Smurf Day
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-smerfa)
+
+---
+
+## World Day of Deafblind People
+
+World Day of Deafblind people falls on June 27. It is the UN day recognizing deafblindness as a separate disability and recalling accessibility, communication, interpreter-guides and the rights of deafblind people.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-osob-gluchoniewidomych)
 
 ---
 
 
-*Last updated: 2026-06-26 02:05:40 Europe/Warsaw*
+*Last updated: 2026-06-27 00:59:33 Europe/Warsaw*
