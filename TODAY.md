@@ -2,9 +2,9 @@
 
 **June 26, 2026**
 
-## World Refrigeration Day
+## Światowy Dzień Chłodnictwa
 
-The date of June 26 is not accidental - it refers to the birthday of Lord Kelvin, a 19th-century physicist who described the thermodynamics that governs every refrigerator, air conditioner and heat pump in the world. The World Refrigeration Day campaign, operating since 2019, wants to show that behind a safe vaccine, fresh milk and an effective medicine is the same technology: the cold chain. Without it, fruit rots during transport and medicines lose their potency before they reach the patient.
+Data 26 czerwca nie jest przypadkowa — nawiązuje do urodzin Lorda Kelvina, XIX-wiecznego fizyka, który opisał termodynamikę rządzącą każdą lodówką, klimatyzatorem i pompą ciepła na świecie. Kampania Światowy Dzień Chłodnictwa, działająca od 2019 roku, chce pokazać, że za bezpieczną szczepionką, świeżym mlekiem i skutecznym lekiem stoi ta sama technologia: łańcuch chłodniczy. Bez niego owoce gniją w transporcie, a leki tracą moc zanim dotrą do pacjenta.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-chlodnictwa)
 
@@ -27,4 +27,4 @@ The International Day for the Prevention of Drug Addiction is a UN day celebrate
 ---
 
 
-*Last updated: 2026-06-26 01:09:45 Europe/Warsaw*
+*Last updated: 2026-06-26 02:05:40 Europe/Warsaw*
