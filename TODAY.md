@@ -1,30 +1,54 @@
 # 🎉 Today's Unusual Holidays
 
-**June 30, 2026**
+**July 01, 2026**
 
-## Asteroid Day
+## Dog Day
 
-On June 30, 1908, the Tunguska disaster took place, the largest asteroid collision with Earth in recent centuries. More than 100 years after this mysterious event, the UN General Assembly established Asteroid Day. As part of this holiday, knowledge about space is spread.
+While owners are packing their bags for vacation, thousands of dogs are packing into... shelters. Dog Day is a holiday established with the most painful paradox of summer in mind - the period when "man's best friend" is most often betrayed. This is the only Polish holiday that was born not out of joy, but out of a desperate need to defend the defenseless.
 
-[Learn more](https://www.kalbi.pl/dzien-asteroid)
-
----
-
-## Aeromobile Troops Day
-
-The date of the Airmobile Forces Day commemorates the establishment of the Aeromobile Forces Command at the Land Forces Command in 1997. The history of aeromobile forces in Poland is longer - it dates back to World War II.
-
-[Learn more](https://www.kalbi.pl/swieto-wojsk-aeromobilnych)
+[Learn more](https://www.kalbi.pl/dzien-psa)
 
 ---
 
-## Cabbage Butterfly Day
+## Day of the Polish Sejm
 
-The white-tailed cabbage butterfly is the most popular Polish butterfly, but it is increasingly rare to see it around humans. Plant protection products cause their population to decrease.
+In 1569, a breakthrough political experiment took place in Lublin, which changed the map of Europe. The Union of Lublin united two large states into an innovative federal structure with a common parliament, but maintaining cultural differences. The Day of the Polish Sejm is a reminder of how early Poland experimented with solutions that we today call modern democracy.
 
-[Learn more](https://www.kalbi.pl/dzien-motyla-kapustnika)
+[Learn more](https://www.kalbi.pl/dzien-sejmu-polskiego)
+
+---
+
+## World Architecture Day
+
+Architects largely create the space we live in. However, the holiday established by the International Union of Architects is also addressed to all people associated with architecture, including its enthusiasts.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-architektury)
+
+---
+
+## International Fruit Day
+
+Fruits are not only tasty, but also have many nutritional values. It is no coincidence that we celebrate the holiday on July 1, as most of them occur in the middle of summer.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-owocow)
+
+---
+
+## Celebration of the Operational Command of the Armed Forces
+
+The essence of the Day of the Operational Command of the Branches of the Armed Forces is to cultivate the history of the organization and to express respect for the soldiers who make up the command and work every day with commitment for the good of the country.
+
+[Learn more](https://www.kalbi.pl/swieto-dowodztwa-operacyjnego-rodzajow-sil-zbrojnych)
+
+---
+
+## International Reggae Day
+
+International Reggae Day is an important date for fans of the musical style originating from Jamaica. The Bob Marley fans' festival is not only a time to listen to songs without limits, but also an opportunity to promote music to spread love for it to other people.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-reggae)
 
 ---
 
 
-*Last updated: 2026-06-30 01:57:22 Europe/Warsaw*
+*Last updated: 2026-07-01 01:04:31 Europe/Warsaw*
