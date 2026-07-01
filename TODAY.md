@@ -1,54 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**July 01, 2026**
+**July 02, 2026**
 
-## Dog Day
+## Sports Journalist's Day
 
-Podczas gdy właściciele pakują walizki na wakacje, tysiące psów pakuje się do... schronisk. Dzień Psa to święto ustanowione z myślą o najbardziej bolącym paradoksie lata - okresie, gdy "najlepszy przyjaciel człowieka" najczęściej zostaje zdradzony. This is the only Polish holiday that was born not out of joy, but out of a desperate need to defend the defenseless.
+When in **1924**, during the Olympic Games in Paris, sports journalists founded their own organization, they put forward a thesis: sport needs a separate press, not just a section in a newspaper. A hundred years have passed - and this thesis turned out to be correct. A sports reporter is a specialist who must understand the tactics of the game, read statistics in real time and keep distance where fans lose it in the first minute.
 
-[Learn more](https://www.kalbi.pl/dzien-psa)
-
----
-
-## Dzień Sejmu Polskiego
-
-W 1569 roku w Lublinie doszło do przełomowego eksperymentu politycznego, który zmienił mapę Europy. Unia Lubelska połączyła dwa wielkie państwa w innowacyjną strukturę federacyjną z wspólnym parlamentem, ale zachowaniem odrębności kulturowych. Dzień Sejmu Polskiego to przypomnienie o tym, jak wcześnie Polska eksperymentowała z rozwiązaniami, które dziś nazywamy nowoczesną demokracją.
-
-[Learn more](https://www.kalbi.pl/dzien-sejmu-polskiego)
+[Learn more](https://www.kalbi.pl/dzien-dziennikarza-sportowego)
 
 ---
 
-## World Architecture Day
+## International UFO Day
 
-Architects largely create the space we live in. However, the holiday established by the International Union of Architects is also addressed to all people associated with architecture, including its enthusiasts.
+Let's look carefully at the sky today - when, if not on UFO Day, would guests from space visit us? Maybe it's worth preparing refreshments and earthly alcohol in advance?
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-architektury)
-
----
-
-## International Fruit Day
-
-Fruits are not only tasty, but also have many nutritional values. It is no coincidence that we celebrate the holiday on July 1, as most of them occur in the middle of summer.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-owocow)
-
----
-
-## Celebration of the Operational Command of the Armed Forces
-
-The essence of the Day of the Operational Command of the Branches of the Armed Forces is to cultivate the history of the organization and to express respect for the soldiers who make up the command and work every day with commitment for the good of the country.
-
-[Learn more](https://www.kalbi.pl/swieto-dowodztwa-operacyjnego-rodzajow-sil-zbrojnych)
-
----
-
-## Międzynarodowy Dzień Reggae
-
-Międzynarodowy Dzień Reggae to data istotna dla wielbicieli stylu muzycznego pochodzącego z Jamajki. Święto fanów Boba Marleya to nie tylko czas na słuchanie piosenek bez ograniczeń, ale też możliwość promocji muzyki, aby zarazić miłością do niej kolejne osoby.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-reggae)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ufo)
 
 ---
 
 
-*Last updated: 2026-07-01 02:02:19 Europe/Warsaw*
+*Last updated: 2026-07-02 01:05:17 Europe/Warsaw*
