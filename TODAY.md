@@ -4,15 +4,15 @@
 
 ## Dog Day
 
-While owners are packing their bags for vacation, thousands of dogs are packing into... shelters. Dog Day is a holiday established with the most painful paradox of summer in mind - the period when "man's best friend" is most often betrayed. This is the only Polish holiday that was born not out of joy, but out of a desperate need to defend the defenseless.
+Podczas gdy właściciele pakują walizki na wakacje, tysiące psów pakuje się do... schronisk. Dzień Psa to święto ustanowione z myślą o najbardziej bolącym paradoksie lata - okresie, gdy "najlepszy przyjaciel człowieka" najczęściej zostaje zdradzony. This is the only Polish holiday that was born not out of joy, but out of a desperate need to defend the defenseless.
 
 [Learn more](https://www.kalbi.pl/dzien-psa)
 
 ---
 
-## Day of the Polish Sejm
+## Dzień Sejmu Polskiego
 
-In 1569, a breakthrough political experiment took place in Lublin, which changed the map of Europe. The Union of Lublin united two large states into an innovative federal structure with a common parliament, but maintaining cultural differences. The Day of the Polish Sejm is a reminder of how early Poland experimented with solutions that we today call modern democracy.
+W 1569 roku w Lublinie doszło do przełomowego eksperymentu politycznego, który zmienił mapę Europy. Unia Lubelska połączyła dwa wielkie państwa w innowacyjną strukturę federacyjną z wspólnym parlamentem, ale zachowaniem odrębności kulturowych. Dzień Sejmu Polskiego to przypomnienie o tym, jak wcześnie Polska eksperymentowała z rozwiązaniami, które dziś nazywamy nowoczesną demokracją.
 
 [Learn more](https://www.kalbi.pl/dzien-sejmu-polskiego)
 
@@ -42,13 +42,13 @@ The essence of the Day of the Operational Command of the Branches of the Armed F
 
 ---
 
-## International Reggae Day
+## Międzynarodowy Dzień Reggae
 
-International Reggae Day is an important date for fans of the musical style originating from Jamaica. The Bob Marley fans' festival is not only a time to listen to songs without limits, but also an opportunity to promote music to spread love for it to other people.
+Międzynarodowy Dzień Reggae to data istotna dla wielbicieli stylu muzycznego pochodzącego z Jamajki. Święto fanów Boba Marleya to nie tylko czas na słuchanie piosenek bez ograniczeń, ale też możliwość promocji muzyki, aby zarazić miłością do niej kolejne osoby.
 
 [Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-reggae)
 
 ---
 
 
-*Last updated: 2026-07-01 01:04:31 Europe/Warsaw*
+*Last updated: 2026-07-01 02:02:19 Europe/Warsaw*
