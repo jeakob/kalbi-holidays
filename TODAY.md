@@ -2,9 +2,9 @@
 
 **July 02, 2026**
 
-## Sports Journalist's Day
+## Dzień Dziennikarza Sportowego
 
-When in **1924**, during the Olympic Games in Paris, sports journalists founded their own organization, they put forward a thesis: sport needs a separate press, not just a section in a newspaper. A hundred years have passed - and this thesis turned out to be correct. A sports reporter is a specialist who must understand the tactics of the game, read statistics in real time and keep distance where fans lose it in the first minute.
+Kiedy w **1924 roku** podczas igrzysk w Paryżu dziennikarze sportowi zakładali własną organizację, postawili tezę: sport potrzebuje osobnej prasy, nie tylko działu w gazecie. Minęło sto lat — i ta teza okazała się słuszna. Reporter sportowy to specjalista, który musi rozumieć taktykę gry, odczytać statystyki w czasie rzeczywistym i zachować dystans tam, gdzie kibice tracą go w pierwszej minucie.
 
 [Learn more](https://www.kalbi.pl/dzien-dziennikarza-sportowego)
 
@@ -19,4 +19,4 @@ Let's look carefully at the sky today - when, if not on UFO Day, would guests fr
 ---
 
 
-*Last updated: 2026-07-02 01:05:17 Europe/Warsaw*
+*Last updated: 2026-07-02 02:02:51 Europe/Warsaw*
