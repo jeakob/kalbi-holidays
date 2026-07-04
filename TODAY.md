@@ -1,20 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**July 04, 2026**
+**July 05, 2026**
 
-## Hot Dog Festival
+## Bust Grabbing Day
 
-[Learn more](https://www.kalbi.pl/swieto-hot-doga)
-
----
-
-## International Cooperative Day
-
-The holiday commemorates the founding of the International Cooperative Association in 1895. The aim is to emphasize the role that cooperatives play in economic, social and cultural life. In Poland, the International Cooperative Day has been celebrated since 1925.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-spoldzielczosci)
+[Learn more](https://www.kalbi.pl/dzien-lapania-za-biust)
 
 ---
 
+## Bikini Day
 
-*Last updated: 2026-07-04 01:58:08 Europe/Warsaw*
+In **1946**, a Parisian engineer set out to design a swimsuit more radical than anything that had come before it - and he succeeded. **Louis Réard**'s show caused a scandal, and the two-piece outfit changed the way we look on the beach forever. Bikini Day falls on **July 5**, the anniversary of that premiere.
+
+[Learn more](https://www.kalbi.pl/dzien-bikini)
+
+---
+
+
+*Last updated: 2026-07-05 01:55:45 Europe/Warsaw*
