@@ -18,15 +18,21 @@ permissions:
   pages: write
   id-token: write
 
+# Serialize Pages deployments so overlapping runs (two daily crons plus the
+# self-triggering push from the "Commit TODAY.md" step) don't race on deploy.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       
@@ -168,12 +174,12 @@ jobs:
           EOF
       
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: 'public'
       
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
       
       - name: Display today's holidays
         run: |
