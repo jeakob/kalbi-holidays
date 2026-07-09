@@ -1,14 +1,28 @@
 # 🎉 Today's Unusual Holidays
 
-**July 09, 2026**
+**July 10, 2026**
 
-## Walking to Work Day a Different Way
+## Nikola Tesla Day
 
-Today, you cannot take a vacation under any circumstances, and what's more, you should find a different way to work than usual. What is harming us? Maybe we'll come up with an interesting, inspiring idea?
+At the end of the 19th century, when electrification of cities was just starting, Tesla developed a system that changed everything: alternating current powers every building in the world today. The anniversary of his birth became an opportunity to commemorate the inventor who won the battle for the future of electricity. Croatia was the only country to grant this date official state status.
 
-[Learn more](https://www.kalbi.pl/dzien-chodzenia-do-pracy-inna-droga)
+[Learn more](https://www.kalbi.pl/dzien-nikoli-tesli)
+
+---
+
+## World Kebab Day
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-kebaba)
+
+---
+
+## Dzień Frytek
+
+Ten belgijski „wynalazek” ma swoich zwolenników na całym świecie. Szkoda tylko że zawierają dużo tłuszczu i są bardzo kaloryczne. Ale kto by się dzisiaj tym przejmował?
+
+[Learn more](https://www.kalbi.pl/dzien-frytek)
 
 ---
 
 
-*Last updated: 2026-07-09 02:03:23 Europe/Warsaw*
+*Last updated: 2026-07-10 01:03:43 Europe/Warsaw*
