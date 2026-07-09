@@ -16,13 +16,13 @@ At the end of the 19th century, when electrification of cities was just starting
 
 ---
 
-## Dzień Frytek
+## French Fries Day
 
-Ten belgijski „wynalazek” ma swoich zwolenników na całym świecie. Szkoda tylko że zawierają dużo tłuszczu i są bardzo kaloryczne. Ale kto by się dzisiaj tym przejmował?
+This Belgian "invention" has its supporters all over the world. It's a pity that they contain a lot of fat and are very caloric. But who would care about that today?
 
 [Learn more](https://www.kalbi.pl/dzien-frytek)
 
 ---
 
 
-*Last updated: 2026-07-10 01:03:43 Europe/Warsaw*
+*Last updated: 2026-07-10 01:59:37 Europe/Warsaw*
