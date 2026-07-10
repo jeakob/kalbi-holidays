@@ -1,28 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**July 10, 2026**
+**July 11, 2026**
 
-## Nikola Tesla Day
+## National Day of Remembrance of the Victims of Genocide in Volhynia
 
-At the end of the 19th century, when electrification of cities was just starting, Tesla developed a system that changed everything: alternating current powers every building in the world today. The anniversary of his birth became an opportunity to commemorate the inventor who won the battle for the future of electricity. Croatia was the only country to grant this date official state status.
+A holiday dedicated to the victims of one of the cruelest crimes in Polish history - genocide referred to by historians as "genocidium atrox" - genocide with particular cruelty. Thousands of Poles died at the hands of Ukrainian nationalists from the UPA in a brutal way just because they were Poles, often during an ordinary Sunday mass in church. This is proof that some wounds are too deep for time to heal without a worthy commemoration.
 
-[Learn more](https://www.kalbi.pl/dzien-nikoli-tesli)
-
----
-
-## World Kebab Day
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-kebaba)
+[Learn more](https://www.kalbi.pl/narodowy-dzien-pamieci-ofiar-ludobojstwa-na-wolyniu)
 
 ---
 
-## French Fries Day
+## World Population Day
 
-This Belgian "invention" has its supporters all over the world. It's a pity that they contain a lot of fat and are very caloric. But who would care about that today?
+The initiative for this holiday was put forward by the UNDP Governing Council in 1989, on the anniversary of the so-called Five Billion Day (July 11, 1987), the day when the world's population reached five billion. This event aims to draw public attention to population problems.
 
-[Learn more](https://www.kalbi.pl/dzien-frytek)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-ludnosci)
 
 ---
 
 
-*Last updated: 2026-07-10 01:59:37 Europe/Warsaw*
+*Last updated: 2026-07-11 00:53:07 Europe/Warsaw*
