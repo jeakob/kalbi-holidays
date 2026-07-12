@@ -1,14 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**July 12, 2026**
+**July 13, 2026**
 
-## Polish Village Martyrdom Day
+## International Rock and Roll Day
 
-The Sejm of the Republic of Poland adopted the Day of Martyrdom of the Polish Village as July 12. It is a commemoration of the tragic events in the Świętokrzyskie village of Michniów. In 1943, the Germans pacified its inhabitants, which became a symbol of Nazi murders in the Polish countryside.
+International Rock and Roll Day can be an excuse to dance all night to the rhythm of this amazing music. On this day, fans of the genre organize themed parties dominated by songs by The Rolling Stones and Led Zeppelin.
 
-[Learn more](https://www.kalbi.pl/dzien-meczenstwa-wsi-polskiej)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-rock-and-rolla)
 
 ---
 
 
-*Last updated: 2026-07-12 01:47:05 Europe/Warsaw*
+*Last updated: 2026-07-13 00:39:16 Europe/Warsaw*
