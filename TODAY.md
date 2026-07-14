@@ -1,26 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**July 14, 2026**
+**July 15, 2026**
 
-## Grab the Butt Day
+## A day without a cell phone
 
-An internet joke that got out of control and became a test of social maturity. In times of growing awareness of consent, such absurd "holidays" are no longer funny - they become a litmus test of our values. Proof that there are no "innocent" memes in the digital age when they involve pushing physical boundaries.
-
-[Learn more](https://www.kalbi.pl/dzien-lapania-za-pupe)
+[Learn more](https://www.kalbi.pl/dzien-bez-telefonu-komorkowego)
 
 ---
 
-## Shark Day
+## World Youth Skills Day
 
-[Learn more](https://www.kalbi.pl/dzien-rekina)
+Many young people cannot find their way in the labor market. World Youth Skills Day draws attention to the problem of under-financing of areas responsible for developing young people's competences desired by employers, and this should change.
 
----
-
-## World Chimpanzee Day
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-szympansa)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-umiejetnosci-mlodziezy)
 
 ---
 
 
-*Last updated: 2026-07-14 01:47:16 Europe/Warsaw*
+*Last updated: 2026-07-15 00:49:00 Europe/Warsaw*
