@@ -17,4 +17,4 @@ Many young people cannot find their way in the labor market. World Youth Skills 
 ---
 
 
-*Last updated: 2026-07-15 00:49:00 Europe/Warsaw*
+*Last updated: 2026-07-15 01:44:40 Europe/Warsaw*
