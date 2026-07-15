@@ -1,20 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**July 15, 2026**
+**July 16, 2026**
 
-## A day without a cell phone
+## Homemade Coffee Day
 
-[Learn more](https://www.kalbi.pl/dzien-bez-telefonu-komorkowego)
+"Guinea pig" is the common name - the scientific name is "cavia porcellus" (*Cavia porcellus*). And this scientific name is in the title of the day that animal welfare organizations have been celebrating every year since **2016**. The article explains where the two names come from and why this day was created.
 
----
-
-## World Youth Skills Day
-
-Many young people cannot find their way in the labor market. World Youth Skills Day draws attention to the problem of under-financing of areas responsible for developing young people's competences desired by employers, and this should change.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-umiejetnosci-mlodziezy)
+[Learn more](https://www.kalbi.pl/dzien-kawii-domowej)
 
 ---
 
+## World Snake Day
 
-*Last updated: 2026-07-15 01:44:40 Europe/Warsaw*
+World Snake Day is an opportunity to spread reliable knowledge about these animals. Many people buy a snake to be fashionable, but have no idea how to maintain it. On this day, specialists encourage you to look at the conditions in the terrarium and adapt them to the needs of a given species.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-weza)
+
+---
+
+
+*Last updated: 2026-07-16 00:51:25 Europe/Warsaw*
