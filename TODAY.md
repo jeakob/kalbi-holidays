@@ -19,4 +19,4 @@ Indians had been taking snuff long before Europeans arrived on their land. In Po
 ---
 
 
-*Last updated: 2026-07-17 00:50:39 Europe/Warsaw*
+*Last updated: 2026-07-17 01:53:10 Europe/Warsaw*
