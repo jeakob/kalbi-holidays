@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**July 16, 2026**
+**July 17, 2026**
 
-## Homemade Coffee Day
+## World Emoji Day
 
-"Guinea pig" is the common name - the scientific name is "cavia porcellus" (*Cavia porcellus*). And this scientific name is in the title of the day that animal welfare organizations have been celebrating every year since **2016**. The article explains where the two names come from and why this day was created.
+Emoji is an extended form of emoticons - in addition to traditional faces, we also have images of various animals, places and objects. The date of the celebration refers to the calendar emoticon in the iOS system - it shows July 17.
 
-[Learn more](https://www.kalbi.pl/dzien-kawii-domowej)
-
----
-
-## World Snake Day
-
-World Snake Day is an opportunity to spread reliable knowledge about these animals. Many people buy a snake to be fashionable, but have no idea how to maintain it. On this day, specialists encourage you to look at the conditions in the terrarium and adapt them to the needs of a given species.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-weza)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-emoji)
 
 ---
 
+## National Snuff Day
 
-*Last updated: 2026-07-16 01:53:00 Europe/Warsaw*
+Indians had been taking snuff long before Europeans arrived on their land. In Poland, however, the fashion for powdered tobacco taken through the nose became popular at the beginning of the 17th century. The holiday on July 17 is celebrated in connection with the establishment of the first snuff factory in our country.
+
+[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-tabaki)
+
+---
+
+
+*Last updated: 2026-07-17 00:50:39 Europe/Warsaw*
