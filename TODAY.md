@@ -1,22 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**July 17, 2026**
+**July 18, 2026**
 
-## World Emoji Day
+## International Nelson Mandela Day
 
-Emoji is an extended form of emoticons - in addition to traditional faces, we also have images of various animals, places and objects. The date of the celebration refers to the calendar emoticon in the iOS system - it shows July 17.
+Nelson Mandela is a symbol of the fight for human rights - loved in his homeland (South Africa) and respected around the world. The most famous leader of the anti-apartheid movement is, among others, Nobel Prize winner.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-emoji)
-
----
-
-## National Snuff Day
-
-Indians had been taking snuff long before Europeans arrived on their land. In Poland, however, the fashion for powdered tobacco taken through the nose became popular at the beginning of the 17th century. The holiday on July 17 is celebrated in connection with the establishment of the first snuff factory in our country.
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-tabaki)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-nelsona-mandeli)
 
 ---
 
+## Caviar Day
 
-*Last updated: 2026-07-17 01:53:10 Europe/Warsaw*
+Caviar Day, a date when you can afford a bit of luxury without any remorse. Caviar, i.e. fish roe, is an elegant dish that usually costs a lot, but on this one day it is worth taking advantage of the opportunity and eating an exclusive delicacy.
+
+[Learn more](https://www.kalbi.pl/dzien-kawioru)
+
+---
+
+## World Listening Day
+
+World Listening Day highlights the importance of this skill, which is extremely valuable. Nowadays, many people focus on giving unnecessary advice to other people. However, all you need to do is listen to them and show a little empathy to make them feel better.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-sluchania)
+
+---
+
+
+*Last updated: 2026-07-18 00:40:24 Europe/Warsaw*
