@@ -1,22 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**July 19, 2026**
+**July 20, 2026**
 
-## Little Red Riding Hood Day
+## International Chess Day
 
-Each of us knows this story. But is it enough to dig into its various versions and learn the entire symbolism of this fairy tale? It's worth doing it today, you may be pleasantly surprised.
-
-[Learn more](https://www.kalbi.pl/dzien-czerwonego-kapturka)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-szachow)
 
 ---
 
-## Ice Cream Day
+## Moon Day
 
-Summer is a time associated primarily with cold desserts. There is no better occasion to eat refreshing delicacies than Ice Cream Day. Then even the most consistent parents give their children a little slack and allow a few more scoops than usual.
+Moon Day commemorates the first human landing on the moon on July 20, 1969.
 
-[Learn more](https://www.kalbi.pl/dzien-lodow)
+[Learn more](https://www.kalbi.pl/dzien-ksiezyca)
 
 ---
 
 
-*Last updated: 2026-07-19 01:45:21 Europe/Warsaw*
+*Last updated: 2026-07-20 00:42:30 Europe/Warsaw*
