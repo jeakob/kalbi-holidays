@@ -1,14 +1,28 @@
 # 🎉 Today's Unusual Holidays
 
-**July 23, 2026**
+**July 24, 2026**
 
-## Snufkin Day
+## International day of virtual love
 
-It is a celebration of all those who do not like to stay in one place for too long, but love to wander and wander in search of adventures. Since Snufkin Day falls in the middle of summer, it's worth going for a long walk.
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-wirtualnej-milosci)
 
-[Learn more](https://www.kalbi.pl/dzien-wloczykija)
+---
+
+## Policeman's Day
+
+The celebration of Police Day commemorates the establishment of the Polish State Police in 1919. This event is a great opportunity to reward the best law enforcers at the Capital Police Headquarters.
+
+[Learn more](https://www.kalbi.pl/dzien-policjanta)
+
+---
+
+## Maya the Bee Day
+
+The friendly bee Maja celebrates her holiday today. Gucio and Filip the grasshopper should not be missing at the party.
+
+[Learn more](https://www.kalbi.pl/dzien-pszczolki-mai)
 
 ---
 
 
-*Last updated: 2026-07-23 01:56:36 Europe/Warsaw*
+*Last updated: 2026-07-24 00:48:49 Europe/Warsaw*
