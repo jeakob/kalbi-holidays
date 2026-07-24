@@ -1,28 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**July 24, 2026**
+**July 25, 2026**
 
-## International day of virtual love
+## Safe Driver Day
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-wirtualnej-milosci)
-
----
-
-## Policeman's Day
-
-The celebration of Police Day commemorates the establishment of the Polish State Police in 1919. This event is a great opportunity to reward the best law enforcers at the Capital Police Headquarters.
-
-[Learn more](https://www.kalbi.pl/dzien-policjanta)
+[Learn more](https://www.kalbi.pl/dzien-bezpiecznego-kierowcy)
 
 ---
 
-## Maya the Bee Day
+## World Drowning Prevention Day
 
-The friendly bee Maja celebrates her holiday today. Gucio and Filip the grasshopper should not be missing at the party.
+World Drowning Prevention Day is July 25. It is a UN day coordinated by WHO, dedicated to practical drowning prevention: education, safe rescue, child care, regulations and water safety.
 
-[Learn more](https://www.kalbi.pl/dzien-pszczolki-mai)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zapobiegania-utonieciom)
 
 ---
 
 
-*Last updated: 2026-07-24 01:54:13 Europe/Warsaw*
+*Last updated: 2026-07-25 00:54:33 Europe/Warsaw*
