@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**July 27, 2026**
+**July 28, 2026**
 
-## Singles Day
+## World Hepatitis Day
 
-It is much better to experience all successes, emotions and failures in the company of a loved one, which is why loneliness is a sad thing. It is worth remembering that lonely people include not only single people, but also the elderly and children abandoned by their parents.
+It is a holiday whose aim is to raise public health awareness and fight against hepatitis B, C, D and E. The date of the celebration refers to the birthday of Baruch Samuel Blumberg, who identified the hepatitis B virus.
 
-[Learn more](https://www.kalbi.pl/dzien-samotnych)
-
----
-
-## Stilt Walking Day
-
-Stilt Walking Day is an event that promotes this difficult art and gives people a chance to learn about the possibility of learning to walk on stilts, because such interest can turn into a real passion.
-
-[Learn more](https://www.kalbi.pl/dzien-chodzenia-na-szczudlach)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-wirusowego-zapalenia-watroby)
 
 ---
 
+## Muscle Worship Day
 
-*Last updated: 2026-07-27 01:55:01 Europe/Warsaw*
+Let's be honest, almost every guy would like to look like a strongman. This requires hard training, but when should you start if not today?
+
+[Learn more](https://www.kalbi.pl/dzien-kultu-masy-miesniowej)
+
+---
+
+
+*Last updated: 2026-07-28 00:53:30 Europe/Warsaw*
