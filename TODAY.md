@@ -1,22 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**July 28, 2026**
+**July 29, 2026**
 
-## World Hepatitis Day
+## World Tiger Day
 
-It is a holiday whose aim is to raise public health awareness and fight against hepatitis B, C, D and E. The date of the celebration refers to the birthday of Baruch Samuel Blumberg, who identified the hepatitis B virus.
+The tiger is an admirable predatory animal: proud, agile, fast. Unfortunately, their population is decreasing at a drastic rate. Of course, humans are to blame for this by entering their natural habitats with excavators or hunting them.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wirusowego-zapalenia-watroby)
-
----
-
-## Muscle Worship Day
-
-Let's be honest, almost every guy would like to look like a strongman. This requires hard training, but when should you start if not today?
-
-[Learn more](https://www.kalbi.pl/dzien-kultu-masy-miesniowej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-tygrysa)
 
 ---
 
 
-*Last updated: 2026-07-28 01:57:23 Europe/Warsaw*
+*Last updated: 2026-07-29 00:52:03 Europe/Warsaw*
