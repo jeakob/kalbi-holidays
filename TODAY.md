@@ -1,14 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**July 29, 2026**
+**July 30, 2026**
 
-## World Tiger Day
+## International Friendship Day
 
-The tiger is an admirable predatory animal: proud, agile, fast. Unfortunately, their population is decreasing at a drastic rate. Of course, humans are to blame for this by entering their natural habitats with excavators or hunting them.
+The "father" of this holiday is the Paraguayan Ramón Artemio Bracho, who in 1958 founded a foundation for friendship. Thanks to his efforts, the UN recognized the International Day of Friendship in 2011 (on the 200th anniversary of Paraguay's independence). Its idea is obvious - let's respect each other, let's help, let's be nice to each other. And then the world will surely be a better place.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-tygrysa)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-przyjazni)
+
+---
+
+## Cheesecake Day
+
+Cheesecake was already served to ancient Olympic athletes. Today, this sweet dessert is popular everywhere. Cheesecake was brought to Poland by King John III Sobieski.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sernika)
 
 ---
 
 
-*Last updated: 2026-07-29 01:53:57 Europe/Warsaw*
+*Last updated: 2026-07-30 00:53:26 Europe/Warsaw*
