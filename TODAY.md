@@ -12,11 +12,11 @@ The "father" of this holiday is the Paraguayan Ramón Artemio Bracho, who in 195
 
 ## Cheesecake Day
 
-Cheesecake was already served to ancient Olympic athletes. Today, this sweet dessert is popular everywhere. Cheesecake was brought to Poland by King John III Sobieski.
+Cheesecake was already served to ancient Olympic athletes. Today, this sweet dessert is popular everywhere. Cheesecake was brought to Poland by King Jan III Sobieski.
 
 [Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sernika)
 
 ---
 
 
-*Last updated: 2026-07-30 00:53:26 Europe/Warsaw*
+*Last updated: 2026-07-30 01:55:58 Europe/Warsaw*
