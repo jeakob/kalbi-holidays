@@ -1,22 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**July 30, 2026**
+**July 31, 2026**
 
-## International Friendship Day
+## Treasury Day
 
-The "father" of this holiday is the Paraguayan Ramón Artemio Bracho, who in 1958 founded a foundation for friendship. Thanks to his efforts, the UN recognized the International Day of Friendship in 2011 (on the 200th anniversary of Paraguay's independence). Its idea is obvious - let's respect each other, let's help, let's be nice to each other. And then the world will surely be a better place.
+Tax Day is a celebration of all officials, inspectors, heads and employees of tax chambers, offices and fiscal control offices. The date of July 31, 1919 commemorates the adoption of the Act on the temporary organization of authorities and tax offices.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-przyjazni)
-
----
-
-## Cheesecake Day
-
-Cheesecake was already served to ancient Olympic athletes. Today, this sweet dessert is popular everywhere. Cheesecake was brought to Poland by King Jan III Sobieski.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sernika)
+[Learn more](https://www.kalbi.pl/dzien-skarbowosci)
 
 ---
 
+## Administrator's Day
 
-*Last updated: 2026-07-30 01:55:58 Europe/Warsaw*
+[Learn more](https://www.kalbi.pl/dzien-administratora)
+
+---
+
+
+*Last updated: 2026-07-31 00:57:24 Europe/Warsaw*
