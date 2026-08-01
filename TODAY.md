@@ -1,52 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 01, 2026**
+**August 02, 2026**
 
-## World Breastfeeding Day
+## World Remembrance Day for the Genocide of the Roma
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-karmienia-piersia)
+The holiday commemorates one of the most tragic events in the history of the Roma, which was the liquidation of the so-called Gypsy family camp in KL Auschwitz II-Birkenau in 1944. Zigeunerlager. On the night of August 2-3, the Germans killed 2,897 Roma children, women and men in gas chambers.
 
----
-
-## National Warsaw Uprising Remembrance Day
-
-"W" hour, i.e. August 1, 1944, 5:00 p.m. It was then that the Warsaw Uprising broke out against the German troops occupying Warsaw. Today at 5 p.m. time will stop throughout Poland as a sign of memory of the heroic and brave insurgents.
-
-[Learn more](https://www.kalbi.pl/narodowy-dzien-pamieci-powstania-warszawskiego)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-pamieci-o-zagladzie-romow)
 
 ---
 
-## International Cabrio Day
+## Coloring Page Day
 
-This is a holiday for lovers of convertible cars. Fans of "topless" people meet every year and celebrate together on the first Saturday of August.
+There is no better activity to develop children's creativity and artistic abilities than coloring books. That's why Coloring Book Day is celebrated in nurseries, kindergartens and schools, and the youngest are happy that they can use their creative talents.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-cabrio)
-
----
-
-## Warsaw Remembrance Day
-
-The holiday commemorates the outbreak of the Warsaw Uprising in 1944. It was the largest military uprising in German-occupied Europe. Unlike the National Warsaw Uprising Remembrance Day, Warsaw Remembrance Day is local.
-
-[Learn more](https://www.kalbi.pl/dzien-pamieci-warszawy)
-
----
-
-## International Alopecia Day
-
-People often don't know what alopecia areata is. International Alopecia Day is an opportunity to explain to the public what this disease is. The more people are aware, the greater the chance that patients will not avoid social life for fear of being ridiculed.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-alopecji)
-
----
-
-## World Mustard Day
-
-Today's holiday, as it falls in the middle of the holidays, is worth spending a barbecue. Of course, accompanied by mustard, which creates a very harmonious pair with the sausage.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-musztardy)
+[Learn more](https://www.kalbi.pl/dzien-kolorowanek)
 
 ---
 
 
-*Last updated: 2026-08-01 01:55:47 Europe/Warsaw*
+*Last updated: 2026-08-02 00:45:26 Europe/Warsaw*
