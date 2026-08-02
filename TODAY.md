@@ -1,22 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**August 02, 2026**
+**August 03, 2026**
 
-## World Remembrance Day for the Genocide of the Roma
+## Watermelon Day
 
-The holiday commemorates one of the most tragic events in the history of the Roma, which was the liquidation of the so-called Gypsy family camp in KL Auschwitz II-Birkenau in 1944. Zigeunerlager. On the night of August 2-3, the Germans killed 2,897 Roma children, women and men in gas chambers.
+Watermelon Day is a time when it is worth emphasizing the positive impact consuming this fruit has on the body. Watermelon is rich in vitamins, and it contains almost no calories because it consists mostly of water. Cooled, it can be a healthy substitute for ice cream.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-pamieci-o-zagladzie-romow)
-
----
-
-## Coloring Page Day
-
-There is no better activity to develop children's creativity and artistic abilities than coloring books. That's why Coloring Book Day is celebrated in nurseries, kindergartens and schools, and the youngest are happy that they can use their creative talents.
-
-[Learn more](https://www.kalbi.pl/dzien-kolorowanek)
+[Learn more](https://www.kalbi.pl/dzien-arbuza)
 
 ---
 
 
-*Last updated: 2026-08-02 01:51:26 Europe/Warsaw*
+*Last updated: 2026-08-03 00:46:24 Europe/Warsaw*
