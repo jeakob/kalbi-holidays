@@ -1,14 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**August 04, 2026**
+**August 05, 2026**
 
-## Międzynarodowy Dzień Pantery Mglistej
+## Underwear Day
 
-Międzynarodowy Dzień Pantery Mglistej to ważna data w kalendarzu dla tych, którym los zagrożonych wyginięciem zwierząt nie jest obcy. Ten dzień jest okazją do uświadomienia ludziom, że bez ochrony pantera mglista zniknie z powierzchni ziemi tak jak stało się to już w przypadku niektórych gatunków.
+Women in the Middle Ages most likely did not wear panties - medieval historians write simply: "Nobody knows". The T-shirt was underwear until the 1950s, and bloomers were invented in 1851 by Elizabeth Smith Miller. Behind Underwear Day is a brand from 2003 - behind underwear there are five hundred years of surprising stories.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pantery-mglistej)
+[Learn more](https://www.kalbi.pl/dzien-bielizny)
 
 ---
 
 
-*Last updated: 2026-08-04 02:02:00 Europe/Warsaw*
+*Last updated: 2026-08-05 00:53:30 Europe/Warsaw*
