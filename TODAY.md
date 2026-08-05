@@ -1,14 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**August 05, 2026**
+**August 06, 2026**
 
-## Underwear Day
+## Fresh Breath Day
 
-Women in the Middle Ages most likely did not wear panties - medieval historians write simply: "Nobody knows". The T-shirt was underwear until the 1950s, and bloomers were invented in 1851 by Elizabeth Smith Miller. Behind Underwear Day is a brand from 2003 - behind underwear there are five hundred years of surprising stories.
+Fresh Breath Day aims to promote oral hygiene. Unfortunately, in the 21st century, when a set of toothbrushes and belts costs no more than a few zlotys, there are still people who neglect brushing their teeth. Therefore, actions drawing attention to this problem are important.
 
-[Learn more](https://www.kalbi.pl/dzien-bielizny)
+[Learn more](https://www.kalbi.pl/dzien-swiezego-oddechu)
 
 ---
 
 
-*Last updated: 2026-08-05 01:57:51 Europe/Warsaw*
+*Last updated: 2026-08-06 00:50:19 Europe/Warsaw*
