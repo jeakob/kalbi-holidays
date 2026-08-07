@@ -1,20 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**August 07, 2026**
+**August 08, 2026**
 
-## International Beer and Brewer Day
+## International Cat Day
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-piwa-i-piwowara)
+Cats have accompanied people since ancient times and aroused their fascination with their mysterious nature. International Cat Day is a great opportunity to give your cat a gift in the form of a tasty snack. Many shelters use this opportunity to draw people's attention to the problem of cat homelessness and encourage them to adopt them.
 
----
-
-## Dzień Pracownika Opieki nad Osobami Starszymi
-
-Ludzie w podeszłym wieku potrzebują opieki, ale nierzadko bliscy nie są w stanie sami zapewnić im należytej pieczy. Dzień Pracownika Opieki nad Osobami Starszymi podkreśla rolę opiekunów, którzy wykazują się dużą empatią i cierpliwością w stosunku do podopiecznych. Zasługują na szacunek i warto w tym dniu podziękować im za ciężką pracę.
-
-[Learn more](https://www.kalbi.pl/dzien-pracownika-opieki-nad-osobami-starszymi)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kota)
 
 ---
 
+## Great Bee Day
 
-*Last updated: 2026-08-07 03:40:25 Europe/Warsaw*
+Great Bee Day is a holiday that we have been celebrating since 2013. Its goal is to protect these insects from extinction. It would also be a tragedy for humans, because according to Einstein, when bees disappear, humans will only have four years left to live.
+
+[Learn more](https://www.kalbi.pl/wielki-dzien-pszczol)
+
+---
+
+## International Female Orgasm Day
+
+A woman's fulfillment during intercourse is as important as a man's satisfaction with sex. International Female Orgasm Day emphasizes that women's needs in the erotic sphere are important. Celebrating this day is intended to make the topic of female orgasm no longer a taboo.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kobiecego-orgazmu)
+
+---
+
+
+*Last updated: 2026-08-08 00:26:18 Europe/Warsaw*
