@@ -2,7 +2,7 @@
 
 **August 07, 2026**
 
-## Międzynarodowy Dzień Piwa i Piwowara
+## International Beer and Brewer Day
 
 [Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-piwa-i-piwowara)
 
@@ -17,4 +17,4 @@ Ludzie w podeszłym wieku potrzebują opieki, ale nierzadko bliscy nie są w sta
 ---
 
 
-*Last updated: 2026-08-07 03:27:56 Europe/Warsaw*
+*Last updated: 2026-08-07 03:40:25 Europe/Warsaw*
