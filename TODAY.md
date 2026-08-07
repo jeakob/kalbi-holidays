@@ -1,14 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**August 06, 2026**
+**August 07, 2026**
 
-## Fresh Breath Day
+## Międzynarodowy Dzień Piwa i Piwowara
 
-Fresh Breath Day aims to promote oral hygiene. Unfortunately, in the 21st century, when a set of toothbrushes and belts costs no more than a few zlotys, there are still people who neglect brushing their teeth. Therefore, actions drawing attention to this problem are important.
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-piwa-i-piwowara)
 
-[Learn more](https://www.kalbi.pl/dzien-swiezego-oddechu)
+---
+
+## Dzień Pracownika Opieki nad Osobami Starszymi
+
+Ludzie w podeszłym wieku potrzebują opieki, ale nierzadko bliscy nie są w stanie sami zapewnić im należytej pieczy. Dzień Pracownika Opieki nad Osobami Starszymi podkreśla rolę opiekunów, którzy wykazują się dużą empatią i cierpliwością w stosunku do podopiecznych. Zasługują na szacunek i warto w tym dniu podziękować im za ciężką pracę.
+
+[Learn more](https://www.kalbi.pl/dzien-pracownika-opieki-nad-osobami-starszymi)
 
 ---
 
 
-*Last updated: 2026-08-06 01:53:10 Europe/Warsaw*
+*Last updated: 2026-08-07 03:27:56 Europe/Warsaw*
