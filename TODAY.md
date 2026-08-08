@@ -1,30 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 08, 2026**
+**August 09, 2026**
 
-## International Cat Day
+## International Day of the World's Indigenous Peoples
 
-Cats have accompanied people since ancient times and aroused their fascination with their mysterious nature. International Cat Day is a great opportunity to give your cat a gift in the form of a tasty snack. Many shelters use this opportunity to draw people's attention to the problem of cat homelessness and encourage them to adopt them.
+The idea of ​​the International Day of the World's Indigenous Peoples is to draw attention to the rich diversity of indigenous cultures. On the one hand, they are people who have resisted the temptations of the civilized world, and on the other, they have to struggle with many problems.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kota)
-
----
-
-## Great Bee Day
-
-Great Bee Day is a holiday that we have been celebrating since 2013. Its goal is to protect these insects from extinction. It would also be a tragedy for humans, because according to Einstein, when bees disappear, humans will only have four years left to live.
-
-[Learn more](https://www.kalbi.pl/wielki-dzien-pszczol)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ludnosci-tubylczej-na-swiecie)
 
 ---
 
-## International Female Orgasm Day
+## Book Lovers' Day
 
-A woman's fulfillment during intercourse is as important as a man's satisfaction with sex. International Female Orgasm Day emphasizes that women's needs in the erotic sphere are important. Celebrating this day is intended to make the topic of female orgasm no longer a taboo.
+It is true that people who read books live more than once. Book Lovers' Day is an initiative aimed at popularizing reading. It is worth encouraging people to travel to other worlds thanks to the written word.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kobiecego-orgazmu)
+[Learn more](https://www.kalbi.pl/dzien-milosnikow-ksiazek)
 
 ---
 
 
-*Last updated: 2026-08-08 01:27:10 Europe/Warsaw*
+*Last updated: 2026-08-09 00:19:43 Europe/Warsaw*
