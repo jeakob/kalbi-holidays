@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 09, 2026**
+**August 10, 2026**
 
-## International Day of the World's Indigenous Peoples
+## Day of Mountain Guides and Rescuers
 
-The idea of ​​the International Day of the World's Indigenous Peoples is to draw attention to the rich diversity of indigenous cultures. On the one hand, they are people who have resisted the temptations of the civilized world, and on the other, they have to struggle with many problems.
+Mountain Guides and Rescuers Day is, contrary to appearances, not a good opportunity for rescuers to celebrate loudly. This is when numerous trips to the mountains take place, led by the best guides.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ludnosci-tubylczej-na-swiecie)
-
----
-
-## Book Lovers' Day
-
-It is true that people who read books live more than once. Book Lovers' Day is an initiative aimed at popularizing reading. It is worth encouraging people to travel to other worlds thanks to the written word.
-
-[Learn more](https://www.kalbi.pl/dzien-milosnikow-ksiazek)
+[Learn more](https://www.kalbi.pl/dzien-przewodnikow-i-ratownikow-gorskich)
 
 ---
 
+## World Lion Day
 
-*Last updated: 2026-08-09 01:21:11 Europe/Warsaw*
+World Lion Day supports and promotes charities and foundations that raise awareness of the great need for conservation action and sustainable solutions to address the global declining population of wild lions.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-lwa)
+
+---
+
+
+*Last updated: 2026-08-10 00:20:51 Europe/Warsaw*
