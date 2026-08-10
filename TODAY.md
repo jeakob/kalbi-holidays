@@ -11,4 +11,4 @@ The thing about monuments is that they are quite old. So you have to handle them
 ---
 
 
-*Last updated: 2026-08-11 00:27:55 Europe/Warsaw*
+*Last updated: 2026-08-11 01:28:00 Europe/Warsaw*
