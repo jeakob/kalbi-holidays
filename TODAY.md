@@ -1,14 +1,28 @@
 # 🎉 Today's Unusual Holidays
 
-**August 11, 2026**
+**August 12, 2026**
 
-## Monument Conservator's Day
+## Workaholics Day
 
-The thing about monuments is that they are quite old. So you have to handle them very carefully, and taking care of them is an advanced driving school. The profession of a conservator of monuments requires a lot of knowledge and responsibility.
+[Learn more](https://www.kalbi.pl/dzien-pracoholikow)
 
-[Learn more](https://www.kalbi.pl/dzien-konserwatora-zabytkow)
+---
+
+## International Youth Day
+
+Young people are full of energy and enthusiasm. International Youth Day, organized every year, aims to activate young people to act for the benefit of local communities. On this day, those in power focus on coming up with programs to improve the situation of young people in a given country.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-mlodziezy)
+
+---
+
+## World Elephant Day
+
+World Elephant Day was initiated in 2012 by the Elephant Reintroduction Foundation and the creators of the film "Return to the Forest". Its aim is to draw attention to the problem of the decreasing population of Asian and African elephants.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-slonia)
 
 ---
 
 
-*Last updated: 2026-08-11 01:28:00 Europe/Warsaw*
+*Last updated: 2026-08-12 00:33:57 Europe/Warsaw*
