@@ -18,11 +18,11 @@ Young people are full of energy and enthusiasm. International Youth Day, organiz
 
 ## World Elephant Day
 
-World Elephant Day was initiated in 2012 by the Elephant Reintroduction Foundation and the creators of the film "Return to the Forest". Its aim is to draw attention to the problem of the decreasing population of Asian and African elephants.
+World Elephant Day was initiated in 2012 by the Elephant Reintroduction Foundation and the creators of the film "Return to the Forest". Its aim is to draw attention to the problem of the declining population of Asian and African elephants.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-slonia)
 
 ---
 
 
-*Last updated: 2026-08-12 00:33:57 Europe/Warsaw*
+*Last updated: 2026-08-12 01:32:23 Europe/Warsaw*
