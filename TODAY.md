@@ -1,12 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**August 13, 2026**
+**August 14, 2026**
 
-## International Day of Left-Handed People
+## Energy Engineer's Day
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-osob-leworecznych)
+Energy Engineer's Day was established in 1956. Currently, it is celebrated on August 14, in honor of the patron saint of energy workers, St. Maksymilian Kolbe, who was murdered on this day in 1941 in the German Auschwitz concentration camp.
+
+[Learn more](https://www.kalbi.pl/dzien-energetyka)
 
 ---
 
 
-*Last updated: 2026-08-13 01:33:12 Europe/Warsaw*
+*Last updated: 2026-08-14 00:32:19 Europe/Warsaw*
