@@ -2,13 +2,13 @@
 
 **August 15, 2026**
 
-## Dzień Synowej
+## Daughter-in-law's Day
 
-Relacje na linii synowa i teściowa nie zawsze muszą być napięte. Wiele relacji rodzinnych zaprzecza stereotypom. Dzień Synowej to doskonała okazja, aby powiedzieć żonie syna coś miłego lub zaprosić ją na obiad.
+Daughter-in-law and mother-in-law relationships do not always have to be tense. Many family relationships contradict stereotypes. Daughter-in-law's Day is a perfect opportunity to say something nice to your son's wife or invite her for dinner.
 
 [Learn more](https://www.kalbi.pl/dzien-synowej)
 
 ---
 
 
-*Last updated: 2026-08-15 00:13:53 Europe/Warsaw*
+*Last updated: 2026-08-15 01:14:31 Europe/Warsaw*
