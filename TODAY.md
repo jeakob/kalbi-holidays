@@ -1,14 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**August 14, 2026**
+**August 15, 2026**
 
-## Energy Engineer's Day
+## Dzień Synowej
 
-Energy Engineer's Day was established in 1956. Currently, it is celebrated on August 14, in honor of the patron saint of energy workers, St. Maksymilian Kolbe, who was murdered on this day in 1941 in the German Auschwitz concentration camp.
+Relacje na linii synowa i teściowa nie zawsze muszą być napięte. Wiele relacji rodzinnych zaprzecza stereotypom. Dzień Synowej to doskonała okazja, aby powiedzieć żonie syna coś miłego lub zaprosić ją na obiad.
 
-[Learn more](https://www.kalbi.pl/dzien-energetyka)
+[Learn more](https://www.kalbi.pl/dzien-synowej)
 
 ---
 
 
-*Last updated: 2026-08-14 01:33:58 Europe/Warsaw*
+*Last updated: 2026-08-15 00:13:53 Europe/Warsaw*
