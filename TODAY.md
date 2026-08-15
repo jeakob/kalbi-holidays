@@ -1,14 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 15, 2026**
+**August 16, 2026**
 
-## Daughter-in-law's Day
+## World Roller Coaster Day
 
-Daughter-in-law and mother-in-law relationships do not always have to be tense. Many family relationships contradict stereotypes. Daughter-in-law's Day is a perfect opportunity to say something nice to your son's wife or invite her for dinner.
+On August 16, we celebrate World Roller Coaster Day, i.e. crazy roller coasters that make people's hearts beat faster. The date refers to Edwin Prescott obtaining a patent for a roller coaster.
 
-[Learn more](https://www.kalbi.pl/dzien-synowej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-roller-coastera)
+
+---
+
+## International Lighthouse Day
+
+The holidays are the best time to celebrate International Lighthouse Day. At this time, on the Polish coast, you can visit one of several lighthouses and take part in various games organized in the Baltic Sea resorts.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-latarni-morskich)
 
 ---
 
 
-*Last updated: 2026-08-15 01:14:31 Europe/Warsaw*
+*Last updated: 2026-08-16 00:12:12 Europe/Warsaw*
