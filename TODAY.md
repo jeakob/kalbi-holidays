@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 16, 2026**
+**August 17, 2026**
 
-## World Roller Coaster Day
+## Positively Crazy Day
 
-On August 16, we celebrate World Roller Coaster Day, i.e. crazy roller coasters that make people's hearts beat faster. The date refers to Edwin Prescott obtaining a patent for a roller coaster.
+A positively crazy person is someone who is crazy about his passion, has crazy ideas, is a born optimist, and is always more fun in his company.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-roller-coastera)
-
----
-
-## International Lighthouse Day
-
-The holidays are the best time to celebrate International Lighthouse Day. At this time, on the Polish coast, you can visit one of several lighthouses and take part in various games organized in the Baltic Sea resorts.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-latarni-morskich)
+[Learn more](https://www.kalbi.pl/dzien-pozytywnie-zakreconych)
 
 ---
 
+## Lumpex Day
 
-*Last updated: 2026-08-16 01:13:11 Europe/Warsaw*
+Ladies who like to dress well will certainly celebrate this holiday with successful shopping on Lumpex Day. Used clothing stores used to be associated with trash, but now even celebrities shop there because they can find retro gems.
+
+[Learn more](https://www.kalbi.pl/dzien-lumpeksu)
+
+---
+
+
+*Last updated: 2026-08-17 00:11:48 Europe/Warsaw*
