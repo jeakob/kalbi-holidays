@@ -4,7 +4,7 @@
 
 ## World Humanitarian Day
 
-This holiday aims to increase awareness of activities related to providing humanitarian aid around the world. The date of the celebration commemorates the bomb attack on the UN mission in Baghdad in 2003, which killed 22 people, including the UN High Commissioner for Human Rights, Sérgio Vieira de Mello.
+This holiday aims to increase awareness of activities related to providing humanitarian aid around the world. The date of the celebration commemorates the bomb attack on the UN facility in Baghdad in 2003, which killed 22 people, including the UN High Commissioner for Human Rights, Sérgio Vieira de Mello.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-pomocy-humanitarnej)
 
@@ -19,4 +19,4 @@ Technology has advanced so much that nowadays everyone takes photos, after all, 
 ---
 
 
-*Last updated: 2026-08-19 00:13:18 Europe/Warsaw*
+*Last updated: 2026-08-19 01:14:52 Europe/Warsaw*
