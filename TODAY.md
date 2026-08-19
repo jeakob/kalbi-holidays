@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 19, 2026**
+**August 20, 2026**
 
-## World Humanitarian Day
+## Day of Professing Love
 
-This holiday aims to increase awareness of activities related to providing humanitarian aid around the world. The date of the celebration commemorates the bomb attack on the UN facility in Baghdad in 2003, which killed 22 people, including the UN High Commissioner for Human Rights, Sérgio Vieira de Mello.
+There are words that come to your lips, but shame or fear stops them. Professing Love Day is an unofficial holiday reminding us that a sincere "I love you" is more valuable than we assume - and applies not only to couples, but also to family and friends. Sometimes the simplest words have the greatest power.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-pomocy-humanitarnej)
-
----
-
-## World Photography Day
-
-Technology has advanced so much that nowadays everyone takes photos, after all, it is enough to have a phone with you. This is possible thanks to the daguerreotype technique invented by Louis Daguerre and Joseph Niépce. World Photography Day commemorates this event from 1839, which is considered the date of the invention of photography.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-fotografii)
+[Learn more](https://www.kalbi.pl/dzien-wyznawania-milosci)
 
 ---
 
+## Mosquito Day
 
-*Last updated: 2026-08-19 01:14:52 Europe/Warsaw*
+Oh no! It's better not to leave the house tonight... The holiday was established in memory of Dr. Ronald Ross, who in 1897 discovered that female mosquitoes transmit malaria between people.
+
+[Learn more](https://www.kalbi.pl/dzien-komara)
+
+---
+
+
+*Last updated: 2026-08-20 00:15:44 Europe/Warsaw*
