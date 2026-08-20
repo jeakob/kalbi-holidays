@@ -1,22 +1,18 @@
 # 🎉 Today's Unusual Holidays
 
-**August 20, 2026**
+**August 21, 2026**
 
-## Day of Professing Love
+## World Optimist Day
 
-There are words that come to your lips, but shame or fear stops them. Professing Love Day is an unofficial holiday reminding us that a sincere "I love you" is more valuable than we assume - and applies not only to couples, but also to family and friends. Sometimes the simplest words have the greatest power.
-
-[Learn more](https://www.kalbi.pl/dzien-wyznawania-milosci)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-optymisty)
 
 ---
 
-## Mosquito Day
+## International Sex Day
 
-Oh no! It's better not to leave the house tonight... The holiday was established in memory of Dr. Ronald Ross, who in 1897 discovered that female mosquitoes transmit malaria between people.
-
-[Learn more](https://www.kalbi.pl/dzien-komara)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-seksu)
 
 ---
 
 
-*Last updated: 2026-08-20 01:16:10 Europe/Warsaw*
+*Last updated: 2026-08-21 00:17:54 Europe/Warsaw*
