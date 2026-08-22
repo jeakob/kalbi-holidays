@@ -1,28 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 22, 2026**
+**August 23, 2026**
 
-## Security Worker's Day
+## Europejski Dzień Pamięci Ofiar Nazizmu i Stalinizmu
 
-[Learn more](https://www.kalbi.pl/dzien-pracownika-ochrony)
+Nazizm i stalinizm pochłonęły niezliczoną ilość niewinnych ofiar. Pamiętajmy o nich i doceńmy to, że żyjemy w bezpieczniejszych czasach. Święto znane również jest jako Międzynarodowy Dzień Czarnej Wstążki.
 
----
-
-## Światowy Dzień Mleka Roślinnego
-
-Światowy Dzień Mleka Roślinnego to inicjatywa mająca na celu zwiększenie świadomości na temat alternatyw dla mleka krowiego. Wydarzenie to promuje różnorodność mleka roślinnego, podkreślając jego potencjalne korzyści dla zdrowia, środowiska i dobrostanu zwierząt, jednocześnie zachęcając do eksploracji nowych smaków i zastosowań kulinarnych.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-mleka-roslinnego)
+[Learn more](https://www.kalbi.pl/europejski-dzien-pamieci-ofiar-nazizmu-i-stalinizmu)
 
 ---
 
-## Międzynarodowy Dzień Upamiętniający Ofiary Aktów Przemocy ze Względu na Religię lub Wyznanie
+## International Day of Remembrance of the Slave Trade and its Abolition
 
-Międzynarodowy Dzień Upamiętniający Ofiary Aktów Przemocy ze Względu na Religię lub Wyznanie jest momentem kiedy czci się pamięć wszystkich osób, które zginęły, bo nie wyparły się wiary. Nadal w niektórych regionach świata prześladowania na tle religijnym są nagminne i w tym dniu szczególnie zwraca się uwagę na ten problem.
+This holiday was established on the initiative of UNESCO in 1998. Commemorates the slave uprising in the French colony of Saint-Domingue (today's Haiti) on August 22/23, 1791.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-upamietniajacy-ofiary-aktow-przemocy-ze-wzgledu-na-religie-lub-wyznanie)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pamieci-o-handlu-niewolnikami-i-jego-zniesieniu)
 
 ---
 
 
-*Last updated: 2026-08-22 01:16:39 Europe/Warsaw*
+*Last updated: 2026-08-23 00:12:51 Europe/Warsaw*
