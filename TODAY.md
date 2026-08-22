@@ -10,13 +10,13 @@ Nazizm i stalinizm pochłonęły niezliczoną ilość niewinnych ofiar. Pamięta
 
 ---
 
-## International Day of Remembrance of the Slave Trade and its Abolition
+## Międzynarodowy Dzień Pamięci o Handlu Niewolnikami i jego Zniesieniu
 
-This holiday was established on the initiative of UNESCO in 1998. Commemorates the slave uprising in the French colony of Saint-Domingue (today's Haiti) on August 22/23, 1791.
+To święto, które ustanowione zostało z inicjatywy UNESCO w 1998 roku. Upamiętnia powstanie niewolników we francuskiej kolonii Saint-Domingue (dzisiejsze Haiti) 22/23 sierpnia 1791 roku.
 
 [Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pamieci-o-handlu-niewolnikami-i-jego-zniesieniu)
 
 ---
 
 
-*Last updated: 2026-08-23 00:12:51 Europe/Warsaw*
+*Last updated: 2026-08-23 01:13:51 Europe/Warsaw*
