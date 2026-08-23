@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 23, 2026**
+**August 24, 2026**
 
-## Europejski Dzień Pamięci Ofiar Nazizmu i Stalinizmu
+## Dzień Windowsa
 
-Nazizm i stalinizm pochłonęły niezliczoną ilość niewinnych ofiar. Pamiętajmy o nich i doceńmy to, że żyjemy w bezpieczniejszych czasach. Święto znane również jest jako Międzynarodowy Dzień Czarnej Wstążki.
+Windows to bez wątpienia najpopularniejszy system operacyjny w historii. Prezentację pierwszego graficznego środowiska produktu z rodziny Windows firmy Microsoft przeprowadzono w listopadzie 1984 roku, była to graficzna nakładka na system operacyjny MS-DOS.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-pamieci-ofiar-nazizmu-i-stalinizmu)
-
----
-
-## Międzynarodowy Dzień Pamięci o Handlu Niewolnikami i jego Zniesieniu
-
-To święto, które ustanowione zostało z inicjatywy UNESCO w 1998 roku. Upamiętnia powstanie niewolników we francuskiej kolonii Saint-Domingue (dzisiejsze Haiti) 22/23 sierpnia 1791 roku.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pamieci-o-handlu-niewolnikami-i-jego-zniesieniu)
+[Learn more](https://www.kalbi.pl/dzien-windowsa)
 
 ---
 
+## Dzień Zdegradowania Plutona
 
-*Last updated: 2026-08-23 01:13:51 Europe/Warsaw*
+Dzień Zdegradowania Plutona to rocznica daty, kiedy Międzynarodowa Unia Astronomiczna uznała, że Pluton nie może zaliczać się do grona planet. Obecnie oficjalnie jest planetą karłowatą.
+
+[Learn more](https://www.kalbi.pl/dzien-zdegradowania-plutona)
+
+---
+
+
+*Last updated: 2026-08-24 00:12:42 Europe/Warsaw*
