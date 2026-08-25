@@ -1,20 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 25, 2026**
+**August 26, 2026**
 
-## Dzień polskiej żywności
+## Międzynarodowy Dzień Psa
 
-[Learn more](https://www.kalbi.pl/dzien-polskiej-zywnosci)
+Międzynarodowy Dzień Psa (International Dog Day) przypada 26 sierpnia. Na pomysł uhonorowania roli tych zwierząt w życiu człowieka, ich wierności oraz poświęcenia wpadła Amerykanka Colleen Paige.
 
----
-
-## Dzień Zupy Błyskawicznej
-
-Dzień Zupy Błyskawicznej został zainicjowany w 2020 r. przez Macieja Pilarczyka, fana naszej strony. Koronnym argumentem był fakt, że zupka chińska jest bardzo popularnym w dzisiejszym świecie daniem i może należy jej dać jeden specjalny dzień, mimo że na zupkę dobry dzień jest codziennie. Wspólnie wybraliśmy 25 sierpnia na pamiątkę wprowadzenia na rynek makaronu błyskawicznego będącego podstawą większości zupek błyskawicznych.
-
-[Learn more](https://www.kalbi.pl/dzien-zupy-blyskawicznej)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-psa)
 
 ---
 
+## Święto Brokatu
 
-*Last updated: 2026-08-25 01:16:38 Europe/Warsaw*
+Błyszczący, niosący radość, rozświetlający ciało i duszę, dający powrót do szalonej młodości i wnoszący błysk do każdego nawet najsmutniejszego dnia. Odzwierciedla piękno najpiękniejszych letnich barw, ale i blask pięknie prószącego śniegu. Brokat towarzyszył zarówno najbardziej niezwykłym, wielkim stylizacjom scenicznym jak i każdej małej dziewczynce chcącej zostać księżniczką. Jest przymrużeniem oka, gdy robi się zbyt poważnie i smutno. Oprószmy się czasem brokatem, dzięki niemu życie mieni się niesamowitymi kolorami.
+
+[Learn more](https://www.kalbi.pl/swieto-brokatu)
+
+---
+
+
+*Last updated: 2026-08-26 00:17:20 Europe/Warsaw*
