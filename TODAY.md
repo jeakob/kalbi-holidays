@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 26, 2026**
+**August 27, 2026**
 
-## Międzynarodowy Dzień Psa
+## Dzień Tira
 
-Międzynarodowy Dzień Psa (International Dog Day) przypada 26 sierpnia. Na pomysł uhonorowania roli tych zwierząt w życiu człowieka, ich wierności oraz poświęcenia wpadła Amerykanka Colleen Paige.
+Na tira warto spojrzeć nie tylko jako ogromnego uczestnika ruchu drogowego, ale przede wszystkim dostrzec jego zastosowanie. To dzięki niemu miasta zaopatrzone są w żywność, środki higieny i inne artykuły pierwszej potrzeby.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-psa)
-
----
-
-## Święto Brokatu
-
-Błyszczący, niosący radość, rozświetlający ciało i duszę, dający powrót do szalonej młodości i wnoszący błysk do każdego nawet najsmutniejszego dnia. Odzwierciedla piękno najpiękniejszych letnich barw, ale i blask pięknie prószącego śniegu. Brokat towarzyszył zarówno najbardziej niezwykłym, wielkim stylizacjom scenicznym jak i każdej małej dziewczynce chcącej zostać księżniczką. Jest przymrużeniem oka, gdy robi się zbyt poważnie i smutno. Oprószmy się czasem brokatem, dzięki niemu życie mieni się niesamowitymi kolorami.
-
-[Learn more](https://www.kalbi.pl/swieto-brokatu)
+[Learn more](https://www.kalbi.pl/dzien-tira)
 
 ---
 
+## Międzynarodowy Dzień Gier Książkowych
 
-*Last updated: 2026-08-26 01:19:01 Europe/Warsaw*
+Międzynarodowy Dzień Gier Książkowych to dzień kiedy ludzie na całym świecie będą mogli świętować swoją miłość do interaktywnej zabawy z książką.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gier-ksiazkowych)
+
+---
+
+
+*Last updated: 2026-08-27 04:26:58 Europe/Warsaw*
