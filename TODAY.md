@@ -2,21 +2,21 @@
 
 **August 27, 2026**
 
-## Dzień Tira
+## Tir Day
 
-Na tira warto spojrzeć nie tylko jako ogromnego uczestnika ruchu drogowego, ale przede wszystkim dostrzec jego zastosowanie. To dzięki niemu miasta zaopatrzone są w żywność, środki higieny i inne artykuły pierwszej potrzeby.
+It is worth looking at the truck not only as a huge participant in road traffic, but above all, to see its application. Thanks to it, cities are supplied with food, hygiene products and other necessities.
 
 [Learn more](https://www.kalbi.pl/dzien-tira)
 
 ---
 
-## Międzynarodowy Dzień Gier Książkowych
+## International Book Games Day
 
-Międzynarodowy Dzień Gier Książkowych to dzień kiedy ludzie na całym świecie będą mogli świętować swoją miłość do interaktywnej zabawy z książką.
+International Book Games Day is a day when people around the world can celebrate their love for interactive play with books.
 
 [Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gier-ksiazkowych)
 
 ---
 
 
-*Last updated: 2026-08-27 04:26:58 Europe/Warsaw*
+*Last updated: 2026-08-27 06:10:21 Europe/Warsaw*
