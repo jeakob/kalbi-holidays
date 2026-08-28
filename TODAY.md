@@ -1,22 +1,28 @@
 # 🎉 Today's Unusual Holidays
 
-**August 27, 2026**
+**August 28, 2026**
 
-## Tir Day
+## World Comic Book Public Reading Day
 
-It is worth looking at the truck not only as a huge participant in road traffic, but above all, to see its application. Thanks to it, cities are supplied with food, hygiene products and other necessities.
-
-[Learn more](https://www.kalbi.pl/dzien-tira)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-publicznego-czytania-komiksow)
 
 ---
 
-## International Book Games Day
+## Dzień Muszki
 
-International Book Games Day is a day when people around the world can celebrate their love for interactive play with books.
+Dzień Muszki powinni świętować wszyscy panowie. Ten elegancki dodatek dawniej był zakładany przez mężczyzn znacznie częściej. W tym dniu warto przypomnieć jak świetnie muszka podkreśla charakter stylizacji i ubrać ją do pracy.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gier-ksiazkowych)
+[Learn more](https://www.kalbi.pl/dzien-muszki)
+
+---
+
+## Święto Lotnictwa Polskiego
+
+Święto Lotnictwa Polskiego, potocznie nazywane też Dniem Lotnictwa, przypada 28 sierpnia. Data upamiętnia zwycięstwo Franciszka Żwirki i Stanisława Wigury w zawodach Challenge w 1932 roku.
+
+[Learn more](https://www.kalbi.pl/swieto-lotnictwa-polskiego)
 
 ---
 
 
-*Last updated: 2026-08-27 06:10:21 Europe/Warsaw*
+*Last updated: 2026-08-28 07:53:06 Europe/Warsaw*
