@@ -8,21 +8,21 @@
 
 ---
 
-## Dzień Muszki
+## Bow Tie Day
 
-Dzień Muszki powinni świętować wszyscy panowie. Ten elegancki dodatek dawniej był zakładany przez mężczyzn znacznie częściej. W tym dniu warto przypomnieć jak świetnie muszka podkreśla charakter stylizacji i ubrać ją do pracy.
+All men should celebrate Bow Tie Day. This elegant accessory was previously worn by men much more often. On this day, it is worth remembering how well a bow tie highlights the character of the styling and wearing it to work.
 
 [Learn more](https://www.kalbi.pl/dzien-muszki)
 
 ---
 
-## Święto Lotnictwa Polskiego
+## Polish Aviation Day
 
-Święto Lotnictwa Polskiego, potocznie nazywane też Dniem Lotnictwa, przypada 28 sierpnia. Data upamiętnia zwycięstwo Franciszka Żwirki i Stanisława Wigury w zawodach Challenge w 1932 roku.
+Polish Aviation Day, also commonly known as Aviation Day, falls on August 28. The date commemorates the victory of Franciszek Żwirka and Stanisław Wigura in the Challenge competition in 1932.
 
 [Learn more](https://www.kalbi.pl/swieto-lotnictwa-polskiego)
 
 ---
 
 
-*Last updated: 2026-08-28 07:53:06 Europe/Warsaw*
+*Last updated: 2026-08-28 08:27:16 Europe/Warsaw*
