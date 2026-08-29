@@ -1,28 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**August 29, 2026**
+**August 30, 2026**
 
-## Dzień Spieczonego Bliźniaka
+## Taxi Driver Day
 
-[Learn more](https://www.kalbi.pl/dzien-spieczonego-blizniaka)
+Taxi Driver's Day is celebrated on August 30 and is a special holiday for all taxi drivers.
 
----
-
-## Dzień Strażnika Gminnego i Miejskiego
-
-To polskie święto obchodzone w rocznicę uchwalenia ustawy z 1997 roku, która określa funkcjonowanie straży gminnej. To dobra okazja do tego by awansować wyróżniających się strażników.
-
-[Learn more](https://www.kalbi.pl/dzien-straznika-gminnego-i-miejskiego)
+[Learn more](https://www.kalbi.pl/dzien-taksowkarza)
 
 ---
 
-## Międzynarodowy Dzień Sprzeciwu wobec Prób Jądrowych
+## International Day of Remembrance for Missing Persons
 
-Obchody Międzynarodowego Dnia Sprzeciwu wobec Prób Jądrowych mają na celu zwrócenie uwagi opinii społecznej na wspólne działania ONZ, państw członkowskich i różnych organizacji oraz mediów na rzecz zakazu prób broni nuklearnej. Data wydarzenia upamiętnia zamknięcie poligonu do testowania broni jądrowej nieopodal Semipalatinska.
+This holiday is celebrated on the initiative of the Costa Rican non-governmental organization FEDEFAM. The aim of the event is to draw the attention of global public opinion to the fate of people secretly imprisoned and missing in Latin American countries and to their ill-treatment.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sprzeciwu-wobec-prob-jadrowych)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pamieci-osob-zaginionych)
+
+---
+
+## International Whale Shark Day
+
+International Whale Shark Day, the largest fish in the world, is a good time to draw public attention to the fact that these gentle giants are threatened with extinction due to human activities.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-rekina-wielorybiego)
 
 ---
 
 
-*Last updated: 2026-08-29 05:59:07 Europe/Warsaw*
+*Last updated: 2026-08-30 01:44:51 Europe/Warsaw*
