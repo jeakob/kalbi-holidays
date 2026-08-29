@@ -25,4 +25,4 @@ Obchody Międzynarodowego Dnia Sprzeciwu wobec Prób Jądrowych mają na celu zw
 ---
 
 
-*Last updated: 2026-08-29 05:26:08 Europe/Warsaw*
+*Last updated: 2026-08-29 05:59:07 Europe/Warsaw*
