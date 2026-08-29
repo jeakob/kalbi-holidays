@@ -1,28 +1,28 @@
 # 🎉 Today's Unusual Holidays
 
-**August 28, 2026**
+**August 29, 2026**
 
-## World Comic Book Public Reading Day
+## Dzień Spieczonego Bliźniaka
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-publicznego-czytania-komiksow)
-
----
-
-## Bow Tie Day
-
-All men should celebrate Bow Tie Day. This elegant accessory was previously worn by men much more often. On this day, it is worth remembering how well a bow tie highlights the character of the styling and wearing it to work.
-
-[Learn more](https://www.kalbi.pl/dzien-muszki)
+[Learn more](https://www.kalbi.pl/dzien-spieczonego-blizniaka)
 
 ---
 
-## Polish Aviation Day
+## Dzień Strażnika Gminnego i Miejskiego
 
-Polish Aviation Day, also commonly known as Aviation Day, falls on August 28. The date commemorates the victory of Franciszek Żwirka and Stanisław Wigura in the Challenge competition in 1932.
+To polskie święto obchodzone w rocznicę uchwalenia ustawy z 1997 roku, która określa funkcjonowanie straży gminnej. To dobra okazja do tego by awansować wyróżniających się strażników.
 
-[Learn more](https://www.kalbi.pl/swieto-lotnictwa-polskiego)
+[Learn more](https://www.kalbi.pl/dzien-straznika-gminnego-i-miejskiego)
+
+---
+
+## Międzynarodowy Dzień Sprzeciwu wobec Prób Jądrowych
+
+Obchody Międzynarodowego Dnia Sprzeciwu wobec Prób Jądrowych mają na celu zwrócenie uwagi opinii społecznej na wspólne działania ONZ, państw członkowskich i różnych organizacji oraz mediów na rzecz zakazu prób broni nuklearnej. Data wydarzenia upamiętnia zamknięcie poligonu do testowania broni jądrowej nieopodal Semipalatinska.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sprzeciwu-wobec-prob-jadrowych)
 
 ---
 
 
-*Last updated: 2026-08-28 08:27:16 Europe/Warsaw*
+*Last updated: 2026-08-29 05:26:08 Europe/Warsaw*
