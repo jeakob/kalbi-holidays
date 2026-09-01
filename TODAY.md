@@ -1,26 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**August 31, 2026**
+**September 01, 2026**
 
-## Dzień Blogów
+## Anti-Aircraft Defense Forces Day
 
-[Learn more](https://www.kalbi.pl/dzien-blogow)
+The traditions of celebrating this holiday, although with interruptions, date back to the period of the Second Polish Republic. Currently, anti-aircraft fighters celebrate on September 1, this date commemorates the first fights in defense of the Polish sky in 1939.
 
----
-
-## Dzień Solidarności i Wolności
-
-[Learn more](https://www.kalbi.pl/dzien-solidarnosci-i-wolnosci)
+[Learn more](https://www.kalbi.pl/swieto-wojsk-obrony-przeciwlotniczej)
 
 ---
 
-## Święto Kawalerii Polskiej
+## Veteran's Day of the Fight for the Independence of the Republic of Poland
 
-Święto jest hołdem dla kawalerzystów, którzy walczyli o wolną i niepodległą Polskę. Data 31 sierpnia odnosi się do bitwy pod Komarowem z 1920 roku, w której Polacy ze znaczącym udziałem kawalerii z 1 Dywizji Jazdy, pokonali czterokrotnie silniejszą bolszewicką 1 Armię Konną Siemiona Budionnego. Podczas obchodów można zobaczyć m. in. przemarsz formacji kawaleryjskich ulicami Warszawy.
+Veterans' Day of the Fight for the Independence of the Republic of Poland is celebrated on September 1 and commemorates people fighting for the independence of the country. In common usage it is sometimes called Veterans' Day, but it should not be confused with the separate International Veterans' Day celebrated on April 15.
 
-[Learn more](https://www.kalbi.pl/swieto-kawalerii-polskiej)
+[Learn more](https://www.kalbi.pl/dzien-weterana-walk-o-niepodleglosc-rzeczypospolitej-polskiej)
 
 ---
 
 
-*Last updated: 2026-08-31 03:01:38 Europe/Warsaw*
+*Last updated: 2026-09-01 02:55:14 Europe/Warsaw*
