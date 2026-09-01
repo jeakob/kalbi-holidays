@@ -1,22 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**September 01, 2026**
+**September 02, 2026**
 
-## Święto Wojsk Obrony Przeciwlotniczej
+## Big Size Day
 
-Tradycje obchodów tego święta, choć z przerwami, sięgają okresu II Rzeczypospolitej. Obecnie przeciwlotnicy świętują 1 września, data ta upamiętnia pierwsze walki w obronie polskiego nieba w 1939 roku.
-
-[Learn more](https://www.kalbi.pl/swieto-wojsk-obrony-przeciwlotniczej)
+[Learn more](https://www.kalbi.pl/dzien-duzego-rozmiaru)
 
 ---
 
-## Dzień Weterana Walk o Niepodległość Rzeczypospolitej Polskiej
+## World Talent Acquisition Day
 
-Dzień Weterana Walk o Niepodległość Rzeczypospolitej Polskiej obchodzony jest 1 września i upamiętnia osoby walczące o niepodległość kraju. W potocznym obiegu bywa nazywany Dniem Kombatanta, ale nie należy go mylić z osobnym Międzynarodowym Dniem Kombatanta obchodzonym 15 kwietnia.
+World Talent Acquisition Day is a celebration of so-called headhunters, i.e. people who find people with above-average abilities. On this day, it is also worth considering the development of your talents.
 
-[Learn more](https://www.kalbi.pl/dzien-weterana-walk-o-niepodleglosc-rzeczypospolitej-polskiej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-pozyskiwania-talentow)
 
 ---
 
 
-*Last updated: 2026-09-01 03:32:15 Europe/Warsaw*
+*Last updated: 2026-09-02 01:42:02 Europe/Warsaw*
