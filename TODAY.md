@@ -2,21 +2,21 @@
 
 **September 01, 2026**
 
-## Anti-Aircraft Defense Forces Day
+## Święto Wojsk Obrony Przeciwlotniczej
 
-The traditions of celebrating this holiday, although with interruptions, date back to the period of the Second Polish Republic. Currently, anti-aircraft fighters celebrate on September 1, this date commemorates the first fights in defense of the Polish sky in 1939.
+Tradycje obchodów tego święta, choć z przerwami, sięgają okresu II Rzeczypospolitej. Obecnie przeciwlotnicy świętują 1 września, data ta upamiętnia pierwsze walki w obronie polskiego nieba w 1939 roku.
 
 [Learn more](https://www.kalbi.pl/swieto-wojsk-obrony-przeciwlotniczej)
 
 ---
 
-## Veteran's Day of the Fight for the Independence of the Republic of Poland
+## Dzień Weterana Walk o Niepodległość Rzeczypospolitej Polskiej
 
-Veterans' Day of the Fight for the Independence of the Republic of Poland is celebrated on September 1 and commemorates people fighting for the independence of the country. In common usage it is sometimes called Veterans' Day, but it should not be confused with the separate International Veterans' Day celebrated on April 15.
+Dzień Weterana Walk o Niepodległość Rzeczypospolitej Polskiej obchodzony jest 1 września i upamiętnia osoby walczące o niepodległość kraju. W potocznym obiegu bywa nazywany Dniem Kombatanta, ale nie należy go mylić z osobnym Międzynarodowym Dniem Kombatanta obchodzonym 15 kwietnia.
 
 [Learn more](https://www.kalbi.pl/dzien-weterana-walk-o-niepodleglosc-rzeczypospolitej-polskiej)
 
 ---
 
 
-*Last updated: 2026-09-01 02:55:14 Europe/Warsaw*
+*Last updated: 2026-09-01 03:32:15 Europe/Warsaw*
