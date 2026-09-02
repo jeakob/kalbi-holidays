@@ -8,13 +8,13 @@
 
 ---
 
-## World Talent Acquisition Day
+## Światowy Dzień Pozyskiwania Talentów
 
-World Talent Acquisition Day is a celebration of so-called headhunters, i.e. people who find people with above-average abilities. On this day, it is also worth considering the development of your talents.
+Światowy Dzień Pozyskiwania Talentów to święto tak zwanych łowców głów, czyli osób, które zajmują się znajdywaniem ludzi o ponadprzeciętnych zdolnościach. W tym dniu warto też zastanowić się na rozwojem swoich talentów.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-pozyskiwania-talentow)
 
 ---
 
 
-*Last updated: 2026-09-02 01:42:02 Europe/Warsaw*
+*Last updated: 2026-09-02 02:44:14 Europe/Warsaw*
