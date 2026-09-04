@@ -2,21 +2,21 @@
 
 **September 04, 2026**
 
-## Światowy Dzień Zdrowia Seksualnego
+## World Sexual Health Day
 
-Międzynarodowy dzień poświęcony przełamywaniu największego tabu naszych czasów - rozmowom o seksualności, zgodzie i prawach reprodukcyjnych. Zapoczątkowany przez ekspertów zdrowia seksualnego jako odpowiedź na globalne milczenie i stygmatyzację, które krzywdzą miliony osób na całym świecie. To jedyny dzień w roku, kiedy od galerii sztuki po szkoły, od mediów społecznościowych po szpitale, świat mówi otwarcie o tym, co definiuje nasze zdrowie, relacje i godność jako istot ludzkich.
+An international day dedicated to breaking the greatest taboo of our times - talking about sexuality, consent and reproductive rights. Started by sexual health experts as a response to the global silence and stigmatization that harms millions of people around the world. It's the one day of the year when, from art galleries to schools, from social media to hospitals, the world speaks openly about what defines our health, relationships and dignity as human beings.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-zdrowia-seksualnego)
 
 ---
 
-## Macadamia Nut Day
+## Dzień Orzechów Makadamia
 
-Macadamia Nut Day draws attention to the fact that we should eat healthy snacks instead of bars or candies. Although Macadamia nuts are actually seeds, they contain a lot of vitamins. On their day, you can eat them in various ways, but they taste best roasted and covered with white chocolate.
+Dzień Orzechów Makadamia zwraca uwagę na to, że powinniśmy jeść zdrowe przekąski zamiast batoników lub cukierków. Choć orzechy Makadamia w rzeczywistości są nasionami to zawierają mnóstwo witamin. W ich dniu można zjeść je na różne sposoby, ale najlepiej smakują prażone i polane białą czekoladą.
 
 [Learn more](https://www.kalbi.pl/dzien-orzechow-makadamia)
 
 ---
 
 
-*Last updated: 2026-09-04 01:42:48 Europe/Warsaw*
+*Last updated: 2026-09-04 02:35:54 Europe/Warsaw*
