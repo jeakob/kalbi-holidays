@@ -1,22 +1,20 @@
 # 🎉 Today's Unusual Holidays
 
-**September 04, 2026**
+**September 05, 2026**
 
-## World Sexual Health Day
+## Międzynarodowy Dzień Dobroczynności
 
-An international day dedicated to breaking the greatest taboo of our times - talking about sexuality, consent and reproductive rights. Started by sexual health experts as a response to the global silence and stigmatization that harms millions of people around the world. It's the one day of the year when, from art galleries to schools, from social media to hospitals, the world speaks openly about what defines our health, relationships and dignity as human beings.
+Międzynarodowy Dzień Dobroczynności obchodzony jest w rocznicę śmierci Matki Teresy. Święto ma zwrócić uwagę na znaczenie pomocy humanitarnej oraz organizacji charytatywnych i wolontariackich.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zdrowia-seksualnego)
-
----
-
-## Dzień Orzechów Makadamia
-
-Dzień Orzechów Makadamia zwraca uwagę na to, że powinniśmy jeść zdrowe przekąski zamiast batoników lub cukierków. Choć orzechy Makadamia w rzeczywistości są nasionami to zawierają mnóstwo witamin. W ich dniu można zjeść je na różne sposoby, ale najlepiej smakują prażone i polane białą czekoladą.
-
-[Learn more](https://www.kalbi.pl/dzien-orzechow-makadamia)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dobroczynnosci)
 
 ---
 
+## Światowy Dzień Brody
 
-*Last updated: 2026-09-04 02:35:54 Europe/Warsaw*
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-brody)
+
+---
+
+
+*Last updated: 2026-09-05 01:34:59 Europe/Warsaw*
