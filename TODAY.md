@@ -2,13 +2,13 @@
 
 **September 06, 2026**
 
-## Dzień Walki z Prokrastynacją
+## Anti-Procrastination Day
 
-Czy załatwiłeś dzisiejsze ważne sprawy? Napisałeś wypracowanie, oddałeś projekt? Czy zamiast tego przeglądasz listę nietypowych świąt na www.kalbi.pl. Jeśli tak, koniecznie sprawdź czym jest Dzień Walki z Prokrastynacją.
+Have you taken care of today's important matters? Have you written an essay or handed in a project? Instead, do you browse the list of unusual holidays at www.kalbi.pl. If so, be sure to check what Anti-Procrastination Day is.
 
 [Learn more](https://www.kalbi.pl/dzien-walki-z-prokrastynacja)
 
 ---
 
 
-*Last updated: 2026-09-06 01:28:15 Europe/Warsaw*
+*Last updated: 2026-09-06 02:27:50 Europe/Warsaw*
