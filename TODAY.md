@@ -1,22 +1,42 @@
 # 🎉 Today's Unusual Holidays
 
-**September 07, 2026**
+**September 08, 2026**
 
-## Międzynarodowy Dzień Czystego Powietrza dla Błękitnego Nieba
+## Good News Day
 
-Międzynarodowy Dzień Czystego Powietrza dla Błękitnego Nieba jest inicjatywą skupiającą uwagę opinii publicznej na problemie smogu i zanieczyszczeń powietrza, które wpływają negatywnie na zdrowie ludzi. Ta data powinna skłonić osoby dojeżdżające do pracy autem na zmianę środka transportu na rower.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-czystego-powietrza-dla-blekitnego-nieba)
+[Learn more](https://www.kalbi.pl/dzien-dobrych-wiadomosci)
 
 ---
 
-## Światowy Dzień Świadomości Dystrofii Mięśniowej Duchenne'a
+## Dreamer's Day
 
-Światowy Dzień Świadomości Dystrofii Mięśniowej Duchenne'a przypada 7 września. To dzień ONZ budujący świadomość dystrofii Duchenne'a i Beckera, potrzeb rodzin, opieki, diagnostyki, badań oraz wcześniejszego obiegu kampanii społecznej.
+[Learn more](https://www.kalbi.pl/dzien-marzyciela)
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-swiadomosci-dystrofii-miesniowej-duchennea)
+---
+
+## World Wellbeing Day
+
+The aim of this day is to spread awareness about wellbeing and inspire people to pay attention to their health and mental balance.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-wellbeingu)
+
+---
+
+## International Literacy Day
+
+Education is one of the basic tools for building any society. However, this is a big problem in poor countries, which is why, as part of programs to combat illiteracy, we celebrate International Literacy Day every year.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-alfabetyzacji)
+
+---
+
+## World Physiotherapy Day
+
+World Physiotherapy Day was established in 1996 by the World Confederation of Physiotherapy. Its aim is to emphasize the role of physiotherapy in the treatment of patients with musculoskeletal dysfunctions and internal diseases. Every year, the organizers choose a different slogan that promotes physiotherapy and related issues.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-fizjoterapii)
 
 ---
 
 
-*Last updated: 2026-09-07 02:34:40 Europe/Warsaw*
+*Last updated: 2026-09-08 01:52:35 Europe/Warsaw*
