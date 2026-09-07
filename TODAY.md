@@ -2,21 +2,21 @@
 
 **September 07, 2026**
 
-## International Clean Air Day for Blue Skies
+## Międzynarodowy Dzień Czystego Powietrza dla Błękitnego Nieba
 
-International Clean Air Day for Blue Skies is an initiative that focuses public attention on the problem of smog and air pollution that negatively affect human health. This date should encourage people who commute to work by car to switch to a bicycle.
+Międzynarodowy Dzień Czystego Powietrza dla Błękitnego Nieba jest inicjatywą skupiającą uwagę opinii publicznej na problemie smogu i zanieczyszczeń powietrza, które wpływają negatywnie na zdrowie ludzi. Ta data powinna skłonić osoby dojeżdżające do pracy autem na zmianę środka transportu na rower.
 
 [Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-czystego-powietrza-dla-blekitnego-nieba)
 
 ---
 
-## World Duchenne Muscular Dystrophy Awareness Day
+## Światowy Dzień Świadomości Dystrofii Mięśniowej Duchenne'a
 
-World Duchenne Muscular Dystrophy Awareness Day is September 7. It is a UN day that builds awareness of Duchenne and Becker's dystrophy, the needs of families, care, diagnosis, research and the previous circulation of a social campaign.
+Światowy Dzień Świadomości Dystrofii Mięśniowej Duchenne'a przypada 7 września. To dzień ONZ budujący świadomość dystrofii Duchenne'a i Beckera, potrzeb rodzin, opieki, diagnostyki, badań oraz wcześniejszego obiegu kampanii społecznej.
 
 [Learn more](https://www.kalbi.pl/swiatowy-dzien-swiadomosci-dystrofii-miesniowej-duchennea)
 
 ---
 
 
-*Last updated: 2026-09-07 01:22:15 Europe/Warsaw*
+*Last updated: 2026-09-07 02:34:40 Europe/Warsaw*
