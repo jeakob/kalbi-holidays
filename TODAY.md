@@ -1,42 +1,36 @@
 # 🎉 Today's Unusual Holidays
 
-**September 08, 2026**
+**September 09, 2026**
 
-## Good News Day
+## International Beauty Day
 
-[Learn more](https://www.kalbi.pl/dzien-dobrych-wiadomosci)
-
----
-
-## Dreamer's Day
-
-[Learn more](https://www.kalbi.pl/dzien-marzyciela)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-urody)
 
 ---
 
-## World Wellbeing Day
+## Software Tester Day
 
-The aim of this day is to spread awareness about wellbeing and inspire people to pay attention to their health and mental balance.
+A software tester is a person who abuses the product entrusted to him. He has to find all his weaknesses and shortcomings, and he reports everything. Without their work, many of us would probably throw our computer out the window out of anger at application/program errors. We celebrate the holiday in memory of finding the first "bug" in history in 1947.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wellbeingu)
-
----
-
-## International Literacy Day
-
-Education is one of the basic tools for building any society. However, this is a big problem in poor countries, which is why, as part of programs to combat illiteracy, we celebrate International Literacy Day every year.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-alfabetyzacji)
+[Learn more](https://www.kalbi.pl/dzien-testera-oprogramowania)
 
 ---
 
-## World Physiotherapy Day
+## World FAS Day
 
-World Physiotherapy Day was established in 1996 by the World Confederation of Physiotherapy. Its aim is to emphasize the role of physiotherapy in the treatment of patients with musculoskeletal dysfunctions and internal diseases. Every year, the organizers choose a different slogan that promotes physiotherapy and related issues.
+FAS is also known as Fetal Alcohol Syndrome. The holiday aims to make women aware that drinking alcohol during pregnancy is dangerous for the fetus. The first International FAS Day took place on September 9, 1999 in Auckland, New Zealand, and in Poland in 2001.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-fizjoterapii)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-fas)
+
+---
+
+## Battery Recycling Day
+
+The birth anniversary of the inventor of the Galvani battery was chosen as Battery Recycling Day. Rechargeable batteries and batteries are used in many devices. Once exhausted, they may pose a source of danger to the environment. Therefore, on this day, consumers are made aware to segregate waste properly and dispose of batteries in designated places.
+
+[Learn more](https://www.kalbi.pl/dzien-recyklingu-baterii)
 
 ---
 
 
-*Last updated: 2026-09-08 02:50:58 Europe/Warsaw*
+*Last updated: 2026-09-09 01:46:14 Europe/Warsaw*
