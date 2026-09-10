@@ -8,13 +8,13 @@
 
 ---
 
-## Dzień Piłkarza
+## Footballer's Day
 
-Jeden dzień w 1972 roku zmienił oblicze polskiego futbolu — 10 września reprezentacja Polski wygrała finał olimpijski w Monachium. Tamta data stała się podstawą nieoficjalnego, lecz trwałego Dnia Piłkarza. Co roku wraca jako przypomnienie o złocie, które polskie środowisko sportowe wciąż nosi w pamięci.
+One day in 1972 changed the face of Polish football - on September 10, the Polish national team won the Olympic final in Munich. That date became the basis for the unofficial but permanent Footballer's Day. It comes back every year as a reminder of the gold that the Polish sports community still remembers.
 
 [Learn more](https://www.kalbi.pl/dzien-pilkarza)
 
 ---
 
 
-*Last updated: 2026-09-10 01:41:59 Europe/Warsaw*
+*Last updated: 2026-09-10 02:44:46 Europe/Warsaw*
