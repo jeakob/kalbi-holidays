@@ -2,9 +2,9 @@
 
 **September 12, 2026**
 
-## Dzień Narodów Zjednoczonych dla Współpracy Południe-Południe
+## United Nations Day for South-South Cooperation
 
-Współpraca Południe-Południe to nie klasyczna pomoc rozwojowa — i właśnie to ją wyróżnia. Zamiast transferów finansowych z bogatszego do uboższego, kraje Globalnego Południa dzielą się tym, co same wypracowały: wiedzą, technologią i doświadczeniami w podobnych warunkach. Data 12 września nawiązuje do historycznego Buenos Aires Plan of Action z 1978 roku.
+South-South cooperation is not classic development aid - and that is what sets it apart. Instead of financial transfers from richer to poorer, countries in the Global South share what they have developed: knowledge, technology and experience in similar conditions. The date of September 12 refers to the historic Buenos Aires Plan of Action of 1978.
 
 [Learn more](https://www.kalbi.pl/dzien-narodow-zjednoczonych-dla-wspolpracy-poludnie-poludnie)
 
@@ -31,4 +31,4 @@ Wojska Lądowe są największym rodzajem Sił Zbrojnych w naszym kraju. Ich gł�
 ---
 
 
-*Last updated: 2026-09-12 01:43:03 Europe/Warsaw*
+*Last updated: 2026-09-12 02:49:54 Europe/Warsaw*
