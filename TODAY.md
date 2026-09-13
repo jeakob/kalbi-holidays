@@ -1,24 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**September 13, 2026**
+**September 14, 2026**
 
-## Dzień Całowania Chłopaków w Usta
+## Dzień Walki z Wypaleniem Zawodowym
 
-[Learn more](https://www.kalbi.pl/dzien-calowania-chlopakow-w-usta)
+Pomysł na Dzień Walki z Wypaleniem Zawodowym powstał przy kampanii społecznej - Wypalenie Zawodowe na Celowniku, która zorganizowana została przez Związek Przedsiębiorców i Pracodawców.
 
----
-
-## Dzień Weterana Służby Granicznej
-
-[Learn more](https://www.kalbi.pl/dzien-weterana-sluzby-granicznej)
-
----
-
-## Dzień Programisty
-
-[Learn more](https://www.kalbi.pl/dzien-programisty)
+[Learn more](https://www.kalbi.pl/dzien-walki-z-wypaleniem-zawodowym)
 
 ---
 
 
-*Last updated: 2026-09-13 02:31:24 Europe/Warsaw*
+*Last updated: 2026-09-14 01:48:22 Europe/Warsaw*
