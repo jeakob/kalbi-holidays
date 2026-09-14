@@ -11,4 +11,4 @@ Pomysł na Dzień Walki z Wypaleniem Zawodowym powstał przy kampanii społeczne
 ---
 
 
-*Last updated: 2026-09-14 01:48:22 Europe/Warsaw*
+*Last updated: 2026-09-14 02:34:04 Europe/Warsaw*
