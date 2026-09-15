@@ -1,44 +1,40 @@
 # 🎉 Today's Unusual Holidays
 
-**September 15, 2026**
+**September 16, 2026**
 
-## Międzynarodowy Dzień Kropki
+## Dzień Bluesa
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kropki)
-
----
-
-## Dzień Prostaty
-
-W Polsce rak gruczołu krokowego zbiera co rok krwawe żniwa, należy do najczęstszych i najniebezpieczniejszych schorzeń. Dzień raka prostaty to kolejna okazja, by głośno krzyczeć o profilaktyce i badaniach.
-
-[Learn more](https://www.kalbi.pl/dzien-prostaty)
+[Learn more](https://www.kalbi.pl/dzien-bluesa)
 
 ---
 
-## Międzynarodowy Dzień Demokracji
+## Dzień Maszynisty
 
-Demokracja, czyli system rządów i forma sprawowania władzy, gdzie źródło władzy stanowi wola większości obywateli ma swój początek jeszcze w starożytnej Grecji. Święto ma na celu m. in. podniesienie świadomości społeczeństwa na jej temat i oddanie hołdu ludziom walczącym o prawa człowieka.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-demokracji)
+[Learn more](https://www.kalbi.pl/dzien-maszynisty)
 
 ---
 
-## Dzień Opakowań
+## Międzynarodowy Dzień Ochrony Warstwy Ozonowej
 
-Dzień opakowań został ustanowiony przez Polską Izbę Opakowań w 2007 roku. Jego celem jest upowszechnienie wiedzy o znaczeniu opakowań w życiu współczesnego człowieka jak i całej gospodarce.
+To święto uchwalone przez Zgromadzenie Ogólne ONZ 19 grudnia 1994 roku. Data obchodów -16 września upamiętnia podpisanie Protokołu Montrealskiego (1987) w sprawie substancji zubożających warstwę ozonową. Celem święta jest propagowanie działań ochrony warstwy ozonowej.
 
-[Learn more](https://www.kalbi.pl/dzien-opakowan)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ochrony-warstwy-ozonowej)
 
 ---
 
-## Dzień Olewania Systemu
+## Światowy Dzień Fryzjera
 
-Dziś można nie pójść do szkoły albo pracy, w jakimś stopniu uczcimy to święto. A może ktoś ma ciekawszy pomysł?
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-fryzjera)
 
-[Learn more](https://www.kalbi.pl/dzien-olewania-systemu)
+---
+
+## Międzynarodowy Dzień Kardiologii Interwencyjnej
+
+Międzynarodowy Dzień Kardiologii Interwencyjnej przypada 16 września. To dzień ONZ zwracający uwagę na choroby sercowo-naczyniowe, nowoczesne procedury leczenia, dostęp do opieki i znaczenie profilaktyki kardiologicznej.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kardiologii-interwencyjnej)
 
 ---
 
 
-*Last updated: 2026-09-15 03:06:53 Europe/Warsaw*
+*Last updated: 2026-09-16 01:51:25 Europe/Warsaw*
