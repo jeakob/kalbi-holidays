@@ -1,40 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**September 16, 2026**
+**September 17, 2026**
 
-## Dzień Bluesa
+## Światowy Dzień Sybiraka
 
-[Learn more](https://www.kalbi.pl/dzien-bluesa)
+17 września (w rocznicę napaści rosyjskiej na Polskę) w Szymbarku odbywa się zjazd Sybiraków z całego świata. Jest to okazja do wspólnych rozmów, jak i przypominania losów zesłańców.
 
----
-
-## Dzień Maszynisty
-
-[Learn more](https://www.kalbi.pl/dzien-maszynisty)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-sybiraka)
 
 ---
 
-## Międzynarodowy Dzień Ochrony Warstwy Ozonowej
+## Światowy Dzień Bezpieczeństwa Pacjenta
 
-To święto uchwalone przez Zgromadzenie Ogólne ONZ 19 grudnia 1994 roku. Data obchodów -16 września upamiętnia podpisanie Protokołu Montrealskiego (1987) w sprawie substancji zubożających warstwę ozonową. Celem święta jest propagowanie działań ochrony warstwy ozonowej.
+Mylenie się jest rzeczą ludzką, ale w przypadku medycyny każda zła decyzja lekarza może mieć tragiczne skutki. Światowy Dzień Bezpieczeństwa Pacjenta zwraca uwagę na błędy medyczne. Często poszkodowani chorzy nie wiedzą w jaki sposób domagać się swoich praw, więc w tym dniu udzielane są porady specjalistów i głośno mówi się o konkretnych przypadkach.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ochrony-warstwy-ozonowej)
-
----
-
-## Światowy Dzień Fryzjera
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-fryzjera)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-bezpieczenstwa-pacjenta)
 
 ---
 
-## Międzynarodowy Dzień Kardiologii Interwencyjnej
+## Międzynarodowy Dzień Muzyki Country
 
-Międzynarodowy Dzień Kardiologii Interwencyjnej przypada 16 września. To dzień ONZ zwracający uwagę na choroby sercowo-naczyniowe, nowoczesne procedury leczenia, dostęp do opieki i znaczenie profilaktyki kardiologicznej.
+Międzynarodowy Dzień Muzyki Country to data, którą powinien zapamiętać każdy miłośnik kowbojskich melodii. W tym dniu na całym świecie odbywają się koncerty dla stałych wielbicieli oraz by zachęcić nowych słuchaczy do tego gatunku muzycznego.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kardiologii-interwencyjnej)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-muzyki-country)
 
 ---
 
 
-*Last updated: 2026-09-16 02:56:33 Europe/Warsaw*
+*Last updated: 2026-09-17 01:59:11 Europe/Warsaw*
