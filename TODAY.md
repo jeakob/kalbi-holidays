@@ -1,54 +1,44 @@
 # 🎉 Today's Unusual Holidays
 
-**September 18, 2026**
+**September 19, 2026**
 
-## Międzynarodowy Dzień Bramy Garażowej
+## Dzień Emotikona
 
-18 wrześniaobchodzimy Międzynarodowy Dzień Bramy Garażowej, pierwszy dzień w kalendarzu poświęcony bramie garażowej, wymyślony w Polsce. Temat kryje w sobie więcej, niż sugeruje nazwa. Polska należy do ścisłej światowej czołówki eksporterów stolarki budowlanej. WIŚNIOWSKI należy do liderów rynku bram garażowych w Polsce. Na Spitsbergenie polska brama musi wytrzymaćbardzo silny wiatr i wścibskiego misia polarnego. Wiatr wymusił wzmocnienie konstrukcji bram, a wilgoć dodatkowe zabezpieczenia antykorozyjne.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-bramy-garazowej)
+[Learn more](https://www.kalbi.pl/dzien-emotikona)
 
 ---
 
-## Międzynarodowy Dzień Geologa
+## Dzień Dzikiej Flory, Fauny i Naturalnych Siedlisk
 
-W Międzynarodowym Dniu Geologa warto przyjrzeć się osobom wykonującym tą profesję. Nierzadko ociągnięcia geologów, choć mają duże znaczenie dla środowiska i gospodarki są niedoceniane. Dlatego ich dzień powinien sprawić, że więcej ludzi dowie się o tym zawodzie i geologowie będą cieszyć się większym szacunkiem.
+To święto, które ma na celu chronienie przyrody. W związku z rosnącymi cywilizacyjnymi potrzebami człowieka, znikają kolejne gatunki dzikiej fauny i flory. Data 19 września odnosi się do Konwencji o ochronie gatunków dzikiej flory i fauny europejskiej oraz ich siedlisk, podpisanej w 1979 roku w Bernie.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-geologa)
-
----
-
-## Światowy Dzień Monitoringu Wody
-
-Dzień Monitoringu Wody to ogólnoświatowa akcja, która ma na celu zaangażować obywateli w ochronę światowych zasobów wodnych, działań na rzecz czystości rzek, jezior oraz innych zbiorników wodnych. Święto ustanowiła Fundacja America's Clean Water w 2003 roku.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-monitoringu-wody)
+[Learn more](https://www.kalbi.pl/dzien-dzikiej-flory-fauny-i-naturalnych-siedlisk)
 
 ---
 
-## Międzynarodowy Dzień Równej Płacy
+## Międzynarodowy Dzień Mówienia jak Pirat
 
-Międzynarodowy Dzień Równej Płacy został ogłoszony, aby społeczeństwo skierowało swoją uwagę na niesprawiedliwy system wynagrodzeń, który szczególnie godzi w kobiety. Niestety w XXI wieku nadal zdarza się, że panie pracujące na tych samych stanowiskach co mężczyźni zarabiają mniej.
+Pomysłodawcami Międzynarodowego Dnia Mówienia jak Pirat są Amerykanie John Bauer i Mark Summers. To żartobliwe święto ma na celu przekonanie społeczeństwa, by spojrzeli łaskawszym okiem na piratów. Dziś warto przebrać się w zbójeckie ciuchy, zasłonić jedno oko przepaską a znajomych witać marynarskim Ahoj!
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-rownej-placy)
-
----
-
-## Dzień Pierwszej Miłości
-
-Człowiek może zakochać się w swoim życiu wiele razy, ale pierwsze uczucie pozostaje żywym wspomnieniem na zawsze. Dzień Pierwszej Miłości dla jednych stanowi możliwość retrospekcji do lat młodości, a dla innych może okazać się świętem triumfu uczucia, jeśli po kilkudziesięciu latach ludzie nadal są tylko z pierwszym partnerem.
-
-[Learn more](https://www.kalbi.pl/dzien-pierwszej-milosci)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-mowienia-jak-pirat)
 
 ---
 
-## Światowy Dzień Kierownika
+## Dzień Pracowników Służby BHP
 
-Na każdym przełożonym ciąży spora odpowiedzialność. Pracownicy często widzą tylko ułamek pracy swoich szefów. W Światowy Dzień Kierownika można przychylnym okiem spojrzeć na zwierzchnika i złożyć mu życzenia, aby poczuł się miło.
+Niekiedy pracownicy się na nich denerwują, np. kiedy zwrócą uwagę za brak kasku. Prawda jest jednak taka, że dzięki ich wiedzy mamy większe szanse, by uniknąć wypadku w pracy.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-kierownika)
+[Learn more](https://www.kalbi.pl/dzien-pracownikow-sluzby-bhp)
+
+---
+
+## Dzień Wolnego Oprogramowania
+
+Dzień Wolnego Oprogramowania obchodzony jest, aby podkreślić ważną rolę jaką odgrywa w informatyce oprogramowanie, które użytkownicy mogą swobodnie modyfikować, ulepszać i rozpowszechniać. Na początku dony komputerów istniało tylko taka forma programowania, ale z czasem pojawiło się własnościowe.
+
+[Learn more](https://www.kalbi.pl/dzien-wolnego-oprogramowania)
 
 ---
 
 
-*Last updated: 2026-09-18 02:55:48 Europe/Warsaw*
+*Last updated: 2026-09-19 01:46:27 Europe/Warsaw*
