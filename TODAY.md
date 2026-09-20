@@ -33,4 +33,4 @@ Kobiety pracują zawodowo, ale mają też dodatkowy etat, czyli prace domowe i o
 ---
 
 
-*Last updated: 2026-09-20 01:47:49 Europe/Warsaw*
+*Last updated: 2026-09-20 02:32:17 Europe/Warsaw*
