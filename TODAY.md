@@ -1,34 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**September 22, 2026**
+**September 23, 2026**
 
-## Światowy Dzień bez Samochodu
+## Dzień Spadającego Liścia
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-bez-samochodu)
+Pomysłodawcą Dnia Spadającego Liścia jest Jerzy Szewczyk, który słusznie zauważył, że jesienią brakuje wesołych, optymistycznych świąt, jak choćby wiosną. 23 września nie należy więc ze łzami żegnać lata, ale radośnie powitać nową porę roku.
 
----
-
-## Dzień Ćwiczenia Przed Lustrem Prośby o Podwyżkę Płacy
-
-[Learn more](https://www.kalbi.pl/dzien-cwiczenia-przed-lustrem-prosby-o-podwyzke-placy)
+[Learn more](https://www.kalbi.pl/dzien-spadajacego-liscia)
 
 ---
 
-## Światowy Dzień Nosorożca
+## Międzynarodowy Dzień Języków Migowych
 
-Święto to alarm dla całego świata - na naszej planecie występuje już jedynie 5 gatunków nosorożców, i aż 3 z nich są krytycznie zagrożone wyginięciem. Światowy Dzień Nosorożca obchodzimy od 2010 roku.
+Obchody Międzynarodowego Dnia Języków Migowych mają na celu popularyzację tej formy komunikacji, aby osoby niesłyszące mogły korzystać z większej ilości sklepów i usług. Im więcej ludzi nauczy się migać, tym osoby głuchonieme będą czuć się mniej wyalienowane w społeczeństwie.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-nosorozca)
-
----
-
-## Światowy Dzień Dawcy Szpiku
-
-W Światowy Dzień Dawcy Szpiku organizacje propagują pomoc bliźniakom genetycznym. Dla ludzi chorujących na białaczkę nie ma lepszej terapii niż przeszczep szpiku. Jednak uzyskanie dawcy zgodnego pod względem genetyki jest niesamowicie trudne. Dlatego w tym dniu zachęca się do zrobienia wymazu i rejestracji w bazie dawców.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-dawcy-szpiku)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-jezykow-migowych)
 
 ---
 
 
-*Last updated: 2026-09-22 03:22:45 Europe/Warsaw*
+*Last updated: 2026-09-23 01:56:42 Europe/Warsaw*
