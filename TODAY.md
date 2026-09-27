@@ -49,4 +49,4 @@ Nawet najbardziej waleczni żołnierze stoją na straconej pozycji, jeśli nie m
 ---
 
 
-*Last updated: 2026-09-27 02:04:32 Europe/Warsaw*
+*Last updated: 2026-09-27 03:02:40 Europe/Warsaw*
