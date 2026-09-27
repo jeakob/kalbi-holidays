@@ -1,36 +1,52 @@
 # 🎉 Today's Unusual Holidays
 
-**September 26, 2026**
+**September 27, 2026**
 
-## Europejski Dzień Języków (Międzynarodowy Dzień Języków Obcych)
+## Światowy Dzień Turystyki
 
-To święto ma na celu podkreślenie, jak ważne jest uczenie się języków obcych oraz propagowanie różnorodności językowej i kulturowej Europy.
-
-[Learn more](https://www.kalbi.pl/europejski-dzien-jezykow-miedzynarodowy-dzien-jezykow-obcych)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-turystyki)
 
 ---
 
-## Światowy Dzień Antykoncepcji
+## Międzynarodowy Dzień Głuchych
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-antykoncepcji)
+Międzynarodowy Dzień Głuchych przypada w ostatnią niedzielę września, w ramach tygodnia obchodów WFD. Osobny Międzynarodowy Dzień Języków Migowych ma stałą datę 23 września.
 
----
-
-## Światowy Dzień Królika
-
-Światowy Dzień Królika wywodzi się z Anglii, a jego celem jest zwrócenie uwagi na problemy tych sympatycznych zwierzaków. A mają ich co niemiara – ludzie trzymają je w fatalnych warunkach, testują na nich leki i kosmetyki albo przeznaczają na mięso i futro. Święto jest okazją, by poprawić ich los.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-krolika)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gluchych)
 
 ---
 
-## Ogólnopolski Dzień Aptekarza
+## Dzień Podziemnego Państwa Polskiego
 
-Święto Aptekarzy obchodzimy w dniu imienin św. Kosmy i Damiana, patronów aptekarzy. Święto jest dobrą okazją do tego, by odznaczyć zasłużonych przedstawicieli tego zawodu.
+27 września 1939 roku w oblężonej Warszawie powołano organizację konspiracyjną Służba Zwycięstwu Polski. To zapoczątkowało powstanie Polskiego Państwa Podziemnego - fenomenu w dziejach nie tylko II wojny światowej.
 
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-aptekarza)
+[Learn more](https://www.kalbi.pl/dzien-podziemnego-panstwa-polskiego)
+
+---
+
+## Święto Wojsk Obrony Terytorialnej
+
+W czasach pokoju żołnierze WOT zajmują się pomocą ludziom dotkniętym przez klęski żywiołowe lub epidemię. Święto Wojsk Obrony Terytorialnej to okazja do podziękowań dla żołnierzy ratujących życie innych ludzi w czasie zagrożenia.
+
+[Learn more](https://www.kalbi.pl/swieto-wojsk-obrony-terytorialnej)
+
+---
+
+## Światowy Dzień Rzek
+
+To święto, którego celem jest uświadamianie społeczeństwa na temat znaczenia rzek w naszym życiu oraz potrzeby ich ochrony. Na skalę globalną pierwszy raz zorganizowano je w 2005 roku, ale pomysłodawca Kanadyjczyk Mark Angelo już w latach 80. podejmował inicjatywy na rzecz ochrony rzek w swoim kraju.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-rzek)
+
+---
+
+## Święto Infrastruktury Wojskowej
+
+Nawet najbardziej waleczni żołnierze stoją na straconej pozycji, jeśli nie mają zaplecza w postaci rozbudowanej infrastruktury wojskowej. Im silniejsze bazy, sprzęt, tym większe bezpieczeństwo obywateli.
+
+[Learn more](https://www.kalbi.pl/swieto-infrastruktury-wojskowej)
 
 ---
 
 
-*Last updated: 2026-09-26 03:05:43 Europe/Warsaw*
+*Last updated: 2026-09-27 02:04:32 Europe/Warsaw*
