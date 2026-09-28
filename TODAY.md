@@ -1,52 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**September 27, 2026**
+**September 28, 2026**
 
-## Światowy Dzień Turystyki
+## Światowy Dzień Wścieklizny
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-turystyki)
+Pierwszy Światowy Dzień Wścieklizny zorganizowano w Atlancie, 8 września 2007 roku. Dziś to akcja znana na całym świecie, a jej celem jest podnoszenie świadomości na temat efektów tej choroby u zwierząt i ludzi oraz propagowanie wiedzy na temat jej zapobiegania i eliminowania.
 
----
-
-## Międzynarodowy Dzień Głuchych
-
-Międzynarodowy Dzień Głuchych przypada w ostatnią niedzielę września, w ramach tygodnia obchodów WFD. Osobny Międzynarodowy Dzień Języków Migowych ma stałą datę 23 września.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-gluchych)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-wscieklizny)
 
 ---
 
-## Dzień Podziemnego Państwa Polskiego
+## Międzynarodowy Dzień Tajniaka
 
-27 września 1939 roku w oblężonej Warszawie powołano organizację konspiracyjną Służba Zwycięstwu Polski. To zapoczątkowało powstanie Polskiego Państwa Podziemnego - fenomenu w dziejach nie tylko II wojny światowej.
+Święto wymyślone przez Majora Fydrycha i Pomarańczową Alternatywę ma charakter rozrywkowy, zamiarem pomysłodawców z pewnością nie jest robienie konkurencji tajnym służbom. Dziś z okazji wydarzenia warto nałożyć ciemne okulary, płaszcz, kapelusz a nawet zorganizować „niewinny” podsłuch.
 
-[Learn more](https://www.kalbi.pl/dzien-podziemnego-panstwa-polskiego)
-
----
-
-## Święto Wojsk Obrony Terytorialnej
-
-W czasach pokoju żołnierze WOT zajmują się pomocą ludziom dotkniętym przez klęski żywiołowe lub epidemię. Święto Wojsk Obrony Terytorialnej to okazja do podziękowań dla żołnierzy ratujących życie innych ludzi w czasie zagrożenia.
-
-[Learn more](https://www.kalbi.pl/swieto-wojsk-obrony-terytorialnej)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-tajniaka)
 
 ---
 
-## Światowy Dzień Rzek
+## Światowy Dzień Jabłka
 
-To święto, którego celem jest uświadamianie społeczeństwa na temat znaczenia rzek w naszym życiu oraz potrzeby ich ochrony. Na skalę globalną pierwszy raz zorganizowano je w 2005 roku, ale pomysłodawca Kanadyjczyk Mark Angelo już w latach 80. podejmował inicjatywy na rzecz ochrony rzek w swoim kraju.
+Światowy Dzień Jabłka to najlepsza sposobność do pokazania ludziom jak wiele ten owoc ma im do zaoferowania. Jabłka są pełne witamin oraz błonnika. Ich jedzenie wpływa pozytywnie na odporność oraz zmniejsza ilość cholesterolu. Dlatego warto zachęcać wszystkich, aby jedli jabłka nie tylko od święta.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-rzek)
-
----
-
-## Święto Infrastruktury Wojskowej
-
-Nawet najbardziej waleczni żołnierze stoją na straconej pozycji, jeśli nie mają zaplecza w postaci rozbudowanej infrastruktury wojskowej. Im silniejsze bazy, sprzęt, tym większe bezpieczeństwo obywateli.
-
-[Learn more](https://www.kalbi.pl/swieto-infrastruktury-wojskowej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-jablka)
 
 ---
 
 
-*Last updated: 2026-09-27 03:02:40 Europe/Warsaw*
+*Last updated: 2026-09-28 02:09:23 Europe/Warsaw*
