@@ -1,54 +1,42 @@
 # 🎉 Today's Unusual Holidays
 
-**September 29, 2026**
+**September 30, 2026**
 
-## Dzień Kawy
+## Dzień Chłopaka
 
-Nieważna jaka – puszczalska, sypana czy mrożona – bez dobrej kawy dziś się nie obędzie. Albo pięciu….
+30 września wypada cztery tygodnie po 1 września. Dzień Chłopaka jest pierwszym wspólnym świętem nowej klasy i jedynym w polskim kalendarzu, którego scenariusz piszą dzieci. Może dlatego nikt nie wie, kiedy powstało.
 
-[Learn more](https://www.kalbi.pl/dzien-kawy)
-
----
-
-## Ogólnopolski Dzień Głośnego Czytania
-
-**Polska Izba Książki** ustanowiła ten dzień w **2001 roku**. Przypada w urodziny **Janiny Porazińskiej**. Szkoły, biblioteki i przedszkola czytają wtedy na głos, a Biblioteka Narodowa przypomina, że po co najmniej jedną książkę w roku sięga tylko **41%** badanych. Sprawdź, skąd wziął się ten dzień i jak go obchodzić.
-
-[Learn more](https://www.kalbi.pl/ogolnopolski-dzien-glosnego-czytania)
+[Learn more](https://www.kalbi.pl/dzien-chlopaka)
 
 ---
 
-## Światowy Dzień Serca
+## Światowy Dzień Copywritera
 
-Serce nie sługa... dlatego święto ma na celu zwiększenie świadomości społecznej odnośnie chorób serca oraz promowanie zdrowego stylu życia. Jest to inicjatywa Światowej Federacji Serca przy udziale Światowej Organizacji Zdrowia, UNESCO i UNICEF-u. W Polsce obchody organizowane są od 2002 roku przez Polskie Towarzystwo Kardiologiczne.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-serca)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-copywritera)
 
 ---
 
-## Dzień Kuriera i Przewoźnika
+## Międzynarodowy Dzień Tłumacza
 
-Kurierzy i przewoźnicy swoje święto obchodzą od 2004 roku z inicjatywy przedsiębiorstw kurierskich. Data 29 września odnosi się do wspomnienia Kościele katolicki m św. Gabriela Archanioła, patrona kurierów i doręczycieli.
+Gdyby nie Wieża Babel, ich zawód byłby pewnie niepotrzebny. Ale jest zupełnie odwrotnie - w erze postępującej globalizacji staję się on coraz istotniejszy. Święto obchodzone jest 30 września w dniu wspomnienia patrona tłumaczy św. Hieronima, który przetłumaczył Biblię.
 
-[Learn more](https://www.kalbi.pl/dzien-kuriera-i-przewoznika)
-
----
-
-## Dzień Hipochondryka
-
-Dziś na znak solidarności z wszystkimi hipochondrykami warto zastanowić się co nam dolega? Bo przecież na pewno jesteśmy na coś chorzy, jakby inaczej?
-
-[Learn more](https://www.kalbi.pl/dzien-hipochondryka)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-tlumacza)
 
 ---
 
-## Międzynarodowy Dzień Świadomości o Stratach i Marnotrawstwie Żywności
+## Dzień Archiwisty
 
-Międzynarodowy Dzień Świadomości o Stratach i Marnotrawstwie Żywności przypada 29 września. To dzień ONZ/FAO poświęcony ograniczaniu strat żywności w łańcuchu dostaw i marnowania jedzenia przez konsumentów.
+Dzień Archiwisty ma zwracać uwagę na pracę osób, których na co dzień nie zauważamy. Archiwiści nie mają dużego kontaktu z petentami, ale zadania, które realizują są niezwykle ważne, dlatego warto podkreślić znaczenie tej profesji.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-swiadomosci-o-stratach-i-marnotrawstwie-zywnosci)
+[Learn more](https://www.kalbi.pl/dzien-archiwisty)
+
+---
+
+## Międzynarodowy Dzień Podcastów
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-podcastow)
 
 ---
 
 
-*Last updated: 2026-09-29 04:26:27 Europe/Warsaw*
+*Last updated: 2026-09-30 02:55:11 Europe/Warsaw*
