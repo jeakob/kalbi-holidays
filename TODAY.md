@@ -1,60 +1,42 @@
 # 🎉 Today's Unusual Holidays
 
-**October 01, 2026**
+**October 02, 2026**
 
-## Międzynarodowy Dzień Wegetarianizmu
+## Światowy Dzień Uśmiechu
 
-Polscy wegetarianie zasiadali w międzynarodowej radzie jeszcze w PRL, ale ich święto na dobre trafiło do Polski dopiero w 2003 roku, razem z warszawskimi barami wegetariańskimi. Dwa lata później obchodziło je już 85 miast, a dziś życzenia wegetarianom składa czasem nawet sklep mięsny.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-wegetarianizmu)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-usmiechu)
 
 ---
 
-## Międzynarodowy Dzień Pracownika Ochrony Zdrowia
+## Międzynarodowy Dzień bez Przemocy
 
-W Międzynarodowy Dzień Pracownika Ochrony Zdrowia trzeba podziękować wszystkim lekarzom, pielęgniarkom. Ten dzień ma podkreślić wagę profesji jaką wykonują. Niestety nie wszyscy pacjenci reagują wdzięcznością, dlatego przynajmniej w tym jednym dniu warto z całych sił pokazać, że doceniamy zaangażowanie i wiedzę personelu medycznego.
+Trudno uciec od przemocy, jest ona bowiem wszechobecna – na ulicach, w szkole, w telewizji. Warto więc stawić jej czoła, reagować kiedy komuś dzieje się krzywda. Święto zostało ustalone w dniu urodzin Mahatmy Gandhiego, pioniera filozofii i strategii niestosowania przemocy.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pracownika-ochrony-zdrowia)
-
----
-
-## Międzynarodowy Dzień Osób Starszych
-
-Celem święta jest przełamanie różnych stereotypów dotyczących ludzi starszych i starzenia się, a także wyeliminowanie dyskryminacji seniorów w pracy, placówkach medycznych itp. Międzynarodowy Dzień Osób Starszych uchwaliło 14 grudnia 1990 roku Zgromadzenie Ogólne ONZ.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-osob-starszych)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-bez-przemocy)
 
 ---
 
-## Światowy Dzień Ptaków
+## Światowy Dzień Zwierząt Hodowlanych
 
-Podczas obchodów Światowego Dnia Ptaków podkreśla się ich ogromny wpływ na ekosystemy. Wielu ludzi nie docenia roli ptaków w środowisku, a jest ona nieoceniona, więc trzeba głośno o tym mówić, by społeczeństwo przestało tępić ptaki i zaczęło je szanować.
+Święto obchodzone jest w dniu urodzin Mahatmy Gandhiego. Lider indyjskiego ruchu niepodległościowego walczył nie tylko o prawa ludzi ale i zwierząt (m. in. uznawany jest za pioniera wegetarianizmu). Święto jest okazją do zaprotestowania przeciwko okrutnemu traktowaniu zwierząt hodowlanych.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-ptakow)
-
----
-
-## Międzynarodowy Dzień Muzyki
-
-Globalne święto muzyki zostało ustanowione w 1975 roku z inicjatywy amerykańskiego wirtuoza skrzypiec i dyrygenta Yehudiego Menuhina. Dziś z tej okazji odbędzie się wiele ciekawych koncertów i wydarzeń muzycznych. Warto wziąć udział w którymś z nich.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-muzyki)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zwierzat-hodowlanych)
 
 ---
 
-## Międzynarodowy Dzień Kawy
+## Dzień Anioła Stróża
 
-Międzynarodowy Dzień Kawy to święto miłośników czarnego i mocnego napoju. W tym wyjątkowym dniu wiele kawiarni przygotowuje specjalną ofertę, aby klienci mogli celebrować święto kawy.
+Aniele Boży, Stróżu mój, Ty zawsze przy mnie stój... Dziś nasi opiekunowie mają swoje święto, które ma bardzo długie tradycje. Wprowadził je bowiem papież Klemens X w XVII wieku.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kawy)
+[Learn more](https://www.kalbi.pl/dzien-aniola-stroza)
 
 ---
 
-## Ogólnopolski Policyjny Dzień Odblasków
+## Dzień Pamięci o Cywilnej Ludności Powstańczej Warszawy
 
-[Learn more](https://www.kalbi.pl/ogolnopolski-policyjny-dzien-odblaskow)
+[Learn more](https://www.kalbi.pl/dzien-pamieci-o-cywilnej-ludnosci-powstanczej-warszawy)
 
 ---
 
 
-*Last updated: 2026-10-01 03:44:08 Europe/Warsaw*
+*Last updated: 2026-10-02 03:12:45 Europe/Warsaw*
