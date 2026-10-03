@@ -1,42 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**October 02, 2026**
+**October 03, 2026**
 
-## Światowy Dzień Uśmiechu
+## Dzień Kasztana
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-usmiechu)
+Ludziki z kasztanów to tylko połowa tego święta. W opadłych liściach pod kasztanowcem zimuje szrotówek, motyl, który od lat osłabia te drzewa. Dzień Kasztana to dobry moment, żeby liście zgrabić i zniszczyć, a wiosną zobaczyć kasztanowce w pełnym kwiecie.
 
----
-
-## Międzynarodowy Dzień bez Przemocy
-
-Trudno uciec od przemocy, jest ona bowiem wszechobecna – na ulicach, w szkole, w telewizji. Warto więc stawić jej czoła, reagować kiedy komuś dzieje się krzywda. Święto zostało ustalone w dniu urodzin Mahatmy Gandhiego, pioniera filozofii i strategii niestosowania przemocy.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-bez-przemocy)
+[Learn more](https://www.kalbi.pl/dzien-kasztana)
 
 ---
 
-## Światowy Dzień Zwierząt Hodowlanych
+## Dzień Tkaczki
 
-Święto obchodzone jest w dniu urodzin Mahatmy Gandhiego. Lider indyjskiego ruchu niepodległościowego walczył nie tylko o prawa ludzi ale i zwierząt (m. in. uznawany jest za pioniera wegetarianizmu). Święto jest okazją do zaprotestowania przeciwko okrutnemu traktowaniu zwierząt hodowlanych.
+Dzień Tkaczki swój debiut miał w 2008 roku w Bliżynie. Ideę tego święta wymyśliła Urszula Wolska, dyrektor Muzeum Dawnej Wsi „Domek Tkaczki”. Z okazji Dnia Tkaczki odbywają się m. in. pokazy i warsztaty tkackie.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zwierzat-hodowlanych)
-
----
-
-## Dzień Anioła Stróża
-
-Aniele Boży, Stróżu mój, Ty zawsze przy mnie stój... Dziś nasi opiekunowie mają swoje święto, które ma bardzo długie tradycje. Wprowadził je bowiem papież Klemens X w XVII wieku.
-
-[Learn more](https://www.kalbi.pl/dzien-aniola-stroza)
+[Learn more](https://www.kalbi.pl/dzien-tkaczki)
 
 ---
 
-## Dzień Pamięci o Cywilnej Ludności Powstańczej Warszawy
+## Europejski Dzień Ptaków
 
-[Learn more](https://www.kalbi.pl/dzien-pamieci-o-cywilnej-ludnosci-powstanczej-warszawy)
+Europejskie Dni Ptaków, znane międzynarodowo jako EuroBirdwatch, są obchodzone w pierwszy weekend października. W Polsce działania koordynuje OTOP, partner BirdLife International; część wydarzeń edukacyjnych może zaczynać się już w piątek.
+
+[Learn more](https://www.kalbi.pl/europejski-dzien-ptakow)
 
 ---
 
 
-*Last updated: 2026-10-02 03:55:11 Europe/Warsaw*
+*Last updated: 2026-10-03 02:50:24 Europe/Warsaw*
