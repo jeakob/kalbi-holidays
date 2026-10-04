@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**October 03, 2026**
+**October 04, 2026**
 
-## Dzień Kasztana
+## Światowy Dzień Zwierząt
 
-Ludziki z kasztanów to tylko połowa tego święta. W opadłych liściach pod kasztanowcem zimuje szrotówek, motyl, który od lat osłabia te drzewa. Dzień Kasztana to dobry moment, żeby liście zgrabić i zniszczyć, a wiosną zobaczyć kasztanowce w pełnym kwiecie.
+„Zwierzę (...) nie jest rzeczą. Człowiek jest mu winien poszanowanie, ochronę i opiekę.” Tak stanowi ustawa o ochronie zwierząt z 1997 roku. Światowy Dzień Zwierząt, obchodzony 4 października, narodził się w 1925 roku z inicjatywy Heinricha Zimmermanna. Sejm ustanowił polski Dzień Zwierząt uchwałą z 2006 roku.
 
-[Learn more](https://www.kalbi.pl/dzien-kasztana)
-
----
-
-## Dzień Tkaczki
-
-Dzień Tkaczki swój debiut miał w 2008 roku w Bliżynie. Ideę tego święta wymyśliła Urszula Wolska, dyrektor Muzeum Dawnej Wsi „Domek Tkaczki”. Z okazji Dnia Tkaczki odbywają się m. in. pokazy i warsztaty tkackie.
-
-[Learn more](https://www.kalbi.pl/dzien-tkaczki)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zwierzat)
 
 ---
 
-## Europejski Dzień Ptaków
+## Światowy Dzień Onkologii
 
-Europejskie Dni Ptaków, znane międzynarodowo jako EuroBirdwatch, są obchodzone w pierwszy weekend października. W Polsce działania koordynuje OTOP, partner BirdLife International; część wydarzeń edukacyjnych może zaczynać się już w piątek.
+Każdego roku na raka odchodzą ludzie z naszego otoczenia. Ta paskudna choroba jest jednak do pokonania, jeśli zostanie zdiagnozowana we wczesnej fazie. Światowy Dzień Onkologii jest dobrą okazją by zachęcać wszystkich do badań profilaktycznych.
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-ptakow)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-onkologii)
+
+---
+
+## Dzień Polskiej Harcerki
+
+Dziewczyny z harcerstwa swoje święto obchodzą w niedzielę najbliższą 2 października – dnia zakończenia walk Powstania Warszawskiego. To data wyznaczona przez harcerki, które przeżyły II wojnę światową i okupację, na znak pamięci za koleżanki, które odeszły na wieczną wartę.
+
+[Learn more](https://www.kalbi.pl/dzien-polskiej-harcerki)
 
 ---
 
 
-*Last updated: 2026-10-03 03:36:52 Europe/Warsaw*
+*Last updated: 2026-10-04 02:15:43 Europe/Warsaw*
