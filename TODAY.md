@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**October 05, 2026**
+**October 06, 2026**
 
-## Światowy Dzień Nauczyciela
+## Dzień Borsuka
 
-Światowy Dzień Nauczyciela (5 października) wyrasta z Rekomendacji MOP i UNESCO z 1966 roku. Diagnoza: świat ma za mało nauczycieli. Dokument zaleca małe klasy, wpływ na podręczniki, godziny pracy konsultowane z organizacjami nauczycielskimi, urlop szkoleniowy, ochronę ciężarnych i pensję na tle porównywalnych zawodów.
+Jeden dzień w roku nie wystarczył. Październik stał się całym Brocktoberem: miesiącem zbiórek, edukacji i ochrony siedlisk borsuka. Za inicjatywą stoi brytyjska organizacja Badger Trust, skupiona wyłącznie na tym gatunku. Brock to stara angielska i szkocka nazwa borsuka – i to ona dała Brocktoberowi imię.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-nauczyciela)
-
----
-
-## Światowy Dzień Mieszkalnictwa
-
-Światowy Dzień Mieszkalnictwa to polski canonical dla World Habitat Day, znanego też jako Światowy Dzień Habitatu. ONZ obchodzi go w pierwszy poniedziałek października, aby zwracać uwagę na mieszkalnictwo, miasta i prawo do godnych warunków życia.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-mieszkalnictwa)
+[Learn more](https://www.kalbi.pl/dzien-borsuka)
 
 ---
 
+## Światowy Dzień Mózgowego Porażenia Dziecięcego
 
-*Last updated: 2026-10-05 03:27:11 Europe/Warsaw*
+Światowy Dzień Mózgowego Porażenia Dziecięcego został stworzony, aby coraz więcej ludzi miało świadomość czym jest ta choroba i jak można pomóc osobom, które na nią cierpią a jest ich ponad 17 milionów. W tym dniu niektóre budynki użyteczności publicznej zostają oświetlone na zielono na znak solidarności z chorymi.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-mozgowego-porazenia-dzieciecego)
+
+---
+
+
+*Last updated: 2026-10-06 03:59:33 Europe/Warsaw*
