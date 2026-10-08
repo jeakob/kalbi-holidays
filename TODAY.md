@@ -1,20 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**October 07, 2026**
+**October 08, 2026**
 
-## Dzień Wanny
+## Światowy Dzień Ośmiornicy
 
-[Learn more](https://www.kalbi.pl/dzien-wanny)
+W Światowy Dzień Ośmiornicy organizacje związane z ochroną środowiska biją na alarm, ponieważ zwierzęta te są coraz bardziej zagrożone, albowiem z roku na rok zwiększa się ilość poławianych ośmiornic. Oprócz tego działania ludzi negatywnie wpływają na rafy koralowe, które są siedliskiem ośmiornic.
 
----
-
-## Dzień Efektywności Energetycznej
-
-Priorytetem Dnia Efektywności Elektrycznej jest nauczenie ludzi jak mogą oszczędnie gospodarować energią we własnych domach.Najbardziej przekonywujący jest fakt, że jest to równoznaczne ze zmniejszeniem rachunków za prąd.
-
-[Learn more](https://www.kalbi.pl/dzien-efektywnosci-energetycznej)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-osmiornicy)
 
 ---
 
+## Międzynarodowy Dzień Podologii
 
-*Last updated: 2026-10-07 03:56:30 Europe/Warsaw*
+Międzynarodowy Dzień Podologii to doskonała okazja, aby zastanowić się nad kondycją swoich stóp. Zwykle ludzie nie przywiązują większej uwagi do tej części ciała przez co można nie zauważyć pierwszych oznak chorób takich jak np. grzybica.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-podologii)
+
+---
+
+## Światowy Dzień Wzroku
+
+Święto zorganizowała międzynarodowa koalicja VISION 2020. Jej celem jest zlikwidowanie do 2020 roku możliwych do wyeliminowania przyczyn ślepoty. W naszym kraju pierwsze obchody odbyły się w października 2006 roku, a patronat nad nimi objął Zbigniew Religa.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-wzroku)
+
+---
+
+
+*Last updated: 2026-10-08 03:27:19 Europe/Warsaw*
