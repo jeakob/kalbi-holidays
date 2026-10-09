@@ -1,30 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**October 08, 2026**
+**October 09, 2026**
 
-## Światowy Dzień Ośmiornicy
+## Światowy Dzień Jaja
 
-W Światowy Dzień Ośmiornicy organizacje związane z ochroną środowiska biją na alarm, ponieważ zwierzęta te są coraz bardziej zagrożone, albowiem z roku na rok zwiększa się ilość poławianych ośmiornic. Oprócz tego działania ludzi negatywnie wpływają na rafy koralowe, które są siedliskiem ośmiornic.
+Naukowcy spierają się od dziesięcioleci, ile jaj można zjeść, i nadal nie mają jednej odpowiedzi. Kod na skorupce mówi za to jasno: skąd jajko i jak żyły kury. Dzień ustanowiono w Wiedniu w 1996 roku, a obchody prowadzi Światowa Organizacja Jaja.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-osmiornicy)
-
----
-
-## Międzynarodowy Dzień Podologii
-
-Międzynarodowy Dzień Podologii to doskonała okazja, aby zastanowić się nad kondycją swoich stóp. Zwykle ludzie nie przywiązują większej uwagi do tej części ciała przez co można nie zauważyć pierwszych oznak chorób takich jak np. grzybica.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-podologii)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-jaja)
 
 ---
 
-## Światowy Dzień Wzroku
+## Światowy Dzień Poczty i Znaczka Pocztowego
 
-Święto zorganizowała międzynarodowa koalicja VISION 2020. Jej celem jest zlikwidowanie do 2020 roku możliwych do wyeliminowania przyczyn ślepoty. W naszym kraju pierwsze obchody odbyły się w października 2006 roku, a patronat nad nimi objął Zbigniew Religa.
+To święto upamiętniające podpisanie Traktatu Berneńskiego powołującego do życia Światowy Związek Pocztowy. Uchwalono je w 1969 roku na kongresie tej organizacji w Tokio. W ramach święta wielu pocztowców wprowadza nowe produkty, jest to również okazja by nagrodzić zasłużonych pracowników.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wzroku)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-poczty-i-znaczka-pocztowego)
+
+---
+
+## Międzynarodowy Dzień Pisania Listów
+
+Ta romantyczna i dostojna forma porozumiewania się przegrywa niestety z smsami i meilami. Tylko do kogo tu napisać jak wszyscy mają Facebooka?
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pisania-listow)
 
 ---
 
 
-*Last updated: 2026-10-08 04:23:26 Europe/Warsaw*
+*Last updated: 2026-10-09 03:35:11 Europe/Warsaw*
