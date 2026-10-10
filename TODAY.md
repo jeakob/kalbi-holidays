@@ -57,4 +57,4 @@ To inicjatywa, która ma na celu zwrócić uwagę na znaczenie opieki paliatywno
 ---
 
 
-*Last updated: 2026-10-10 03:25:52 Europe/Warsaw*
+*Last updated: 2026-10-10 04:01:14 Europe/Warsaw*
