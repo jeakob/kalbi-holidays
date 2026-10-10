@@ -1,30 +1,60 @@
 # 🎉 Today's Unusual Holidays
 
-**October 09, 2026**
+**October 10, 2026**
 
-## Światowy Dzień Jaja
+## Światowy Dzień Zdrowia Psychicznego
 
-Naukowcy spierają się od dziesięcioleci, ile jaj można zjeść, i nadal nie mają jednej odpowiedzi. Kod na skorupce mówi za to jasno: skąd jajko i jak żyły kury. Dzień ustanowiono w Wiedniu w 1996 roku, a obchody prowadzi Światowa Organizacja Jaja.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-jaja)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zdrowia-psychicznego)
 
 ---
 
-## Światowy Dzień Poczty i Znaczka Pocztowego
+## Dzień Gier Planszowych
 
-To święto upamiętniające podpisanie Traktatu Berneńskiego powołującego do życia Światowy Związek Pocztowy. Uchwalono je w 1969 roku na kongresie tej organizacji w Tokio. W ramach święta wielu pocztowców wprowadza nowe produkty, jest to również okazja by nagrodzić zasłużonych pracowników.
+Gra planszowa potrzebuje jednego: ludzi gotowych usiąść naprzeciwko siebie. Dzień Gier Planszowych zamienia biblioteki, szkoły i puby w miejsca spotkania przy wspólnym stole. Akcja „Cała Polska Gra w Planszówki” łączy wydawców, sklepy i graczy, bo odpowiada na prostą potrzebę bycia razem.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-poczty-i-znaczka-pocztowego)
-
----
-
-## Międzynarodowy Dzień Pisania Listów
-
-Ta romantyczna i dostojna forma porozumiewania się przegrywa niestety z smsami i meilami. Tylko do kogo tu napisać jak wszyscy mają Facebooka?
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-pisania-listow)
+[Learn more](https://www.kalbi.pl/dzien-gier-planszowych)
 
 ---
 
+## Europejski Dzień Przeciw Karze Śmierci
 
-*Last updated: 2026-10-09 04:40:55 Europe/Warsaw*
+To święto, które nie tylko ma swoich zwolenników, ale i przeciwników. Tak jak kara śmierci. Europejski Dzień Przeciwko Karze Śmierci jest okazją dla tych pierwszych by zaprotestować przeciw krajom, w których wykonywane są wyroki śmierci.
+
+[Learn more](https://www.kalbi.pl/europejski-dzien-przeciw-karze-smierci)
+
+---
+
+## Światowy Dzień Drzewa
+
+To święto wymyślone przez Juliusa Sterlinga Mortona, sekretarza rolnictwa Stanów Zjednoczonych, prywatnie miłośnika przyrody. Zaapelował on do rodaków, by 10 kwietnia 1872 r. posadzili drzewa. Dziś Arbor Day to akcja znana na całym świecie, w Polsce oficjalnie obecna od 2002 roku i corocznie obchodzona 10 października.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-drzewa)
+
+---
+
+## Światowy Dzień Owsianki
+
+Światowy Dzień Owsianki to pomysł szkockiej organizacji charytatywnej Mary’s Meals, która pomaga najbiedniejszych dzieciom i sierotom. Święto jest okazją, by spróbować owsianki w nowej dla siebie odsłonie. W wielu krajach z tej okazji odbywają się imprezy tematyczne, np. mistrzostwa w przyrządzaniu z owsianki.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-owsianki)
+
+---
+
+## Święto Żołnierza Rezerwy
+
+Obchody Święta Żołnierzy Rezerwy polegają na podziękowaniu rezerwistom za gotowość do walki w obronie kraju oraz pogratulowaniu ukończenia szkolenia i dostania isę do zaszczytnego grona.
+
+[Learn more](https://www.kalbi.pl/swieto-zolnierza-rezerwy)
+
+---
+
+## Światowy Dzień Opieki Paliatywnej i Hospicjów
+
+To inicjatywa, która ma na celu zwrócić uwagę na znaczenie opieki paliatywno-hospicyjnej, w tym np. poprawić komfort osób, po których śmierć zbliża się szybkimi krokami…
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-opieki-paliatywnej-i-hospicjow)
+
+---
+
+
+*Last updated: 2026-10-10 03:25:52 Europe/Warsaw*
