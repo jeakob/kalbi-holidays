@@ -1,20 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**October 11, 2026**
+**October 12, 2026**
 
-## Dzień Wychodzenia z Szafy
+## Dzień Kolumba w Ameryce
 
-[Learn more](https://www.kalbi.pl/dzien-wychodzenia-z-szafy)
+Columbus Day to święto upamiętniające odkrycie Ameryki przez Krzysztofa Kolumba (12 października 1492 roku). Ma ono długie tradycje, nieoficjalne obchody datuje się już na XVIII wiek.
 
----
-
-## Dzień Dziewczyny
-
-Za potoczną nazwą Dzień Dziewczyny stoi Międzynarodowy Dzień Dziewcząt ustanowiony przez ONZ. Tego dnia ONZ i UNICEF mówią o prawach dziewcząt do nauki, zdrowia i bezpieczeństwa, także o ochronie przed wczesnymi małżeństwami. Ważny jest też głos dziewcząt: ich udział w decyzjach, które ich dotyczą.
-
-[Learn more](https://www.kalbi.pl/dzien-dziewczyny)
+[Learn more](https://www.kalbi.pl/dzien-kolumba-w-ameryce)
 
 ---
 
+## Międzynarodowy Dzień Reumatyzmu
 
-*Last updated: 2026-10-11 03:26:35 Europe/Warsaw*
+Światowy Dzień Reumatyzmu obchodzimy od 1996 roku, zainicjowały go międzynarodowe środowiska chorych na reumatyzm. Celem jest poprawa komfortu życiowego osób żyjących z chorobami reumatycznymi.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-reumatyzmu)
+
+---
+
+## Dzień Bezpiecznego Komputera
+
+To inicjatywa, która ma na celu informowanie o zagrożeniach płynących z sieci oraz promować bezpieczeństwo informatyczne. Dzień Bezpiecznego Komputera zapoczątkowano 12 października 2004 roku. jego honorowym patronem jest Prezydent Rzeczypospolitej Polskiej.
+
+[Learn more](https://www.kalbi.pl/dzien-bezpiecznego-komputera)
+
+---
+
+
+*Last updated: 2026-10-12 02:52:09 Europe/Warsaw*
