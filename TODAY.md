@@ -1,30 +1,52 @@
 # 🎉 Today's Unusual Holidays
 
-**October 12, 2026**
+**October 13, 2026**
 
-## Dzień Kolumba w Ameryce
+## Międzynarodowy Dzień Ograniczania Klęsk Żywiołowych
 
-Columbus Day to święto upamiętniające odkrycie Ameryki przez Krzysztofa Kolumba (12 października 1492 roku). Ma ono długie tradycje, nieoficjalne obchody datuje się już na XVIII wiek.
-
-[Learn more](https://www.kalbi.pl/dzien-kolumba-w-ameryce)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ograniczania-klesk-zywiolowych)
 
 ---
 
-## Międzynarodowy Dzień Reumatyzmu
+## Dzień Bez Stanika
 
-Światowy Dzień Reumatyzmu obchodzimy od 1996 roku, zainicjowały go międzynarodowe środowiska chorych na reumatyzm. Celem jest poprawa komfortu życiowego osób żyjących z chorobami reumatycznymi.
+Firma kosmetyczna reklamuje zabieg, ktoś pisze o wolności i komforcie, ktoś inny publikuje żart, którego puentą jest kobiece ciało. Jedna nazwa, trzy różne rozmowy. Kto stoi za Dniem Bez Stanika, nie wiadomo, ale wypada w październiku, miesiącu świadomości raka piersi, a ten daje bezpłatną mammografię NFZ i obalony mit o fiszbinach.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-reumatyzmu)
-
----
-
-## Dzień Bezpiecznego Komputera
-
-To inicjatywa, która ma na celu informowanie o zagrożeniach płynących z sieci oraz promować bezpieczeństwo informatyczne. Dzień Bezpiecznego Komputera zapoczątkowano 12 października 2004 roku. jego honorowym patronem jest Prezydent Rzeczypospolitej Polskiej.
-
-[Learn more](https://www.kalbi.pl/dzien-bezpiecznego-komputera)
+[Learn more](https://www.kalbi.pl/dzien-bez-stanika)
 
 ---
 
+## Międzynarodowy Dzień Ograniczania Skutków Katastrof
 
-*Last updated: 2026-10-12 03:58:32 Europe/Warsaw*
+Z naturą nie ma żartów, co pokazują klęski żywiołowe, które pozostawiają po sobie prawdziwe spustoszenie. Święto ustanowione przez Organizację Narodów Zjednoczonych ma przyczynić się do tego, by ludzie potrafili im zapobiegać czy chociaż łagodzić ich katastrofalne skutki.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ograniczania-skutkow-katastrof)
+
+---
+
+## Dzień Dawcy Szpiku
+
+To święto jest okazją do uhonorowania bohaterów, czyli ludzi, którzy oddali szpik i komórki krwiotwórcze po to, by dać szansę drugiej osobie na powrót do zdrowia. W Polsce obchodzimy je od 2002 roku.
+
+[Learn more](https://www.kalbi.pl/dzien-dawcy-szpiku)
+
+---
+
+## Międzynarodowy Dzień Noszenia Garnituru
+
+Ten elegancki strój dodaje każdemu mężczyźnie plus 10 do prezencji. Warto więc go nosić, bowiem wtedy wszystkie niemal drzwi stoją przed nami otworem. Przy okazji święta można dowiedzieć się wiele przydatnych wskazówek na temat jego noszenia.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-noszenia-garnituru)
+
+---
+
+## Dzień Ratownictwa Medycznego
+
+Trudno zliczyć, jak wiele osób zawdzięcza im życie. W Dzień Ratownictwa Medycznego nie tylko warto podziękować im za to, że zawsze przybywają na pomoc, ale samemu nauczyć się udzielać pierwszej pomocy.
+
+[Learn more](https://www.kalbi.pl/dzien-ratownictwa-medycznego)
+
+---
+
+
+*Last updated: 2026-10-13 04:46:47 Europe/Warsaw*
