@@ -1,60 +1,70 @@
 # 🎉 Today's Unusual Holidays
 
-**October 15, 2026**
+**October 16, 2026**
 
-## Światowy Dzień Mycia Rąk
+## Światowy Dzień Żywności
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-mycia-rak)
+Podczas gdy 673 miliony ludzi żyje w głodzie, jednocześnie marnujemy jedną trzecią produkowanej żywności – ten paradoks współczesnego świata leży u sedna Światowego Dnia Żywności. Ustanowione przez ONZ w 1980 roku święto przypomina, że transformacja globalnego systemu żywnościowego wymaga współpracy przez granice, sektory i pokolenia. Od wyboru zdrowych diet po wspieranie lokalnych innowacji – każdy ma rolę w budowaniu świata, gdzie dostęp do pożywnej żywności to rzeczywistość, nie przywilej.
 
----
-
-## Europejski Dzień Walki z Rakiem Piersi
-
-Głównym celem Europejskiego Dnia Walki z Rakiem Piersi jest uświadamianie, jak ważna jest profilaktyka. Rak Piersi stanowi niestety coraz częstszą przyczynę śmierci kobiet, a jednym z powodów jest zbyt późne zdiagnozowanie choroby.
-
-[Learn more](https://www.kalbi.pl/europejski-dzien-walki-z-rakiem-piersi)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zywnosci)
 
 ---
 
-## Międzynarodowy Dzień Mediacji
+## Dzień Papieża Jana Pawła II
 
-Inicjatorem święta jest amerykańska organizacja Association for Conflict Resolution ze Stanów Zjednoczonych. Święto obchodzono po raz pierwszy w 2005 roku, w Polsce trzy lata później zapoczątkowało je Ministerstwo Sprawiedliwości. Jego celem jest uświadamianie, że spory nie muszą kończyć się na sali sądowej.
+Polski Sejm ustanowił to święto w hołdzie Janowi Pawłowi II, który jako pierwszy Polak, jak i również pierwszy po 455 latach biskup Rzymu niebędącym Włochem został wybrany na papieża. Miało to miejsce 16 października 1978 roku.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-mediacji)
-
----
-
-## Światowy Dzień Białej Laski
-
-To święto osób niewidomych i niedowidzących obchodzone od 1964 roku. Jest to dla nich okazja, by przypomnieć społeczeństwu, że chcą żyć tak jak wszyscy i nie potrzebują fałszywej litości.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-bialej-laski)
+[Learn more](https://www.kalbi.pl/dzien-papieza-jana-pawla-ii)
 
 ---
 
-## Dzień Dziecka Utraconego (Dzień Pamięci Dzieci Nienarodzonych i Zmarłych)
+## Europejski Dzień Przywracania Czynności Serca
 
-Rodzice, którzy doświadczyli poronienia czy śmierci dziecka w czasie porodu do końca życia muszą zmagać się z tym koszmarem. W ten dzień mogą zamanifestować swoją miłość do utraconego dziecka. W USA, skąd wywodzi się ta idea, rodzice przypinają do ubrania błękitno-różowe kokardki.
+Podstawowym celem jest podniesienie wiedzy na temat zasad udzielania pierwszej pomocy osobie, u której wystąpiło nagłe zatrzymania akcji serca. W tym dniu można i należałoby wziąć udział w szkoleniu, ponieważ nigdy nie wiadomo, kiedy taka wiedza będzie nam potrzebna.
 
-[Learn more](https://www.kalbi.pl/dzien-dziecka-utraconego-dzien-pamieci-dzieci-nienarodzonych-i-zmarlych)
-
----
-
-## Międzynarodowy Dzień Kobiet Wiejskich
-
-Międzynarodowy Dzień Kobiet Wiejskich uchwalony został przez Zgromadzenie Ogólne ONZ w 2007 roku. Ma podkreślać, jak ważną i odpowiedzialną rolę odgrywają kobiety w rozwoju obszarów wiejskich. W wielu miejscach na ziemi, to one bowiem muszą zapewnić pożywienie i środki do życia swoim rodzinom.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-kobiet-wiejskich)
+[Learn more](https://www.kalbi.pl/europejski-dzien-przywracania-czynnosci-serca)
 
 ---
 
-## Święto Wojsk Radiotechnicznych
+## Dzień Szefa
 
-Święto ustanowione zostało 6 stycznia 2005 roku przez Ministra Obrony Narodowej na pamiątkę utworzenia pierwszej jednostki obserwacyjno – meldunkowej, z której wywodzą się Wojska Radiotechniczne. Obecnie należą one do jednych z najnowocześniejszych rodzajów wojsk w polskich siłach zbrojnych.
+Wszystko zaczęło się od pracownicy, której przełożonym był jej własny ojciec: datę jego urodzin zgłosiła jako Dzień Szefa. Z tego rodzinnego gestu wyrosło święto, które co roku stawia pytanie: jak docenić szefa lub szefową szczerze, bez drogich prezentów i bez poczucia, że „tak wypada”?
 
-[Learn more](https://www.kalbi.pl/swieto-wojsk-radiotechnicznych)
+[Learn more](https://www.kalbi.pl/dzien-szefa)
+
+---
+
+## Światowy Dzień Owoców i Warzyw
+
+Jest to międzynarodowa inicjatywa mająca na celu podniesienie świadomości społecznej co do znaczenia spożywania owoców i warzyw dla lepszego zdrowia.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-owocow-i-warzyw)
+
+---
+
+## Światowy Dzień Chleba
+
+Chleb od tysięcy lat jest podstawowym elementem posiłków ludzkości, ale i spełnia również ważną funkcję w obrzędach wielu kultur. Światowy Dzień Chleba ustanowiony został przez Międzynarodowy Związek Piekarzy i Cukierników.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-chleba)
+
+---
+
+## Światowy Dzień Anestezjologa
+
+Anestezjolog to człowiek, który przynosi ulgę, łagodzi nasz ból. Nie tylko za to należy mu się szacunek, ale i za posiadaną wiedzę oraz odpowiedzialność jaka na nim spoczywa. Święto upamiętnia pierwsze udane zastosowanie narkozy podczas zabiegu operacyjnego, którego dokonał Thomas Morton 16 października 1846 roku.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-anestezjologa)
+
+---
+
+## Międzynarodowy Dzień Świadomości Rozwojowych Zaburzeń Językowych
+
+Międzynarodowy Dzień Świadomości Rozwojowych Zaburzeń Językowych daje sposobność do szerzenia wiedzy o tych problemach, aby ludzie którzy borykają się z zaburzeniami byli akceptowani i lepiej rozumiani przez społeczeństwo.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-swiadomosci-rozwojowych-zaburzen-jezykowych)
 
 ---
 
 
-*Last updated: 2026-10-15 03:09:26 Europe/Warsaw*
+*Last updated: 2026-10-16 01:58:50 Europe/Warsaw*
