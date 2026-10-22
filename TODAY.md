@@ -1,30 +1,28 @@
 # 🎉 Today's Unusual Holidays
 
-**October 21, 2026**
+**October 22, 2026**
 
-## Międzynarodowy dzień odpoczynku od świętowania
+## Światowy Dzień Osób Jąkających
 
-Nawet najwięksi imprezowicze muszą kiedyś odpocząć, choćby po to, by zregenerować siły na następną balangę. Dziś bez wyrzutów sumienia można przeleżeć cały dzień w łóżku!
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-odpoczynku-od-swietowania)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-osob-jakajacych)
 
 ---
 
-## Dzień Bez Skarpetek
+## Dzień CAPS LOCKA
 
-To święto, które ma zwrócić uwagę społeczeństwa na to, by dbać o stopy. A pomaga w tym chodzenie boso, które według specjalistów jest bardzo zdrowe. Aby przyłączyć się do obchodów, wystarczy więc nie zakładać skarpetek.
+NIC TAK NIE WKURZA INTERNAUTÓW JAK PISANIE DUŻYMI LITERAMI, CZYLI WYDZIERANIE SIĘ NA INNYCH. NO ALE W ŚWIĘTO CAPS LOCKA NIE WYPADA INACZEJ.
 
-[Learn more](https://www.kalbi.pl/dzien-bez-skarpetek)
-
----
-
-## Światowy Dzień Godności
-
-To święto obchodzone w trzecią środę października ma na celu propagowanie uniwersalnego prawa każdego człowieka do godnego życia. Światowy Dzień Godności jest wspólną inicjatywą Księcia Norwegii Haakona, profesora Pekka Himanena z Finlandiu oraz Amerykanina Johna Hope Bryanta. Pomysł zrodził się w 2006 roku podczas Światowego Forum Ekonomicznego. W Polsce wydarzenie obchodzone jest od 2009 roku.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-godnosci)
+[Learn more](https://www.kalbi.pl/dzien-caps-locka)
 
 ---
 
+## Dzień Praw Rodziny
 
-*Last updated: 2026-10-21 03:10:33 Europe/Warsaw*
+Dzień Praw Rodziny jest okazją do rozmów na temat tego jak w dzisiejszym świecie ma funkcjonować rodzina oraz w jaki sposób ją chronić. Obecnie z wielu stron pojawiają się ataki na tę fundamentalną jednostkę społeczną, dlatego szczególnie młodzi ludzie zakładający rodziny powinni wiedzieć jak sobie z tym radzić.
+
+[Learn more](https://www.kalbi.pl/dzien-praw-rodziny)
+
+---
+
+
+*Last updated: 2026-10-22 02:20:14 Europe/Warsaw*
