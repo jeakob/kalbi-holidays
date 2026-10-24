@@ -1,68 +1,84 @@
 # 🎉 Today's Unusual Holidays
 
-**October 24, 2026**
+**October 25, 2026**
 
-## Światowy Dzień Origami
+## Dzień Kundelka
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-origami)
-
----
-
-## Dzień Narodów Zjednoczonych
-
-Święto upamiętnia wejście w życie Karty Narodów Zjednoczonych 24 października 1945 roku. Z tej okazji na całym świecie odbywają się konferencje czy imprezy poświęcone Organizacji Narodów Zjednoczonych. Omawia się m. in. osiągnięcia i cele tej organizacji, jak utrzymanie pokoju i bezpieczeństwa czy rozwijanie przyjaznych stosunków między państwami.
-
-[Learn more](https://www.kalbi.pl/dzien-narodow-zjednoczonych)
+[Learn more](https://www.kalbi.pl/dzien-kundelka)
 
 ---
 
-## Światowy Dzień Informacji na temat Rozwoju
+## Dzień Szewca
 
-Święto obchodzone jest 24 października, w Dzień Narodów Zjednoczonych. Tego samego dnia weszła w życie Karta Narodów Zjednoczonych (1945) oraz przyjęto Międzynarodową Strategię Rozwoju (1970). Celem obchodów jest zwrócenie uwagi na problemy rozwoju społeczno-gospodarczego i potrzebę działań na rzecz ich pokonywania.
+Święto Szewców wypada w dniu wspomnienia świętych Kryspina i Kryspiniana uznanych już w VI wieku za patronów szewców i tkaczy.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-informacji-na-temat-rozwoju)
-
----
-
-## Dzień Bez Maila
-
-Świat bez e-maila? Dziś już jest to nie do pomyślenia. Warto jednak zaangażować się w obchody święta, które polega na ograniczeniu wysyłania elektronicznych wiadomości. Ma to zachęcić do bezpośredniego kontaktu z klientami i innymi pracownikami.
-
-[Learn more](https://www.kalbi.pl/dzien-bez-maila)
+[Learn more](https://www.kalbi.pl/dzien-szewca)
 
 ---
 
-## Międzynarodowe Święto Uciekających na Rowerze
+## Dzień Ustawy o Ochronie Zwierząt
 
-Międzynarodowe Święto Uciekających na Rowerze to data zwariowanego dnia, w którym w sposób pozytywnie zakręcony promuje się jazdę na rowerze. Jednoślady są idealnym środkiem transportu pod względem ekologii.
+Święto to upamiętnia polską ustawę regulującą kwestie prawne związane z ochroną zwierząt, w tym ogólne zasady ochrony, transportu, uśmiercania, uboju czy wykorzystywania ich do celów rozrywkowych.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowe-swieto-uciekajacych-na-rowerze)
-
----
-
-## Międzynarodowe Święto Roweru
-
-Rower to wspaniały środek transportu. Wystarczy na niego wsiąść i jechać przed siebie – nie musimy martwić się paliwem czy korkami. Warto ten dzień świętować jak najczęściej, bo jazda na rowerze to dobry sposób na dobre zdrowie i samopoczucie.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowe-swieto-roweru)
+[Learn more](https://www.kalbi.pl/dzien-ustawy-o-ochronie-zwierzat)
 
 ---
 
-## Światowy Dzień Flaczków
+## Dzień Młodzieży PCK
 
-Światowy Dzień Flaczków daje szansę wszystkim smakoszom na delektowanie się od rana do wieczora tym pysznym daniem. Potrawa ma swoich wielbicieli, ale są też osoby, które za żadne skarby nie spróbują fragmentów wołowych żołądków nawet w ich dzień.
+Dziś młodzi bohaterowie z Polskiego Czerwonego Krzyża, którzy bezinteresownie pomagają innym mają swoje święto. Warto więc im za to podziękować i życzyć zdrowia, wytrwałości oraz radości z podejmowanych wyzwań.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-flaczkow)
-
----
-
-## Międzynarodowy Dzień Dyplomatów
-
-Międzynarodowy Dzień Dyplomatów ma na celu uhonorowanie osób ze wszystkich krajów na świecie, które na co dzień zajmują się dbaniem o pokojowe stosunki między państwami. Dyplomaci odgrywają istotną rolę w komunikacji międzynarodowej, dlatego w ich dniu warto to docenić.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-dyplomatow)
+[Learn more](https://www.kalbi.pl/dzien-mlodziezy-pck)
 
 ---
 
+## Światowy Dzień Makaronu
 
-*Last updated: 2026-10-24 03:17:56 Europe/Warsaw*
+Światowy Dzień Makaronu ustanowiono w 1995 roku z inicjatywy 40 producentów, by pokazać, że jest to produkt spożywany na całym świecie. Dziś warto przyrządzić makaron na swój ulubiony sposób, bądź trochę z nim poeksperymentować. Przy okazji można dowiedzieć się wielu ciekawych rzeczy, choćby tego, że wyróżniono około 600 gatunków i kształtów makaronu.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-makaronu)
+
+---
+
+## Międzynarodowy Dzień Artystów
+
+Wszyscy artyści to barwne dusze, które ciężko zamknąć w określonych ramach. Międzynarodowy Dzień Artystów jest świetną okazją dla wszystkich aktorów, tancerzy, malarzy, aby wypromować swoje dzieła, a przy okazji zachęcić innych ludzi do obcowania z kulturą.
+
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-artystow)
+
+---
+
+## Światowy Dzień Opery
+
+Światowy Dzień Opery to gratka dla osób, które uwielbiają obcowanie z tą formą kultury. Obchody tego święta polegają na organizowaniu na scenach całego świata przedstawień operowych. Niektóre są za darmo, aby zachęcić ludzi do poznania opery.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-opery)
+
+---
+
+## Europejski Dzień Prawnika
+
+Europejski Dzień Prawnika to okazja dla wszystkich osób pracujących w tym zawodzie, aby przedstawić swoją profesję z bardziej przystępnej dla opinii publicznej strony. Prawnicy to nie tylko prokuratorzy, którzy oskarżają, ale też adwokaci broniący swoich klientów i dbający o poszanowanie praw człowieka.
+
+[Learn more](https://www.kalbi.pl/europejski-dzien-prawnika)
+
+---
+
+## Europejski Dzień Sprawiedliwości Obywatelskiej
+
+Europejski Dzień Sprawiedliwości Obywatelskiej został utworzony, aby zwiększyć świadomość osób mieszkających w UE na temat działania unijnych sądów i jak z nich korzystać. Oprócz tego dzień ten ma na celu poszerzenie wiedzy na temat sądownictwa w krajach UE.
+
+[Learn more](https://www.kalbi.pl/europejski-dzien-sprawiedliwosci-obywatelskiej)
+
+---
+
+## Światowy Dzień Kapłana
+
+Światowy Dzień Kapłana obchodzony jest, aby wyrazić szacunek dla pracy wszystkich duchownych. Księża codziennie służą ludziom radami i są z wiernymi we wszystkich ważnych momentach począwszy od chrztu, przez śluby aż do ostatniej posługi.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-kaplana)
+
+---
+
+
+*Last updated: 2026-10-25 01:52:52 Europe/Warsaw*
