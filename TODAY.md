@@ -1,22 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**October 31, 2026**
+**November 01, 2026**
 
-## Światowy Dzień Oszczędzania
+## Światowy Dzień Wegan
 
-Dziś warto założyć lokatę albo kupić świnkę skarbonkę. Jeśli będziemy systematycznie oszczędzać, odmówimy sobie kilku drobnych przyjemności, to za rok o tej porze uzbiera się całkiem fajna sumka.
+Celem święta jest promowanie weganizmu, czyli wyeliminowania produktów pochodzenia zwierzęcego zarówno ze swojej diety, jak i w ogóle z życia. Na całym świecie obchodzi się je 11 listopada, dla upamiętnienia powstania Towarzystwa Wegańskiego w 1944 roku. W Polsce, ze względu na święto Wszystkich Świętych, datę obchodów wyznaczono na 1 października.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-oszczedzania)
-
----
-
-## Światowy Dzień Miast
-
-Światowy Dzień Miast został ogłoszony przez ONZ. Każdego roku motywem przewodnim jest inny temat, ale zawsze w obchodach chodzi o to, aby wypracować dla miast takie rozwiązania, aby stały się one bezpiecznym azylem dla mieszkańców, co obecnie nie jest takie oczywiste.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-miast)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-wegan)
 
 ---
 
 
-*Last updated: 2026-10-31 02:57:02 Europe/Warsaw*
+*Last updated: 2026-11-01 01:34:46 Europe/Warsaw*
