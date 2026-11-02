@@ -1,14 +1,14 @@
 # 🎉 Today's Unusual Holidays
 
-**November 01, 2026**
+**November 02, 2026**
 
-## Światowy Dzień Wegan
+## Międzynarodowy Dzień Ukrócenia Bezkarności za Zbrodnie Przeciwko Dziennikarzom
 
-Celem święta jest promowanie weganizmu, czyli wyeliminowania produktów pochodzenia zwierzęcego zarówno ze swojej diety, jak i w ogóle z życia. Na całym świecie obchodzi się je 11 listopada, dla upamiętnienia powstania Towarzystwa Wegańskiego w 1944 roku. W Polsce, ze względu na święto Wszystkich Świętych, datę obchodów wyznaczono na 1 października.
+Decyzję o powołaniu Międzynarodowego Dnia Ukrócenia Bezkarności za Zbrodnie Przeciwko Dziennikarzom podjęło Zgromadzenie Ogólne ONZ w 2013 roku. Święto upamiętnia zabójstwo dwóch francuskich dziennikarzy w Mali, którzy zginęli w dniu 2 listopada 2013 roku. Jego celem jest przeciwdziałanie bezkarności sprawców, którzy dopuszczają się aktów przemocy na pracownikach mediów.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wegan)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ukrocenia-bezkarnosci-za-zbrodnie-przeciwko-dziennikarzom)
 
 ---
 
 
-*Last updated: 2026-11-01 02:44:42 Europe/Warsaw*
+*Last updated: 2026-11-02 02:08:23 Europe/Warsaw*
