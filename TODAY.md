@@ -29,4 +29,4 @@ Legenda o jeleniu z krzyżem między porożem pierwotnie należała do święteg
 ---
 
 
-*Last updated: 2026-11-03 04:12:27 Europe/Warsaw*
+*Last updated: 2026-11-03 04:48:04 Europe/Warsaw*
