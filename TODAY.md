@@ -1,14 +1,32 @@
 # 🎉 Today's Unusual Holidays
 
-**November 02, 2026**
+**November 03, 2026**
 
-## Międzynarodowy Dzień Ukrócenia Bezkarności za Zbrodnie Przeciwko Dziennikarzom
+## Święto Myśliwych - Hubertus
 
-Decyzję o powołaniu Międzynarodowego Dnia Ukrócenia Bezkarności za Zbrodnie Przeciwko Dziennikarzom podjęło Zgromadzenie Ogólne ONZ w 2013 roku. Święto upamiętnia zabójstwo dwóch francuskich dziennikarzy w Mali, którzy zginęli w dniu 2 listopada 2013 roku. Jego celem jest przeciwdziałanie bezkarności sprawców, którzy dopuszczają się aktów przemocy na pracownikach mediów.
+Legenda o jeleniu z krzyżem między porożem pierwotnie należała do świętego Eustachego, a data Hubertusa upamiętnia przeniesienie relikwii, nie śmierć biskupa. Za tymi zaskoczeniami kryje się żywa tradycja polskiego łowiectwa: msza w łowisku, pokot z królem polowania i pasowanie „na rycerza świętego Huberta”.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-ukrocenia-bezkarnosci-za-zbrodnie-przeciwko-dziennikarzom)
+[Learn more](https://www.kalbi.pl/swieto-mysliwych-hubertus)
+
+---
+
+## Dzień Gospodyni Domowej
+
+[Learn more](https://www.kalbi.pl/dzien-gospodyni-domowej)
+
+---
+
+## Dzień Frazesu
+
+[Learn more](https://www.kalbi.pl/dzien-frazesu)
+
+---
+
+## Dzień Kanapki
+
+[Learn more](https://www.kalbi.pl/dzien-kanapki)
 
 ---
 
 
-*Last updated: 2026-11-02 03:00:12 Europe/Warsaw*
+*Last updated: 2026-11-03 04:12:27 Europe/Warsaw*
