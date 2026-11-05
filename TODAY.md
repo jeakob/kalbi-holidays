@@ -19,4 +19,4 @@ Język romski jako jeden z nielicznych na świecie nie posiada pisanej formy, a 
 ---
 
 
-*Last updated: 2026-11-05 02:54:43 Europe/Warsaw*
+*Last updated: 2026-11-05 03:59:40 Europe/Warsaw*
