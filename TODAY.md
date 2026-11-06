@@ -1,22 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**November 05, 2026**
+**November 06, 2026**
 
-## Dzień Postaci z Bajek
+## Międzynarodowy Dzień Zapobiegania Wyzyskowi Środowiska Naturalnego podczas Wojen i Konfliktów Zbrojnych
 
-Międzynarodowy Dzień Postaci z Bajek przypada 5 listopada, w rocznicę urodzin Walta Disney’a. Święto to dobra okazja, by wspólnie z dziećmi sięgnąć po ulubione bajki.
+Podczas wojny cierpią nie tylko ludzie, ale i środowisko przyrodnicze. Celem święta jest uświadomienie społeczeństwu, że w wyniku konfliktów zbrojnych zasoby naturalne zaburzone zostają na długi czas po ich ustaniu.
 
-[Learn more](https://www.kalbi.pl/dzien-postaci-z-bajek)
-
----
-
-## Międzynarodowy Dzień Języka Romskiego
-
-Język romski jako jeden z nielicznych na świecie nie posiada pisanej formy, a jego historia i tradycja przekazywane są ustnie. Święto ustanowione zostało z inicjatywy Międzynarodowego Związku Romów i organizacji „Kali Sara” na posiedzeniu Komisji do Spraw Języka w Zagrzebiu 5 listopada 2009 roku.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-jezyka-romskiego)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zapobiegania-wyzyskowi-srodowiska-naturalnego-podczas-wojen-i-konfliktow-zbrojnych)
 
 ---
 
+## Dzień Saksofonu
 
-*Last updated: 2026-11-05 03:59:40 Europe/Warsaw*
+Dzień Saksofonu daje idealną możliwość do promowania tego niezwykłego instrumentu wśród społeczeństwa. Świętowanie można odbyć w domowym zaciszu słuchając delikatnych, jazzowych brzmień w czterech kątach, albo wybrać się na koncert.
+
+[Learn more](https://www.kalbi.pl/dzien-saksofonu)
+
+---
+
+
+*Last updated: 2026-11-06 02:56:28 Europe/Warsaw*
