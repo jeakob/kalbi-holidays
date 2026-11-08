@@ -1,38 +1,28 @@
 # 🎉 Today's Unusual Holidays
 
-**November 07, 2026**
+**November 08, 2026**
 
-## Światowy Dzień Feministek
+## Europejski Dzień Zdrowego Jedzenia i Gotowania
 
-Feminizm to w największym skrócie walka o równouprawnienie kobiet i mężczyzn, mająca swoje korzenie w latach rewolucji francuskiej. Niech no dzisiaj tylko jakiś samiec opowie szowinistyczny dowcip...»
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-feministek)
+[Learn more](https://www.kalbi.pl/europejski-dzien-zdrowego-jedzenia-i-gotowania)
 
 ---
 
-## Międzynarodowy Dzień Fizyki Medycznej
+## Międzynarodowy Dzień Łamańców Językowych
 
-Święto obchodzone jest od 2013 roku z inicjatywy Międzynarodowej Organizacji Fizyki Medycznej i ma na celu promować zagadnienia związane z fizyką medyczną. Ustanowiono je na dzień 7 listopada, na cześć wybitnej fizyczki i chemiczki Marii Skłodowskiej-Curie.
+Międzynarodowy Dzień Łamańców Językowych ma za zadanie promowanie języka ojczystego. Dzięki trudnym słowom można przy okazji zachęcić młodych ludzi do lepszego poznania gramatyki i poprawnej wymowy.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-fizyki-medycznej)
-
----
-
-## Dzień Kotleta Schabowego
-
-Schabowy odwiedza nas niemal w każda niedzielę i należy do bardzo lubianych gości. Dziś także powitajmy go z honorami! Warto też przyrządzić go w inny niż zazwyczaj sposób.
-
-[Learn more](https://www.kalbi.pl/dzien-kotleta-schabowego)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-lamancow-jezykowych)
 
 ---
 
-## Światowy Dzień Numbata
+## Światowy Dzień Radiologii
 
-Światowy Dzień Numbata to pomysł jednej z organizacji prozwierzęcych w Australii. Obchody dnia poświęconego temu małemu zwierzakowi mają na celu nagłośnienie jego kłopotów z utratą naturalnych siedlisk. Numbat jest gatunkiem zagrożonym wyginięciem i jeśli nie otrzyma pomocy to już niedługo planeta może być uboższa o kolejny gatunek.
+Święto upamiętnia Wilhelma Conrada Röntgena, który 8 listopada 1895 roku odkrył istnienie promieniowania. Dziś to jedna z ważniejszych i najszybciej rozwijających się dziedzin współczesnej medycyny.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-numbata)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-radiologii)
 
 ---
 
 
-*Last updated: 2026-11-07 03:29:40 Europe/Warsaw*
+*Last updated: 2026-11-08 01:58:55 Europe/Warsaw*
