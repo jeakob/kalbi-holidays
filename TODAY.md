@@ -1,42 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**November 09, 2026**
+**November 10, 2026**
 
-## Światowy Dzień Gry Wstępnej
+## Dzień Jeża
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-gry-wstepnej)
+Bohater tego święta przesypia je w stercie liści, z sercem bijącym dwadzieścia razy na minutę. Dzień Jeża wyrósł z polskiej edukacji ekologicznej i przypomina, jak pomóc jeżom przetrwać zimę. Sprawdź, kiedy sprzątać liście, czego jeżom nie dawać i kiedy zdrowego jeża zostawić w spokoju.
 
----
-
-## Europejski Dzień Wynalazcy
-
-Gdyby nie wynalazcy, można tylko zastanawiać się jak dziś wyglądałoby nasze życie bez radia, samochodu czy komputera. Data 9 listopada została wybrana dla uczczenia urodzin Hedy Lamarr, która wynalazła system transmisji fal radiowych.
-
-[Learn more](https://www.kalbi.pl/europejski-dzien-wynalazcy)
+[Learn more](https://www.kalbi.pl/dzien-jeza)
 
 ---
 
-## Międzynarodowy Dzień Walki z Faszyzmem i Antysemityzmem
+## Dzień Młodzieży
 
-To święto upamiętnia pogrom Żydów w hitlerowskich Niemczech podczas tzw. „nocy kryształowej”. W nocy z 9 na 10 listopada 1938 roku w całym kraju palono synagogi, dewastowano cmentarze. Śmierć poniosło wówczas około 90 Żydów, a 35 tysięcy wysłano do obozów koncentracyjnych.
+W Dniu Młodzieży głośno mówi się o aktualnych problemach i wyzwaniach, z którymi muszą się mierzyć młodzi ludzie. Są to między innymi kłopoty na rynku pracy, wpływ młodzieży na możliwość globalnego rozwoju czy jakość życia nastolatków w dzisiejszych czasach.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-walki-z-faszyzmem-i-antysemityzmem)
-
----
-
-## Światowy Dzień Adopcji
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-adopcji)
+[Learn more](https://www.kalbi.pl/dzien-mlodziezy)
 
 ---
 
-## Światowy Dzień Sierot
+## Światowy Dzień Nauki dla Pokoju i Rozwoju
 
-Dzieci porzucone, albo te, które straciły rodziców w różnych okolicznościach potrzebują miłości jak każdy człowiek. Światowy Dzień Sierot zwraca uwagę na potrzeby maluchów. Niektórzy ludzie w tym dniu podejmują decyzję o przygarnięciu młodego człowieka z domu dziecka, a w innych ta myśl zaczyna dopiero kiełkować.
+To święto ma za zadanie podkreślać zaangażowanie UNESCO w rozwój i propagowanie nauki. Ustanowiono je na Konferencji Generalnej ONZ do Spraw Oświaty, Nauki i Kultury w 2001 roku.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-sierot)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-nauki-dla-pokoju-i-rozwoju)
 
 ---
 
 
-*Last updated: 2026-11-09 03:16:33 Europe/Warsaw*
+*Last updated: 2026-11-10 04:54:06 Europe/Warsaw*
