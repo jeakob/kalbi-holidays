@@ -1,30 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**November 10, 2026**
+**November 11, 2026**
 
-## Dzień Jeża
+## Japoński Dzień Singli
 
-Bohater tego święta przesypia je w stercie liści, z sercem bijącym dwadzieścia razy na minutę. Dzień Jeża wyrósł z polskiej edukacji ekologicznej i przypomina, jak pomóc jeżom przetrwać zimę. Sprawdź, kiedy sprzątać liście, czego jeżom nie dawać i kiedy zdrowego jeża zostawić w spokoju.
+W Japonii oraz Chinach 11 listopada jest Dniem Singla, ponieważ data składa się z samych jedynek. Zwyczaj ten zapoczątkowali studenci Nankińskiego Uniwersytetu Pedagogicznego w 1990 roku. Wbrew pozorom w Dzień Singli Azjaci chętnie umawiają się na randki...»
 
-[Learn more](https://www.kalbi.pl/dzien-jeza)
-
----
-
-## Dzień Młodzieży
-
-W Dniu Młodzieży głośno mówi się o aktualnych problemach i wyzwaniach, z którymi muszą się mierzyć młodzi ludzie. Są to między innymi kłopoty na rynku pracy, wpływ młodzieży na możliwość globalnego rozwoju czy jakość życia nastolatków w dzisiejszych czasach.
-
-[Learn more](https://www.kalbi.pl/dzien-mlodziezy)
+[Learn more](https://www.kalbi.pl/japonski-dzien-singli)
 
 ---
 
-## Światowy Dzień Nauki dla Pokoju i Rozwoju
+## Święto Orderu Virtuti Militari
 
-To święto ma za zadanie podkreślać zaangażowanie UNESCO w rozwój i propagowanie nauki. Ustanowiono je na Konferencji Generalnej ONZ do Spraw Oświaty, Nauki i Kultury w 2001 roku.
+Virtuti Militari to najstarszy order wojskowy przyznawany na świecie. Ustanowił go król Stanisław August Poniatowski 22 czerwca 1792 dla uczczenia zwycięstwa Polaków z wojskami rosyjskimi w bitwie pod Zieleńcami
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-nauki-dla-pokoju-i-rozwoju)
+[Learn more](https://www.kalbi.pl/swieto-orderu-virtuti-militari)
 
 ---
 
 
-*Last updated: 2026-11-10 05:27:14 Europe/Warsaw*
+*Last updated: 2026-11-11 02:36:54 Europe/Warsaw*
