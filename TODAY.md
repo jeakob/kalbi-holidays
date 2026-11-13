@@ -1,38 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**November 12, 2026**
+**November 13, 2026**
 
-## Światowy Dzień Ergonomii
+## Międzynarodowy Dzień Niewidomych
 
-Głównym zadaniem ergonomii jest ułatwienie człowiekowi życia - tak by wszystko co nas otacza i z czego korzystamy na co dzień było wygodne i łatwe w obsłudze. Święto pojawiło się w kalendarzu w 2005 roku.
+Międzynarodowy Dzień Niewidomych to czas, kiedy zaznajamia się pełnosprawnych ludzi z przeszkodami, które na swojej drodze każdego dnia spotykają niewidomi. Wiele budynków nie jest dostosowanych do potrzeb takich osób, a ludzie z psem przewodnikiem są wypraszani ze sklepów. To musi się zmienić, ale tylko szerzenie wiedzy o potrzebach niewidomych może doprowadzić do zmian.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-ergonomii)
-
----
-
-## Światowy Dzień Zapalenia Płuc
-
-To wydarzenie zapoczątkowane zostało przez Światową Koalicję przeciwko Zapaleniu Płuc u Dzieci. Ta choroba jest szczególnie niebezpieczna dla najmłodszych, dlatego Światowy Dzień Zapalenia Płuc ukierunkowany jest na podnoszenie świadomości na temat skutecznej profilaktyki i leczenia.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zapalenia-pluc)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-niewidomych)
 
 ---
 
-## Światowy Dzień Drwala
+## Dzień Placków Ziemniaczanych
 
-Jeśli wytypowalibyśmy męski zawód, który wzbudza u kobiet najwięcej pożądania, to drwal z pewnością byłby w czołówce. Stereotypowy drwal to bowiem silny, krzepki, odważny i tajemniczy mężczyzna... Dziś warto życzyć im wszystkiego najlepszego – choćby sukcesów naszym rodakom w Mistrzostwach Świata Drwali.
+Śmietana, jogurt, cukier, dżem, majonez? Co dziś położysz na placki ziemniaczane? Bo to oczywiste, że 13 listopada należy przyrządzić albo chociaż zjeść potrawę, która znana była już w XVII wieku.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-drwala)
-
----
-
-## Światowy Dzień Jakości
-
-To święto zainicjowane w 1989 roku przez trzy główne międzynarodowe organizacje do spraw jakości: Amerykańskie Stowarzyszenie do spraw Jakości, Europejską Organizację Jakości oraz Unię Japońskich Naukowców i Inżynierów. Celem tego projektu jest podkreślenie znaczenia jakości i jej nieustającej kontroli.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-jakosci)
+[Learn more](https://www.kalbi.pl/dzien-plackow-ziemniaczanych)
 
 ---
 
+## Święto Służby Uzbrojenia i Elektroniki
 
-*Last updated: 2026-11-12 04:31:29 Europe/Warsaw*
+Minister Obrony Narodowej Święto Służby Uzbrojenia i Elektroniki ustanowił na dzień 13 listopada. Jest to nawiązanie do powołania Departamentu Techniczno-Artyleryjskiego w 1918 roku, którego spadkobiercą jest dzisiejsze Szefostwo Służby Uzbrojenia i Elektroniki.
+
+[Learn more](https://www.kalbi.pl/swieto-sluzby-uzbrojenia-i-elektroniki)
+
+---
+
+## Światowy Dzień Dobroci
+
+Warto być życzliwym dla innych nie tylko w Światowym Dniu Dobroci. Pomaganie słabszym jest wyrazem empatii i wielkiego serca. Warto promować inicjatywy mające na celu podawanie ręki drugiemu człowiekowi.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-dobroci)
+
+---
+
+## Dzień Biznesmena
+
+Dzień Biznesmena to wydarzenie dla wszystkich osób, które prowadzą interes. Własny biznes to trudna i wyboista droga, ale przy odrobienie szczęścia oraz ciężkiej pracy można osiągnąć sukces. W tym dniu biznesmeni powinni zrobić sobie jeden dzień wolnego i solidnie odpocząć.
+
+[Learn more](https://www.kalbi.pl/dzien-biznesmena)
+
+---
+
+
+*Last updated: 2026-11-13 03:17:24 Europe/Warsaw*
