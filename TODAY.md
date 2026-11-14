@@ -1,46 +1,30 @@
 # 🎉 Today's Unusual Holidays
 
-**November 13, 2026**
+**November 14, 2026**
 
-## Międzynarodowy Dzień Niewidomych
+## Światowy Dzień Cukrzycy
 
-Międzynarodowy Dzień Niewidomych to czas, kiedy zaznajamia się pełnosprawnych ludzi z przeszkodami, które na swojej drodze każdego dnia spotykają niewidomi. Wiele budynków nie jest dostosowanych do potrzeb takich osób, a ludzie z psem przewodnikiem są wypraszani ze sklepów. To musi się zmienić, ale tylko szerzenie wiedzy o potrzebach niewidomych może doprowadzić do zmian.
+Na świecie z cukrzycą żyje ponad 830 milionów osób, a prawie połowa z nich nie wie o swojej chorobie. Właśnie temu wyzwaniu odpowiada Światowy Dzień Cukrzycy: kampania powołana przez IDF i WHO w 1991 roku, dziś oficjalny dzień ONZ. Hasło wczesne działanie w cukrzycy oznacza jedno: diagnoza i opieka muszą dotrzeć do chorych, zanim rozwiną się nieodwracalne powikłania.
 
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-niewidomych)
-
----
-
-## Dzień Placków Ziemniaczanych
-
-Śmietana, jogurt, cukier, dżem, majonez? Co dziś położysz na placki ziemniaczane? Bo to oczywiste, że 13 listopada należy przyrządzić albo chociaż zjeść potrawę, która znana była już w XVII wieku.
-
-[Learn more](https://www.kalbi.pl/dzien-plackow-ziemniaczanych)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-cukrzycy)
 
 ---
 
-## Święto Służby Uzbrojenia i Elektroniki
+## Dzień Seniora
 
-Minister Obrony Narodowej Święto Służby Uzbrojenia i Elektroniki ustanowił na dzień 13 listopada. Jest to nawiązanie do powołania Departamentu Techniczno-Artyleryjskiego w 1918 roku, którego spadkobiercą jest dzisiejsze Szefostwo Służby Uzbrojenia i Elektroniki.
+Celem Ogólnopolskiego Dnia Seniora jest promowanie aktywności osób w starszym wieku oraz dążenie do ich integracji z młodszymi grupami społecznymi.
 
-[Learn more](https://www.kalbi.pl/swieto-sluzby-uzbrojenia-i-elektroniki)
-
----
-
-## Światowy Dzień Dobroci
-
-Warto być życzliwym dla innych nie tylko w Światowym Dniu Dobroci. Pomaganie słabszym jest wyrazem empatii i wielkiego serca. Warto promować inicjatywy mające na celu podawanie ręki drugiemu człowiekowi.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-dobroci)
+[Learn more](https://www.kalbi.pl/dzien-seniora)
 
 ---
 
-## Dzień Biznesmena
+## Międzynarodowy Dzień Zwalczania Nielegalnego Handlu Dobrami Kultury
 
-Dzień Biznesmena to wydarzenie dla wszystkich osób, które prowadzą interes. Własny biznes to trudna i wyboista droga, ale przy odrobienie szczęścia oraz ciężkiej pracy można osiągnąć sukces. W tym dniu biznesmeni powinni zrobić sobie jeden dzień wolnego i solidnie odpocząć.
+Dzieła Sztuki powinny być dostępne dla wszystkich, aby każdy mógł obcować z kulturą. Międzynarodowy Dzień Zwalczania Nielegalnego Handlu Dobrami Kultury ma nagłaśniać problem, który cały czas jest aktualny. Należy piętnować nielegalną sprzedaż wartościowych obrazów, ponieważ zamiast do muzeów trafiają do prywatnych kolekcji.
 
-[Learn more](https://www.kalbi.pl/dzien-biznesmena)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-zwalczania-nielegalnego-handlu-dobrami-kultury)
 
 ---
 
 
-*Last updated: 2026-11-13 04:04:18 Europe/Warsaw*
+*Last updated: 2026-11-14 02:54:54 Europe/Warsaw*
