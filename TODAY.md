@@ -1,44 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**November 15, 2026**
+**November 16, 2026**
 
-## Dzień Slipek
+## Dzień Tolerancji
 
-Akcja Kontri łącząca humor, męską bieliznę i przypomnienie o badaniach profilaktycznych.
+Święto ustanowione przez UNESCO w 1995 roku ma na celu promowanie szacunku, akceptacji i uznania bogactwa różnorodności kultur na świecie. Jest to odpowiedź na rosnącą falę wszelakiej nietolerancji, takiej jak rasizm czy antysemityzm.
 
-[Learn more](https://www.kalbi.pl/dzien-slipek)
-
----
-
-## Święto Wojskowego Centrum Geograficznego
-
-Zadaniem Wojskowego Centrum Geograficznego jest realizacja zabezpieczenia geograficznego Sił Zbrojnych RP. Wojskowi zbierają i przetwarzają informację o konkretnym terenie: tworzą mapy, produkty kartograficzne i geograficzne. Decyzję o ustanowieniu święta podjął Minister Obrony Narodowej 7 kwietnia 2009 roku.
-
-[Learn more](https://www.kalbi.pl/swieto-wojskowego-centrum-geograficznego)
+[Learn more](https://www.kalbi.pl/dzien-tolerancji)
 
 ---
 
-## Dzień Uwięzionego Pisarza
+## Dzień Służby Zagranicznej RP
 
-To święto uchwalone przez Międzynarodowe Stowarzyszenie Pisarzy PEN ma na celu pokazanie, jak niebezpieczna bywa praca dziennikarza/pisarza, który pisze prawdę w każdych okolicznościach.. Za swoją niezależność często płacą oni ogromną cenę -więzieniem, utratą zdrowia, a nawet życia.
+Święto obchodzimy 16 listopada na pamiątkę wysłania przez Józefa Piłsudskiego pierwszej depeszy zagranicznej do przywódców państw świata, która informowała o powstaniu niepodległej Polski.
 
-[Learn more](https://www.kalbi.pl/dzien-uwiezionego-pisarza)
-
----
-
-## Światowy Dzień Ubogich
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-ubogich)
-
----
-
-## Światowy Dzień Pamięci o Ofiarach Wypadków Drogowych
-
-Podczas tego dnia warto zmówić modlitwę w intencji ludzi, którzy ponieśli śmierć w wypadku drogowym. Niestety, każdego dnia w wypadkach na całym świecie ginie kilka tysięcy osób. Święto w 1993 roku zainicjowała organizacja Road Peace. W Polsce inicjatorem obchodów jest MIVA Polska i Krajowe Duszpasterstwo Kierowców.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-pamieci-o-ofiarach-wypadkow-drogowych)
+[Learn more](https://www.kalbi.pl/dzien-sluzby-zagranicznej-rp)
 
 ---
 
 
-*Last updated: 2026-11-15 03:18:06 Europe/Warsaw*
+*Last updated: 2026-11-16 02:29:45 Europe/Warsaw*
