@@ -1,22 +1,36 @@
 # 🎉 Today's Unusual Holidays
 
-**November 16, 2026**
+**November 17, 2026**
 
-## Dzień Tolerancji
+## Dzień Studenta
 
-Święto ustanowione przez UNESCO w 1995 roku ma na celu promowanie szacunku, akceptacji i uznania bogactwa różnorodności kultur na świecie. Jest to odpowiedź na rosnącą falę wszelakiej nietolerancji, takiej jak rasizm czy antysemityzm.
-
-[Learn more](https://www.kalbi.pl/dzien-tolerancji)
+[Learn more](https://www.kalbi.pl/dzien-studenta)
 
 ---
 
-## Dzień Służby Zagranicznej RP
+## Światowy Dzień Wcześniaka
 
-Święto obchodzimy 16 listopada na pamiątkę wysłania przez Józefa Piłsudskiego pierwszej depeszy zagranicznej do przywódców państw świata, która informowała o powstaniu niepodległej Polski.
+Światowy Dzień Wcześniaka to doskonała okazja, by podnosić świadomość społeczną na temat dzieci urodzonych przed planowanym terminem. W ramach święta na całym świecie podświetla się najważniejsze budynki w kolorze fioletowym, czyli kolorze wcześniaków. W Polsce wydarzenie organizuje Fundacja Wcześniak.
 
-[Learn more](https://www.kalbi.pl/dzien-sluzby-zagranicznej-rp)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-wczesniaka)
+
+---
+
+## Dzień Czarnego Kota
+
+Nawet ci, którzy nie wierzą w zabobony, są lekko wytrąceni z równowagi, gdy ich drogę przebiegnie ta ogromna, złowroga bestia. Ale czy kiedyś udowodniono jej jakieś nieszczęście? Święto wywodzi się z Włoch, gdzie czarne koty są wyjątkowo prześladowane. 17. dzień miesiąca uważany jest w Italii za najbardziej pechowy.
+
+[Learn more](https://www.kalbi.pl/dzien-czarnego-kota)
+
+---
+
+## Dzień Baklawy
+
+Dzień Baklawy to najlepsza okazja do promocji kuchni bliskowschodniej. Deser ten jest niezwykle pyszny, a jednocześnie powinien zachęcić do poznania innych wypieków oraz dań z regionu tureckiego, ormiańskiego i greckiego.
+
+[Learn more](https://www.kalbi.pl/dzien-baklawy)
 
 ---
 
 
-*Last updated: 2026-11-16 03:30:44 Europe/Warsaw*
+*Last updated: 2026-11-17 05:15:26 Europe/Warsaw*
