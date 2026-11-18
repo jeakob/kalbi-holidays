@@ -41,4 +41,4 @@ Ta choroba należy do głównych przyczyn przewlekłej chorobowości i umieralno
 ---
 
 
-*Last updated: 2026-11-18 04:14:48 Europe/Warsaw*
+*Last updated: 2026-11-18 04:59:11 Europe/Warsaw*
