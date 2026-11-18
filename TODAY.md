@@ -1,36 +1,44 @@
 # 🎉 Today's Unusual Holidays
 
-**November 17, 2026**
+**November 18, 2026**
 
-## Dzień Studenta
+## Europejski Dzień Wiedzy o Antybiotykach
 
-[Learn more](https://www.kalbi.pl/dzien-studenta)
-
----
-
-## Światowy Dzień Wcześniaka
-
-Światowy Dzień Wcześniaka to doskonała okazja, by podnosić świadomość społeczną na temat dzieci urodzonych przed planowanym terminem. W ramach święta na całym świecie podświetla się najważniejsze budynki w kolorze fioletowym, czyli kolorze wcześniaków. W Polsce wydarzenie organizuje Fundacja Wcześniak.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-wczesniaka)
+[Learn more](https://www.kalbi.pl/europejski-dzien-wiedzy-o-antybiotykach)
 
 ---
 
-## Dzień Czarnego Kota
+## Międzynarodowy Dzień Sztuki Islamu
 
-Nawet ci, którzy nie wierzą w zabobony, są lekko wytrąceni z równowagi, gdy ich drogę przebiegnie ta ogromna, złowroga bestia. Ale czy kiedyś udowodniono jej jakieś nieszczęście? Święto wywodzi się z Włoch, gdzie czarne koty są wyjątkowo prześladowane. 17. dzień miesiąca uważany jest w Italii za najbardziej pechowy.
+Międzynarodowy Dzień Sztuki Islamu to okazja, aby poszerzyć swoją wiedzę na temat kultury muzułmańskiej. Sztuka krajów arabskich charakteryzuje się bogatymi ornamentami, ale nie przedstawiają one ani ludzi, ani zwierząt. Religia miała ogromny wpływ na sztukę islamu.
 
-[Learn more](https://www.kalbi.pl/dzien-czarnego-kota)
-
----
-
-## Dzień Baklawy
-
-Dzień Baklawy to najlepsza okazja do promocji kuchni bliskowschodniej. Deser ten jest niezwykle pyszny, a jednocześnie powinien zachęcić do poznania innych wypieków oraz dań z regionu tureckiego, ormiańskiego i greckiego.
-
-[Learn more](https://www.kalbi.pl/dzien-baklawy)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sztuki-islamu)
 
 ---
 
+## Dzień Myszki Miki
 
-*Last updated: 2026-11-17 05:55:07 Europe/Warsaw*
+Dzień Myszki Miki bohaterki stworzonej ku uciesze dzieci przez Walta Disney'a to znakomita okazja do zrobienia dzieciom seansu z bajkami z udziałem kultowej myszy.
+
+[Learn more](https://www.kalbi.pl/dzien-myszki-miki)
+
+---
+
+## Dzień Systemów Informacji Geograficznej
+
+Dzień Systemów Informacji Geograficznej ma na celu promowanie w społecznościach krajowych i lokalnych technologii systemów informacji geograficznej, ponieważ to użytkownicy częściowo je tworzą mając możliwość edytowania danych na mapach, tworzenia pytań i zbierania danych.
+
+[Learn more](https://www.kalbi.pl/dzien-systemow-informacji-geograficznej)
+
+---
+
+## Światowy Dzień Przewlekłej Obturacyjnej Choroby Płuc
+
+Ta choroba należy do głównych przyczyn przewlekłej chorobowości i umieralności na świecie. Celem obchodów jest poprawa opieki nad pacjentami ora zwiększenie świadomości na temat POChP, np. jej głównych przyczyn, którymi jest m. in. zanieczyszczone powietrze i palenie tytoniu.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-przewleklej-obturacyjnej-choroby-pluc)
+
+---
+
+
+*Last updated: 2026-11-18 04:14:48 Europe/Warsaw*
