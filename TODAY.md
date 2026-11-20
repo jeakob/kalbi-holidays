@@ -1,44 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**November 18, 2026**
+**November 20, 2026**
 
-## Europejski Dzień Wiedzy o Antybiotykach
+## Dzień Uprzemysłowienia Afryki
 
-[Learn more](https://www.kalbi.pl/europejski-dzien-wiedzy-o-antybiotykach)
+Święto ustanowione zostało przez Zgromadzenie Ogólne ONZ w 1989 roku w ramach obchodów Drugiej Dekady Rozwoju Przemysłowego Afryki (1991-2000). Celem jest zachęcanie międzynarodowej społeczności do podejmowania działań na rzecz uprzemysłowienia Afryki, tak by kontynent ten mógł się właściwie rozwijać.
 
----
-
-## Międzynarodowy Dzień Sztuki Islamu
-
-Międzynarodowy Dzień Sztuki Islamu to okazja, aby poszerzyć swoją wiedzę na temat kultury muzułmańskiej. Sztuka krajów arabskich charakteryzuje się bogatymi ornamentami, ale nie przedstawiają one ani ludzi, ani zwierząt. Religia miała ogromny wpływ na sztukę islamu.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-sztuki-islamu)
+[Learn more](https://www.kalbi.pl/dzien-uprzemyslowienia-afryki)
 
 ---
 
-## Dzień Myszki Miki
+## Międzynarodowy Dzień Praw Dziecka
 
-Dzień Myszki Miki bohaterki stworzonej ku uciesze dzieci przez Walta Disney'a to znakomita okazja do zrobienia dzieciom seansu z bajkami z udziałem kultowej myszy.
+Międzynarodowy Dzień Praw Dziecka obchodzony jest 20 listopada, w rocznicę przyjęcia Deklaracji Praw Dziecka z 1959 roku oraz Konwencji o prawach dziecka z 1989 roku. Globalnie odpowiada World Children's Day; dawny wariant nazwy to Powszechny Dzień Dziecka.
 
-[Learn more](https://www.kalbi.pl/dzien-myszki-miki)
-
----
-
-## Dzień Systemów Informacji Geograficznej
-
-Dzień Systemów Informacji Geograficznej ma na celu promowanie w społecznościach krajowych i lokalnych technologii systemów informacji geograficznej, ponieważ to użytkownicy częściowo je tworzą mając możliwość edytowania danych na mapach, tworzenia pytań i zbierania danych.
-
-[Learn more](https://www.kalbi.pl/dzien-systemow-informacji-geograficznej)
+[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-praw-dziecka)
 
 ---
 
-## Światowy Dzień Przewlekłej Obturacyjnej Choroby Płuc
+## Dzień Pamięci Osób Transpłciowych
 
-Ta choroba należy do głównych przyczyn przewlekłej chorobowości i umieralności na świecie. Celem obchodów jest poprawa opieki nad pacjentami ora zwiększenie świadomości na temat POChP, np. jej głównych przyczyn, którymi jest m. in. zanieczyszczone powietrze i palenie tytoniu.
+Osoby transpłciowe muszą niemal codziennie zmagać się z bezpodstawną nienawiścią skierowaną w ich stronę. 20 listopada to dzień upamiętniający ofiary przestępstw motywowanych transfobią, który ma również na celu zwrócić uwagę na ten problem.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-przewleklej-obturacyjnej-choroby-pluc)
+[Learn more](https://www.kalbi.pl/dzien-pamieci-osob-transplciowych)
+
+---
+
+## Dzień Absurdu
+
+Dzień Absurdu to wyjątkowa data w kalendarzu dla wszystkich, których śmieszą irracjonalne historie filmowe, dziwne żarty czy niedorzeczne książkowe opowieści. W tym dniu można pleść bzdury i nikt nie powinien mieć nam tego za złe.
+
+[Learn more](https://www.kalbi.pl/dzien-absurdu)
+
+---
+
+## Światowy Dzień Tabliczki Mnożenia
+
+Światowy Dzień Tabliczki Mnożenia propaguje nabywanie wiedzy matematycznej w przyjazny dla młodego człowieka sposób. W tym dniu w niektórych szkołach organizuje się akcje, gdzie dzieci przepytują nauczycieli z tabliczki mnożenia, co sprawia, że najmłodsi przy okazji zapamiętują niektóre wyniki.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-tabliczki-mnozenia)
 
 ---
 
 
-*Last updated: 2026-11-18 04:59:11 Europe/Warsaw*
+*Last updated: 2026-11-20 03:45:53 Europe/Warsaw*
