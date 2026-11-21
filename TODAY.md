@@ -1,46 +1,46 @@
 # 🎉 Today's Unusual Holidays
 
-**November 20, 2026**
+**November 21, 2026**
 
-## Dzień Uprzemysłowienia Afryki
+## Światowy Dzień Rybołówstwa
 
-Święto ustanowione zostało przez Zgromadzenie Ogólne ONZ w 1989 roku w ramach obchodów Drugiej Dekady Rozwoju Przemysłowego Afryki (1991-2000). Celem jest zachęcanie międzynarodowej społeczności do podejmowania działań na rzecz uprzemysłowienia Afryki, tak by kontynent ten mógł się właściwie rozwijać.
+To święto zostało ustanowione, by uświadomić ludziom, że zasoby naszych jezior, rzek i mórz są ograniczone. Dlatego jeśli nadal chcemy łowić ryby, musimy robić to z głową.
 
-[Learn more](https://www.kalbi.pl/dzien-uprzemyslowienia-afryki)
-
----
-
-## Międzynarodowy Dzień Praw Dziecka
-
-Międzynarodowy Dzień Praw Dziecka obchodzony jest 20 listopada, w rocznicę przyjęcia Deklaracji Praw Dziecka z 1959 roku oraz Konwencji o prawach dziecka z 1989 roku. Globalnie odpowiada World Children's Day; dawny wariant nazwy to Powszechny Dzień Dziecka.
-
-[Learn more](https://www.kalbi.pl/miedzynarodowy-dzien-praw-dziecka)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-rybolowstwa)
 
 ---
 
-## Dzień Pamięci Osób Transpłciowych
+## Dzień Pracownika Socjalnego
 
-Osoby transpłciowe muszą niemal codziennie zmagać się z bezpodstawną nienawiścią skierowaną w ich stronę. 20 listopada to dzień upamiętniający ofiary przestępstw motywowanych transfobią, który ma również na celu zwrócić uwagę na ten problem.
+Jest to święto nie tylko pracowników socjalnych, ale wszystkich pracowników służb społecznych. Dzień 21 listopada upamiętnia spotkanie w Charzykowach w 1989 roku podczas którego Jacek Kuroń, Joanna Staręga-Piasek i inni wyznaczyli nowy kierunek działań w pomocy społecznej.
 
-[Learn more](https://www.kalbi.pl/dzien-pamieci-osob-transplciowych)
-
----
-
-## Dzień Absurdu
-
-Dzień Absurdu to wyjątkowa data w kalendarzu dla wszystkich, których śmieszą irracjonalne historie filmowe, dziwne żarty czy niedorzeczne książkowe opowieści. W tym dniu można pleść bzdury i nikt nie powinien mieć nam tego za złe.
-
-[Learn more](https://www.kalbi.pl/dzien-absurdu)
+[Learn more](https://www.kalbi.pl/dzien-pracownika-socjalnego)
 
 ---
 
-## Światowy Dzień Tabliczki Mnożenia
+## Światowy Dzień Życzliwości i Pozdrowień
 
-Światowy Dzień Tabliczki Mnożenia propaguje nabywanie wiedzy matematycznej w przyjazny dla młodego człowieka sposób. W tym dniu w niektórych szkołach organizuje się akcje, gdzie dzieci przepytują nauczycieli z tabliczki mnożenia, co sprawia, że najmłodsi przy okazji zapamiętują niektóre wyniki.
+Hallo World Day to święto wywodzące się ze Stanów Zjednoczonych. Powstało z inicjatywy braci Briana i Michaela McCormacków, którzy w 1973 roku zaprotestowali przeciwko konfliktowi zbrojnemu pomiędzy Egiptem a Izraelem. Jego idea do dziś jest niezmienna – bądźmy dla siebie życzliwi, rozwiązujmy problemy w sposób pokojowy, a nie siłowy.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-tabliczki-mnozenia)
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-zyczliwosci-i-pozdrowien)
+
+---
+
+## Światowy Dzień Telewizji
+
+Święto upamiętnia obrady pierwszego Światowego Forum Telewizji, które odbyło się w Nowym Jorku w 1996 roku. Jego celem jest przybliżenie historii telewizji oraz wpływu, jaki ma ona na nasze życie.
+
+[Learn more](https://www.kalbi.pl/swiatowy-dzien-telewizji)
+
+---
+
+## Święto Służby Czołgowo-Samochodowej
+
+Służba Czołgowo-Samochodowa powstała w 1966 roku, kiedy połączono służbę samochodową oraz techniczno-czołgową. Data święta uchwalona została natomiast 16 marca 2010 roku.
+
+[Learn more](https://www.kalbi.pl/swieto-sluzby-czolgowo-samochodowej)
 
 ---
 
 
-*Last updated: 2026-11-20 03:45:53 Europe/Warsaw*
+*Last updated: 2026-11-21 03:55:53 Europe/Warsaw*
