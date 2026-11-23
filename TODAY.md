@@ -1,46 +1,22 @@
 # 🎉 Today's Unusual Holidays
 
-**November 21, 2026**
+**November 23, 2026**
 
-## Światowy Dzień Rybołówstwa
+## Święto Wojskowej Służby Prawnej
 
-To święto zostało ustanowione, by uświadomić ludziom, że zasoby naszych jezior, rzek i mórz są ograniczone. Dlatego jeśli nadal chcemy łowić ryby, musimy robić to z głową.
+Do podstawowych zadań Wojskowej Służby Prawnej należy prawna ochrona interesów Sił Zbrojnych Rzeczypospolitej Polskiej oraz wspieranie dowódców w pełnieniu zadań służbowych zgodnie z obowiązującym stanem prawnym. Święto ustanowił Minister Obrony Narodowej dnia 8 stycznia 2007 roku.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-rybolowstwa)
-
----
-
-## Dzień Pracownika Socjalnego
-
-Jest to święto nie tylko pracowników socjalnych, ale wszystkich pracowników służb społecznych. Dzień 21 listopada upamiętnia spotkanie w Charzykowach w 1989 roku podczas którego Jacek Kuroń, Joanna Staręga-Piasek i inni wyznaczyli nowy kierunek działań w pomocy społecznej.
-
-[Learn more](https://www.kalbi.pl/dzien-pracownika-socjalnego)
+[Learn more](https://www.kalbi.pl/swieto-wojskowej-sluzby-prawnej)
 
 ---
 
-## Światowy Dzień Życzliwości i Pozdrowień
+## Dzień Fibonacciego
 
-Hallo World Day to święto wywodzące się ze Stanów Zjednoczonych. Powstało z inicjatywy braci Briana i Michaela McCormacków, którzy w 1973 roku zaprotestowali przeciwko konfliktowi zbrojnemu pomiędzy Egiptem a Izraelem. Jego idea do dziś jest niezmienna – bądźmy dla siebie życzliwi, rozwiązujmy problemy w sposób pokojowy, a nie siłowy.
+By uczcić pamięć Leonarda z Pizzy, genialnego matematyka ustanowiono Dzień Fibonacciego. Naukowiec najbardziej zasłynął z rozprawy o ciągu liczb nazwanego od jego nazwiska ciągiem Fibonacciego.
 
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-zyczliwosci-i-pozdrowien)
-
----
-
-## Światowy Dzień Telewizji
-
-Święto upamiętnia obrady pierwszego Światowego Forum Telewizji, które odbyło się w Nowym Jorku w 1996 roku. Jego celem jest przybliżenie historii telewizji oraz wpływu, jaki ma ona na nasze życie.
-
-[Learn more](https://www.kalbi.pl/swiatowy-dzien-telewizji)
-
----
-
-## Święto Służby Czołgowo-Samochodowej
-
-Służba Czołgowo-Samochodowa powstała w 1966 roku, kiedy połączono służbę samochodową oraz techniczno-czołgową. Data święta uchwalona została natomiast 16 marca 2010 roku.
-
-[Learn more](https://www.kalbi.pl/swieto-sluzby-czolgowo-samochodowej)
+[Learn more](https://www.kalbi.pl/dzien-fibonacciego)
 
 ---
 
 
-*Last updated: 2026-11-21 04:41:12 Europe/Warsaw*
+*Last updated: 2026-11-23 04:24:49 Europe/Warsaw*
